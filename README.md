@@ -1,31 +1,31 @@
-# Project Name
+# Nicolas's Professional Research Site
 
-Welcome to My page, this is the space I use to share some information about my work.
+Welcome to my research portfolio, where I showcase my work in psychology, video games, and education.
 
-## Table of Contents
+## Research Interests
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education and technology.  I am particularly interested in the psychology of games and user research experience.
 
-## Installation
+## My Videogames Research Insights
 
-[Instructions on how to "install" the game, such as downloading or cloning the repository.]
+- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+- 
+![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
-## Usage
+![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
 
-[Instructions on how to "play" the game, including any relevant keyboard or controller inputs. Consider using a command-style prompt like in classic text-based games.]
+![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
 
-## Features
+## Education
 
-[Description of the game's main features, framed as power-ups or special abilities. For example, "Boss Battle Mode: Challenge your friends to epic battles with the ultimate boss character."]
+- Publication: Education for the 21st century: https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf
+- Presentation: COEDU22 Socio Emotional Learning: https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta
+- Interview: Back when I was interviewed by Biobio: https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml
 
-## Contributing
+Include a list of your most notable presentations, such as conference talks or invited lectures, with links to the slides or recording if available.
 
-[Instructions on how to "join the team" and contribute to the game, including guidelines for code style and bug reporting. Consider using language like "level up your development skills" or "earn XP by contributing."]
+## Contact
 
-## License
+If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at fernandez.h.nicolas@gmail.com. You can also find me on https://www.linkedin.com/in/nicolas-fernandez-a6596171/.
 
-[Information about the game's license and any other relevant legal information. Consider using language like "This game is open-source and available under the [License Name] license. Join the adventure and help us make it even better!"]
+Thank you for visiting my Professional Research Site!
