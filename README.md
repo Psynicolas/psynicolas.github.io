@@ -1,12 +1,12 @@
-# Nicolas's Professional Research Site
+# Hi there! Wanna talk about games?
 
-Welcome to my research portfolio, where I showcase my work in psychology, video games, and education.
+Welcome to my portfolio, where I showcase some of my work in psychology, video games, and education.
 
 ## Research Interests
 
 My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education and technology.  I am particularly interested in the psychology of games and user research experience.
 
-## My Videogames Research Insights
+## Videogames
 
 - Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
 
