@@ -18,13 +18,18 @@ My research interests include cognitive psychology, experimental psychology, mot
 
 ## Education
 
-- Publication: Education for the 21st century: https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf
-- Presentation: COEDU22 Socio Emotional Learning: https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta
-- Interview: Back when I was interviewed by Biobio: https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml
+- Publication: Education for the 21st century: 
+https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf
+- Presentation: COEDU22 Socio Emotional Learning: 
+https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta
+- Interview: Back when I was interviewed by Biobio: 
+https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml
 
 ## Contact
 
-If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at fernandez.h.nicolas@gmail.com. You can also find me on https://www.linkedin.com/in/nicolas-fernandez-a6596171/.
+If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:
+fernandez.h.nicolas@gmail.com
+You can also find me on https://www.linkedin.com/in/nicolas-fernandez-a6596171/.
 
 Thank you for visiting my Professional Research Site!
 
