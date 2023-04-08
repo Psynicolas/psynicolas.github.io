@@ -9,7 +9,7 @@ My research interests include cognitive psychology, experimental psychology, mot
 ## My Videogames Research Insights
 
 - Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
-- 
+
 ![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
 ![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
