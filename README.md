@@ -22,8 +22,6 @@ My research interests include cognitive psychology, experimental psychology, mot
 - Presentation: COEDU22 Socio Emotional Learning: https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta
 - Interview: Back when I was interviewed by Biobio: https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml
 
-Include a list of your most notable presentations, such as conference talks or invited lectures, with links to the slides or recording if available.
-
 ## Contact
 
 If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at fernandez.h.nicolas@gmail.com. You can also find me on https://www.linkedin.com/in/nicolas-fernandez-a6596171/.
