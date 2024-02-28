@@ -15,7 +15,7 @@ My research interests include cognitive psychology, experimental psychology, mot
 ## Education
 - Evaluation Research: (2023) Results evaluation report for the "Profes en Red" program, seventh version [Informe PER 7ma](https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf)
 - Publication: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
-- Presentation: COEDU22 Socio Emotional Learning: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+- Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
 - Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
 ## Videogames
