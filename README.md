@@ -4,23 +4,19 @@ Welcome to my portfolio, where I showcase some of my work in psychology, video g
 
 ## Contact
 
-If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:
-fernandez.h.nicolas@gmail.com
-You can also find me on https://www.linkedin.com/in/nicolas-fernandez-a6596171/.
+If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
+fernandez.h.nicolas@gmail.com  
+You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
 ## Research Interests
 
-My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education and technology.  I am particularly interested in the psychology of games and user research experience.
+My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education, and technology. I am particularly interested in the psychology of games and user research experience.
 
 ## Education
-- Evaluation Research:
-https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
-- Publication: Education for the 21st century: 
-https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf
-- Presentation: COEDU22 Socio Emotional Learning: 
-https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta
-- Interview: Back when I was interviewed by Biobio: 
-https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml
+- Evaluation Research: [Informe PER 7ma](https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf)
+- Publication: Education for the 21st century: [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
+- Presentation: COEDU22 Socio Emotional Learning: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+- Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
 ## Videogames
 
