@@ -22,6 +22,9 @@ Seminar at Universidad Andres Bello (UAB)
 ![umce1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-8eaf-4eb6-aef2-cf8d96c42f14)
 Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) 
 
+![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
+Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile
+
 ## Education
 - Evaluation Research: (2023) Results evaluation report for the "Profes en Red" program, seventh version [Informe PER 7ma](https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf)
 - Publication: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
