@@ -1,6 +1,6 @@
 # Nicolas Fernandez
 
-Welcome to my portfolio, where I showcase some of my work in psychology, video games, and education.
+Welcome to my portfolio, where I showcase some of my work in psychology, video games, NGOs and education.
 
 ## Contact
 
@@ -12,6 +12,16 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education, and technology. I am particularly interested in the psychology of games and user research experience.
 
+## Seminars
+![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
+Presenting at Universidad de Santiago (USACH)
+
+![unab1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad)
+Seminar at Universidad Andres Bello (UAB)
+
+![umce1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-8eaf-4eb6-aef2-cf8d96c42f14)
+Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) 
+
 ## Education
 - Evaluation Research: (2023) Results evaluation report for the "Profes en Red" program, seventh version [Informe PER 7ma](https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf)
 - Publication: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
@@ -21,6 +31,7 @@ My research interests include cognitive psychology, experimental psychology, mot
 ## Videogames
 
 - Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
 
 ![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
