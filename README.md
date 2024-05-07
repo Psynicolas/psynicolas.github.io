@@ -14,7 +14,7 @@ My research interests include cognitive psychology, experimental psychology, mot
 
 ## Seminars
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
-Presenting at Universidad de Santiago (USACH)
+At Universidad de Santiago (USACH)
 
 ![unab1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad)
 Seminar at Universidad Andres Bello (UAB)
