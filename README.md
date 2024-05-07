@@ -1,6 +1,6 @@
 # Nicolas Fernandez
 
-Welcome to my portfolio, where I showcase some of my work in psychology, video games, NGOs and education.
+Welcome to my website, where I showcase some of my work in psychology, video games, NGOs and education.
 
 ## Contact
 
