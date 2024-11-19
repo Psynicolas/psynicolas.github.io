@@ -12,6 +12,16 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education, and technology. I am particularly interested in the psychology of games and user research experience.
 
+## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
+
+I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
+
+![4661e079-f0c4-4ac6-8510-b5e79ca51ead](https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb)
+
+Watch the Presentation 🎥
+Learn more about the project, its impact, and its future potential in my presentation at COP29:
+Watch here (Minute 3:33:30 - 3:44:41)
+
 ## Seminars
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
 At Universidad de Santiago (USACH)
