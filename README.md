@@ -20,7 +20,7 @@ I had the honor of presenting this project at the United Nations Climate Change 
 
 Watch the Presentation 🎥
 Learn more about the project, its impact, and its future potential in my presentation at COP29:
-Watch here (Minute 3:33:30 - 3:44:41)
+Watch here: https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:33:30 - 3:44:41)
 
 ## Seminars
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
