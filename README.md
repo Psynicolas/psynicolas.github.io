@@ -9,14 +9,12 @@ If you have any questions or would like to discuss potential collaborations or o
 fernandez.h.nicolas@gmail.com  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
-
 ## 🌟 Core Expertise  
 - **Educational Psychology**
 - **Socioemotional Learning & Coaching** (PUC Certified)  
 - **Behavioral Science Research** (FONDECYT Grants)  
 - **Game-Based Learning Design**  
 - **AI for Social Impact** (COP29 Presenter) 
-
 
 ## 🚀 Signature Projects  
 
@@ -54,12 +52,15 @@ Research Report:
 ![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
 
 **2. UNESCO-Certified Teacher Training**  
-- Led **"Profes en Red"** program (85% completion rate)  
+PROFES EN RED: https://caserta.cl/profes-en-red/
+![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
+
+- Led **"Profes en Red"** program  
 - Featured:  
   - Gamified microlearning modules  
   - Modules on: Socioemotional Learning, Intercultural Learning, Holsitic Education, Innovation, Education & Technology  
   - Cross-cultural adaptations for 10+ countries  
-- Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
+- Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
 ## 🧠 Research & Thought Leadership  
 **Publications:**
@@ -68,7 +69,7 @@ Research Report:
 - Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
 - Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
-## Seminars
+## Speaker at:
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
 At Universidad de Santiago (USACH)
 
