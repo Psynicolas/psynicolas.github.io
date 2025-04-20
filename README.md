@@ -21,7 +21,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 https://ayni-ia.com/
 
 ### **Ayni IA - AI for Educational Equity**  
-*Presented at UN Climate Change Conference (COP29)*  
+*Presented at UN Climate Change Conference (COP29) (2024)*  
 - Designed Latin America's first Spanish-language AI mentor for teachers  
 - Integrated **socioemotional support** with digital pedagogy  
 - **25% increase** in educator confidence with new technologies
@@ -71,16 +71,16 @@ PROFES EN RED: https://caserta.cl/profes-en-red/
 
 ## Speaker at:
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
-At Universidad de Santiago (USACH)
+At Universidad de Santiago (USACH) (2020)
 
 ![unab1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad)
-Seminar at Universidad Andres Bello (UAB)
+Seminar at Universidad Andres Bello (UAB) (2021)
 
 ![umce1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-8eaf-4eb6-aef2-cf8d96c42f14)
-Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) 
+Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021) 
 
 ![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
-Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile
+Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)
 
 ## 🛠️ Methodological Toolkit  
 | **Learning Science**       | **Technology**          | **Human Development**    |  
