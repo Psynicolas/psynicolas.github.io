@@ -85,9 +85,9 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 ## 🛠️ Methodological Toolkit  
 | **Learning Science**       | **Technology**          | **Human Development**    |  
 |----------------------------|-------------------------|--------------------------|  
-| Self-Determination Theory  | AI-Assisted Design      | Socioemotional Coaching  |  
-| Competency Mapping         | Figma/Supademo         | Trauma-Informed Practice |  
-| Play-Based Pedagogy        | LMS Platforms          | Intercultural Adaptation |  
+| Psychology Theory          | AI-Assisted Design      | Socioemotional Coaching  |  
+| Competency Mapping         | SPSS/R Statistical S    | Trauma-Informed Practice |  
+| Play-Based Pedagogy        | LMS Platforms           | Intercultural Adaptation |  
 
 ---
 
