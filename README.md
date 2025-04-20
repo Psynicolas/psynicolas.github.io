@@ -57,8 +57,8 @@ PROFES EN RED: https://caserta.cl/profes-en-red/
 
 - Led **"Profes en Red"** program  
 - Featured:  
-  - Gamified microlearning modules  
-  - Modules on: Socioemotional Learning, Intercultural Learning, Holsitic Education, Innovation, Education & Technology  
+  - Synchronous and asynchronous modules  
+  - Modules on: Socioemotional Learning, Intercultural Learning, Innovation, Education & Technology  
   - Cross-cultural adaptations for 10+ countries  
 - Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
