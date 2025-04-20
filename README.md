@@ -1,6 +1,7 @@
-# Nicolas Fernandez
+# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD Candidate
 
-Welcome to my website, where I showcase some of my work in psychology, video games, NGOs and education.
+**Learning Scientist & Transformative Education Designer**  
+*Bridging psychology, game theory, and technology to create human-centered learning experiences*
 
 ## Contact
 
@@ -8,9 +9,24 @@ If you have any questions or would like to discuss potential collaborations or o
 fernandez.h.nicolas@gmail.com  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
-## Research Interests
 
-My research interests include cognitive psychology, experimental psychology, motivation theory, video games, education, and technology. I am particularly interested in the psychology of games and user research experience.
+## 🌟 Core Expertise  
+- **Educational Psychology**
+- **Socioemotional Learning & Coaching** (PUC Certified)  
+- **Behavioral Science Research** (FONDECYT Grants)  
+- **Game-Based Learning Design**  
+- **AI for Social Impact** (COP29 Presenter) 
+
+
+## 🚀 Signature Projects  
+
+https://ayni-ia.com/
+
+### **Ayni IA - AI for Educational Equity**  
+*Presented at UN Climate Change Conference (COP29)*  
+- Designed Latin America's first Spanish-language AI mentor for teachers  
+- Integrated **socioemotional support** with digital pedagogy  
+- **25% increase** in educator confidence with new technologies
 
 ## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
 
@@ -21,6 +37,35 @@ I had the honor of presenting this project at the United Nations Climate Change 
 Watch the Presentation 🎥
 Learn more about the project, its impact, and its future potential in my presentation at COP29:
 Watch here: https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:33:30 - 3:44:41)
+
+[2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
+
+### **Playful Learning Initiatives**  
+**1. Gamer Motivation Study (2023)**  
+- Applied **Self-Determination Theory** to 500+ Chilean gamers  
+- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
+
+![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
+
+![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
+
+![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
+
+**2. UNESCO-Certified Teacher Training**  
+- Led **"Profes en Red"** program (85% completion rate)  
+- Featured:  
+  - Gamified microlearning modules  
+  - Modules on: Socioemotional Learning, Intercultural Learning, Holsitic Education, Innovation, Education & Technology  
+  - Cross-cultural adaptations for 10+ countries  
+- Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
+
+## 🧠 Research & Thought Leadership  
+**Publications:**
+
+- Published Book: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
+- Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+- Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
 ## Seminars
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
@@ -35,22 +80,19 @@ Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE)
 ![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
 Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile
 
-## Education
-- Evaluation Research: (2023) Results evaluation report for the "Profes en Red" program, seventh version [Informe PER 7ma](https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf)
-- Published Book: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
-- Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
-- Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
+## 🛠️ Methodological Toolkit  
+| **Learning Science**       | **Technology**          | **Human Development**    |  
+|----------------------------|-------------------------|--------------------------|  
+| Self-Determination Theory  | AI-Assisted Design      | Socioemotional Coaching  |  
+| Competency Mapping         | Figma/Supademo         | Trauma-Informed Practice |  
+| Play-Based Pedagogy        | LMS Platforms          | Intercultural Adaptation |  
 
-## Videogames
+---
 
-- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
-[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
+"*Great learning experiences honor the whole human - cognitive, emotional, and social.*"  
 
-![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
+📩 Let's discuss how psychological science can transform digital education!  
 
-![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
 
-![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
-
-Thank you for visiting my Professional Research Site!
+Thank you for visiting my Professional Site!
 
