@@ -88,10 +88,9 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Psychology Theory          | AI-Assisted Design      | Socioemotional Coaching  |  
 | Competency Mapping         | SPSS/R Statistical S    | Trauma-Informed Practice |  
 | Play-Based Pedagogy        | LMS Platforms           | Intercultural Adaptation |  
-
++Qualitative & Quantitative Research Methods
 ---
 
-"*Great learning experiences honor the whole human - cognitive, emotional, and social.*"  
 
 📩 Let's discuss how psychological science can transform digital education!  
 
