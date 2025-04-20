@@ -82,13 +82,13 @@ Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)
 ![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
 Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)
 
-## 🛠️ Methodological Toolkit  
-| **Learning Science**       | **Technology**          | **Human Development**    |  
+## 🛠️ Methodological Toolkit
+| **Learning Science**       | **Technology**          | **Applied Research**    |  
 |----------------------------|-------------------------|--------------------------|  
-| Psychology Theory          | AI-Assisted Design      | Socioemotional Coaching  |  
-| Competency Mapping         | SPSS/R Statistical S    | Trauma-Informed Practice |  
-| Play-Based Pedagogy        | LMS Platforms           | Intercultural Adaptation |  
-+Qualitative & Quantitative Research Methods
+| Psychology Theory          | AI-Assisted Design      | Project Evaluation      |  
+| Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
+| Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
+
 ---
 
 
