@@ -10,10 +10,10 @@ fernandez.h.nicolas@gmail.com
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
 ## 🌟 Core Expertise  
-- **Educational Psychology**
+- **Educational Psychology** (+7 years of experience)
 - **Socioemotional Learning & Coaching** (PUC Certified)  
 - **Behavioral Science Research** (FONDECYT Grants)  
-- **Game-Based Learning Design**  
+- **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
 ## 🚀 Signature Projects  
