@@ -40,18 +40,8 @@ Research Report:
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
 ### **Playful Learning Initiatives**  
-**1. Gamer Motivation Study (2023)**  
-- Applied **Self-Determination Theory** to 500+ Chilean gamers  
-- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
-[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
 
-![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
-
-![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
-
-![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
-
-**2. UNESCO-Certified Teacher Training**  
+** Teacher Training**  
 PROFES EN RED: https://caserta.cl/profes-en-red/
 ![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
 
@@ -88,6 +78,18 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Psychology Theory          | AI-Assisted Design      | Project Evaluation      |  
 | Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
 | Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
+
+
+** Gamer Motivation Study (2023)**  
+- Applied **Self-Determination Theory** to 500+ Chilean gamers  
+- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
+
+![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
+
+![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
+
+![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
 
 ---
 
