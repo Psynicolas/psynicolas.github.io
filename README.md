@@ -16,7 +16,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
-## 🚀 Signature Projects  
+/## 🚀 Signature Projects  
 
 https://ayni-ia.com/
 
@@ -26,7 +26,7 @@ https://ayni-ia.com/
 - Integrated **socioemotional support** with digital pedagogy  
 - **25% increase** in educator confidence with new technologies
 
-## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
+/## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
 
 I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
 
