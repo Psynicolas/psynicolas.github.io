@@ -1,5 +1,29 @@
 # Nicolas Fernandez, Psychologist, Msc in Social Research, PhD Candidate
 
+
+# [Tu Nombre]  
+
+## Proyectos Destacados  
+
+<div class="project-card">
+  <h3>🤖 Ayni IA</h3>
+  <img src="images/ayni-demo.png" width="500">
+  <p>Asistente de IA para docentes (presentado en COP29)</p>
+  <details>
+    <summary>🔍 Ver caso de estudio</summary>
+    - **Resultados**: 25% más confianza en uso de tecnología  
+    - **Mi rol**: Entrenamiento de LLM + diseño pedagógico  
+    - [📰 Artículo en El Mostrador](link)  
+  </details>
+</div>
+
+
+
+
+
+
+
+
 **Learning Scientist & Transformative Education Designer**  
 *Bridging psychology, game theory, and technology to create human-centered learning experiences*
 
