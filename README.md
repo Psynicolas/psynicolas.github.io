@@ -43,7 +43,7 @@ Research Report:
 
 ### **Playful Learning Initiatives**  
 
-** Teacher Training**  
+**Teacher Training**  
 PROFES EN RED: https://caserta.cl/profes-en-red/
 ![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
 
