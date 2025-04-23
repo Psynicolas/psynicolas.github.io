@@ -51,22 +51,22 @@ I had the honor of presenting this project at the United Nations Climate Change 
 - Integrated **socioemotional support** with digital pedagogy  
 - **25% increase** in educator confidence with new technologies
 
-Watch the Presentation 🎥
+**Watch the Presentation 🎥**
 Learn more about the project, its impact, and its future potential in my presentation at COP29:
 
-Watch here: 
+**Watch here:** 
 https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:33:30 - 3:44:41)
 
-Research Report:
+**Research Report:**
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
 ## 🧠 Research & Publications  
 
-- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+- **Fernandez, N. (2023) Understanding gamers' motivations:** an analysis of young chilean gamers using the self determination theory.
 [Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
-- Published Book: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
-- Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
-- Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
+- **Published Book: (2021) Education for the 21st century:**  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
+- **Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:** [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+- **Interview: Back when I was interviewed by Biobio:** [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
 ## Conferences and Seminars:
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
