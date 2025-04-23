@@ -96,6 +96,9 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
 | Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
+## 🛠️ My Framework: Learning Theories
+
+![Learning theories](https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0)
 
 
 
