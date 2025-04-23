@@ -16,7 +16,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
-### Portfolio
+## Portfolio
 
 [Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19864358/Portfolio-Nicolas.Fernandez.pdf)
 
