@@ -54,9 +54,7 @@ https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:3
 Research Report:
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
-
-## 🧠 Research & Thought Leadership  
-**Publications:**
+## 🧠 Research & Publications  
 
 - Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
 [Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
