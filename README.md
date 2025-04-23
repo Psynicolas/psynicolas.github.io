@@ -16,9 +16,22 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
+## Portfolio
+
+[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19864358/Portfolio-Nicolas.Fernandez.pdf)
+
 ## 🚀 Signature Projects  
 
-https://ayni-ia.com/
+**Teacher Training Program**  
+PROFES EN RED: https://caserta.cl/profes-en-red/
+![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
+
+- Led **"Profes en Red"** program  
+- Featured:  
+  - Synchronous and asynchronous modules  
+  - Modules on: Socioemotional Learning, Intercultural Learning, Innovation, Education & Technology  
+  - Cross-cultural adaptations for 10+ countries  
+- Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
 ### **Ayni IA - AI for Educational Equity**  
 *Presented at UN Climate Change Conference (COP29) (2024)*  
@@ -41,22 +54,12 @@ https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:3
 Research Report:
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
-### **Playful Learning Initiatives**  
-
-**Teacher Training**  
-PROFES EN RED: https://caserta.cl/profes-en-red/
-![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
-
-- Led **"Profes en Red"** program  
-- Featured:  
-  - Synchronous and asynchronous modules  
-  - Modules on: Socioemotional Learning, Intercultural Learning, Innovation, Education & Technology  
-  - Cross-cultural adaptations for 10+ countries  
-- Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
 ## 🧠 Research & Thought Leadership  
 **Publications:**
 
+- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
+[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
 - Published Book: (2021) Education for the 21st century:  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
 - Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
 - Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
@@ -82,10 +85,8 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
 
-* Gamer Motivation Study (2023)* 
+- * Gamer Motivation Study (2023)* 
 - Applied **Self-Determination Theory** to 500+ Chilean gamers  
-- Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
-[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
 
 ![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
