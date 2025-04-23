@@ -1,4 +1,4 @@
-# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD Candidate
+# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD(c)
 
 **Learning Scientist & Transformative Education Designer**  
 *Bridging psychology, game theory, and technology to create human-centered learning experiences*
