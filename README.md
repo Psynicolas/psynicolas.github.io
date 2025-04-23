@@ -22,7 +22,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 ## 🚀 Signature Projects  
 
-**Teacher Training Program**  
+## **Teacher Training Program**  
 PROFES EN RED: https://caserta.cl/profes-en-red/
 ![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
 
@@ -33,17 +33,14 @@ PROFES EN RED: https://caserta.cl/profes-en-red/
   - Cross-cultural adaptations for 10+ countries  
 - Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
-### **Ayni IA - AI for Educational Equity**  
-*Presented at UN Climate Change Conference (COP29) (2024)*  
-- Designed Latin America's first Spanish-language AI mentor for teachers  
-- Integrated **socioemotional support** with digital pedagogy  
-- **25% increase** in educator confidence with new technologies
-
 ## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
 
 I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
 
 ![4661e079-f0c4-4ac6-8510-b5e79ca51ead](https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb)
+
+- Integrated **socioemotional support** with digital pedagogy  
+- **25% increase** in educator confidence with new technologies
 
 Watch the Presentation 🎥
 Learn more about the project, its impact, and its future potential in my presentation at COP29:
