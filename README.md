@@ -20,7 +20,8 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 ## Portfolio
 
 You can explore my full portfolio of instructional & learning design work and research here:
-[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866015/Portfolio-Nicolas.Fernandez.pdf)
+
+[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
 
 
 ## 🚀 Signature Projects  
