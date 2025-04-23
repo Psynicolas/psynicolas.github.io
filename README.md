@@ -35,6 +35,13 @@ PROFES EN RED: https://caserta.cl/profes-en-red/
 
 ## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
 
+*What is Ayni-AI?*
+An AI-powered virtual assistant to support Latin American teachers in planning, emotional well-being, and adopting innovative pedagogical practices. 
+*Role in Ayni Project*
+Project manager and creation of the documents to train the assistant.
+*Pilot testing of Ayni*
+After being piloted with 200 Latin-American teachers, a pre-post survey revealed an improvement of teachers disposition towards AI by 20%.
+
 I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
 
 ![4661e079-f0c4-4ac6-8510-b5e79ca51ead](https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb)
@@ -72,13 +79,6 @@ Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)
 ![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
 Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)
 
-## 🛠️ Methodological Toolkit
-| **Learning Science**       | **Technology**          | **Applied Research**    |  
-|----------------------------|-------------------------|--------------------------|  
-| Psychology Theory          | AI-Assisted Design      | Project Evaluation      |  
-| Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
-| Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
-
 
 ## Game Research & Gamification
 
@@ -87,12 +87,15 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 ![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
 
 
+## 🛠️ Methodological Toolkit
+| **Learning Science**       | **Technology**          | **Applied Research**    |  
+|----------------------------|-------------------------|--------------------------|  
+| Psychology Theory          | AI-Assisted Design      | Project Evaluation      |  
+| Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
+| Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
-![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
-![2](https://user-images.githubusercontent.com/130244104/230736845-9f85ea26-953b-46f3-b0a9-4093402e9591.jpg)
 
-![3](https://user-images.githubusercontent.com/130244104/230736846-b3a3f72f-2df9-4d64-b273-931519e49671.jpg)
 
 ---
 
