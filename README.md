@@ -82,7 +82,7 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
 
-** Gamer Motivation Study (2023)**  
+* Gamer Motivation Study (2023)* 
 - Applied **Self-Determination Theory** to 500+ Chilean gamers  
 - Fernandez, N. (2023) Understanding gamers' motivations: an analysis of young chilean gamers using the self determination theory.
 [Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
