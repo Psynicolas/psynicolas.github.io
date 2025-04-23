@@ -28,7 +28,8 @@ You can explore my full portfolio of instructional & learning design work and re
 ## **Project: Teacher Training Program**  
 PROFES EN RED: https://caserta.cl/profes-en-red/
 
-![image](https://github.com/user-attachments/assets/c990549c-4b75-4f7c-8fc0-d323dea347f2)
+![image](https://github.com/user-attachments/assets/c4d323fa-3427-4406-b9f3-50f82deaf346)
+
   
 - Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
