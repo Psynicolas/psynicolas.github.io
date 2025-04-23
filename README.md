@@ -80,8 +80,13 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 | Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
 
-- * Gamer Motivation Study (2023)* 
-- Applied **Self-Determination Theory** to 500+ Chilean gamers  
+## Game Research & Gamification
+
+- Applied **Self-Determination Theory survey** to 500+ Chilean gamers  
+
+![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
+
+
 
 ![1](https://user-images.githubusercontent.com/130244104/230736844-c7030214-1197-43a5-824e-ef6e5e9c2c0a.jpg)
 
