@@ -6,7 +6,7 @@
 ## Contact
 
 If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
-fernandez.h.nicolas@gmail.com  
+nicolas.fh.psy@gmail.com  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
 ## 🌟 Core Expertise  
