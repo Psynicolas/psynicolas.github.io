@@ -26,7 +26,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 PROFES EN RED: https://caserta.cl/profes-en-red/
 ![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
 
-- Led **"Profes en Red"** program  
+- Led Course Design and Research  
 - Featured:  
   - Synchronous and asynchronous modules  
   - Modules on: Socioemotional Learning, Intercultural Learning, Innovation, Education & Technology  
