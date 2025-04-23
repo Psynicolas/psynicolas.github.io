@@ -16,21 +16,20 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
+
 ## Portfolio
 
-[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19864358/Portfolio-Nicolas.Fernandez.pdf)
+You can explore my full portfolio of instructional & learning design work and research here:
+[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866015/Portfolio-Nicolas.Fernandez.pdf)
+
 
 ## 🚀 Signature Projects  
 
 ## **Project: Teacher Training Program**  
 PROFES EN RED: https://caserta.cl/profes-en-red/
-![Captura de pantalla 2025-04-20 150552](https://github.com/user-attachments/assets/057cf243-62f8-45c2-9b84-b58836b0b5e3)
 
-- Led Course Design and Research  
-- Featured:  
-  - Synchronous and asynchronous modules  
-  - Modules on: Socioemotional Learning, Intercultural Learning, Innovation, Education & Technology  
-  - Cross-cultural adaptations for 10+ countries  
+![image](https://github.com/user-attachments/assets/c990549c-4b75-4f7c-8fc0-d323dea347f2)
+  
 - Evaluation Research Report: https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf
 
 ## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
@@ -69,7 +68,7 @@ Research Report:
 - Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel: [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
 - Interview: Back when I was interviewed by Biobio: [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
-## Speaker at:
+## Conferences and Seminars:
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
 At Universidad de Santiago (USACH) (2020)
 
