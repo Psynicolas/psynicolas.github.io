@@ -35,13 +35,16 @@ PROFES EN RED: https://caserta.cl/profes-en-red/
 
 ## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
 
-*What is Ayni-AI?*
+**What is Ayni-AI?**
 An AI-powered virtual assistant to support Latin American teachers in planning, emotional well-being, and adopting innovative pedagogical practices. 
-*Role in Ayni Project*
+
+**Role in Ayni Project**
 Project manager and creation of the documents to train the assistant.
-*Pilot testing of Ayni*
+
+**Pilot testing of Ayni**
 After being piloted with 200 Latin-American teachers, a pre-post survey revealed an improvement of teachers disposition towards AI by 20%.
 
+**Speaker at COP29**
 I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
 
 ![4661e079-f0c4-4ac6-8510-b5e79ca51ead](https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb)
