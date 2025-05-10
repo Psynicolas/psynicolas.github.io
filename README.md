@@ -59,7 +59,9 @@ I had the honor of presenting this project at the United Nations Climate Change 
 Learn more about the project, its impact, and its future potential in my presentation at COP29:
 
 **Watch here:** 
-https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s (Minute 3:33:30 - 3:44:41)
+https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s
+
+(Minute 3:33:30 - 3:44:41)
 
 **Research Report:**
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
@@ -91,14 +93,6 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 - Applied **Self-Determination Theory survey** to 500+ Chilean gamers  
 
 ![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
-
-
-## 🛠️ Methodological Toolkit
-| **Learning Science**       | **Technology**          | **Applied Research**    |  
-|----------------------------|-------------------------|--------------------------|  
-| Psychology Theory          | AI-Assisted Design      | Project Evaluation      |  
-| Competency Mapping         | SPSS/R Statistical S    | Qualitative & Quantitative |  
-| Play-Based Pedagogy        | LMS Platforms           | Coaching & Mentoring |  
 
 ## 🛠️ My Framework: Learning Theories
 
