@@ -1,7 +1,5 @@
 # Nicolas Fernandez / PhD in Edtech(c) / Master in Social Research / Psychologist / Certified Coach
-
 ![Picture2](https://github.com/user-attachments/assets/a0371093-0247-46b5-bddf-73b2b6e30335)
-
 # About me
 Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.
 
