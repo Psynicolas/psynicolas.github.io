@@ -1,4 +1,4 @@
-# Nicolas Fernandez/ Psychologist/ Msc in Social Research/ PhD in Edtech(c)
+# Nicolas Fernandez / Msc in Social Research / PhD in Edtech(c) / Psychologist / Certified Coach
 
 ## Contact
 
