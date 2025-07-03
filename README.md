@@ -21,9 +21,7 @@ You can explore my full portfolio of instructional & learning design work and re
 
 ## **Project: Teacher Training Program**  
 "Profes en Red" Program
-• A Latin American teacher empowerment initiative reaching +1000 educators across 10 countries.
-• 6-year longitudinal study on learning impact.
-• Objective: Develop 21st-century educators through, Socioemotional skills training, Sustainable development education, Technology innovation and Collaborative peer networks.
+A Latin American teacher empowerment initiative reaching +1000 educators across 10 countries. 6+ years longitudinal study on learning impact. Objective: Develop 21st-century educators through, Socioemotional skills training, Sustainable development education, Technology innovation and Collaborative peer networks.
 
 [https://caserta.cl/profes-en-red/](https://caserta.cl/profes-en-red/)
 
