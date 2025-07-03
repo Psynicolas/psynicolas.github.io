@@ -1,7 +1,4 @@
-# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD(c)
-
-**Learning Scientist & Transformative Education Designer**  
-*Bridging psychology, game theory, and technology to create human-centered learning experiences*
+# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD in Edtech(c)
 
 ## Contact
 
@@ -9,20 +6,27 @@ If you have any questions or would like to discuss potential collaborations or o
 nicolas.fh.psy@gmail.com  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
+**LEARNING DESIGNER / INSTRUCTIONAL DESIGNER**  
+*Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. Expert in AI for education, human-centered research, and adult learning. Designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.*
+
+## Portfolio
+
+You can explore my full portfolio of instructional & learning design work and research here:
+
+General Portfolio
+[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
+
+Case Study Portfolio
+[Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
+
+
+
 ## 🌟 Core Expertise  
 - **Educational Psychology** (+7 years of experience)
 - **Socioemotional Learning & Coaching** (PUC Certified)  
 - **Behavioral Science Research** (FONDECYT Grants)  
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
-
-
-## Portfolio
-
-You can explore my full portfolio of instructional & learning design work and research here:
-
-[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
-
 
 ## 🚀 Signature Projects  
 
@@ -102,6 +106,11 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 
 ---
 
+## Contact
+
+If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
+nicolas.fh.psy@gmail.com  
+You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
 📩 Let's discuss how psychological science can transform digital education!  
 
