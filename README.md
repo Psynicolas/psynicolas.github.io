@@ -16,11 +16,13 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 You can explore my full portfolio of instructional & learning design work and research here:
 
+Case Study Portfolio
+[Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
+
 General Portfolio
 [Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
 
-Case Study Portfolio
-[Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
+
 
 
 ## Core Expertise  
