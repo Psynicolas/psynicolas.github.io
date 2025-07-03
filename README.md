@@ -1,12 +1,5 @@
 # Nicolas Fernandez / PhD in Edtech(c) / Master in Social Research / Psychologist / Certified Coach
 
-
-## Contact
-
-If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
-nicolas.fh.psy@gmail.com  
-You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
-
 ## About me
 Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.
 
