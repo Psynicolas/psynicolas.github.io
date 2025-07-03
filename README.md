@@ -6,8 +6,8 @@ If you have any questions or would like to discuss potential collaborations or o
 nicolas.fh.psy@gmail.com  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
 
-**LEARNING DESIGNER / INSTRUCTIONAL DESIGNER**  
-*Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. Expert in AI for education, human-centered research, and adult learning. Designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.*
+## About me
+* Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.*
 
 ## Portfolio
 
@@ -21,15 +21,6 @@ You can explore my full portfolio of instructional & learning design work and re
 
 **E-learning Course Guide Content Sample**
 [E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
-
-
-## Core Expertise  
-- **Educational Psychology** (+7 years of experience)
-- **Socioemotional Learning & Coaching** (PUC Certified)  
-- **Behavioral Science Research** (FONDECYT Grants)  
-- **Innovation in Learning Design** (Profes en Red Project)  
-- **AI for Social Impact** (COP29 Presenter) 
-
 
 
 ## Signature Projects  
