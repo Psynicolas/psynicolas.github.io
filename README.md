@@ -1,4 +1,7 @@
-# Nicolas Fernandez, Psychologist, Msc in Social Research, PhD in Edtech(c)
+# Nicolas Fernandez
+# Psychologist
+# Msc in Social Research
+# PhD in Edtech(c)
 
 ## Contact
 
