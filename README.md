@@ -24,6 +24,7 @@ You can explore my full portfolio of instructional & learning design work and re
 [https://caserta.cl/profes-en-red/](https://caserta.cl/profes-en-red/)
 
 ![image](https://github.com/user-attachments/assets/c4d323fa-3427-4406-b9f3-50f82deaf346)
+![Captura de pantalla 2025-07-04 003832](https://github.com/user-attachments/assets/b2901eb1-f654-49b5-96c5-8178c0c105aa)
 
   
 Evaluation Research Report:
