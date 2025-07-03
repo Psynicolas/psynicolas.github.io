@@ -3,7 +3,7 @@
 # About me
 Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.
 
-# Portfolio
+# Portfolios
 
 You can explore my full portfolio of instructional & learning design work and research here:
 
