@@ -20,15 +20,16 @@ Case Study Portfolio
 [Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
 
 
-
-## 🌟 Core Expertise  
+## Core Expertise  
 - **Educational Psychology** (+7 years of experience)
 - **Socioemotional Learning & Coaching** (PUC Certified)  
 - **Behavioral Science Research** (FONDECYT Grants)  
 - **Innovation in Learning Design** (Profes en Red Project)  
 - **AI for Social Impact** (COP29 Presenter) 
 
-## 🚀 Signature Projects  
+
+
+## Signature Projects  
 
 ## **Project: Teacher Training Program**  
 PROFES EN RED: 
@@ -40,7 +41,7 @@ PROFES EN RED:
 - Evaluation Research Report:
 [https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf](https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf)
 
-## Project: AI-Powered Teaching Assistant for Latin America 🌎✏️
+## Project: AI-Powered Teaching Assistant for Latin America
 
 **What is Ayni-AI?**
 An AI-powered virtual assistant to support Latin American teachers in planning, emotional well-being, and adopting innovative pedagogical practices. 
@@ -70,7 +71,7 @@ https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s
 **Research Report:**
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
-## 🧠 Research & Publications  
+## Research & Publications  
 
 - **Fernandez, N. (2023) Understanding gamers' motivations:** an analysis of young chilean gamers using the self determination theory.
 [Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
@@ -98,7 +99,7 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 
 ![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
 
-## 🛠️ My Framework: Learning Theories
+## My Framework: Learning Theories
 
 ![Learning theories](https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0)
 
