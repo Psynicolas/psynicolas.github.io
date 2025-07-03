@@ -1,8 +1,5 @@
 # Nicolas Fernandez / PhD in Edtech(c) / Master in Social Research / Psychologist / Certified Coach
 
-![Picture1](https://github.com/user-attachments/assets/9cda28fb-bb6c-4555-9dda-9ece5bca542c)
-
-
 ## Contact
 
 If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
