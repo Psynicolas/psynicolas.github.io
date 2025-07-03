@@ -7,13 +7,13 @@ Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work a
 
 You can explore my full portfolio of instructional & learning design work and research here:
 
-**Case Study Portfolio**
+**Case Study Portfolio: Learning Design using ADDIE**
 [Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
 
-**General Portfolio**
+**General Portfolio: As a Learning Designer and Reseacher**
 [Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
 
-**E-learning Course Guide Content Sample**
+**E-learning Content: Course Guide Sample**
 [E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
 
 
