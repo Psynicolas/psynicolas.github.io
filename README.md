@@ -19,7 +19,8 @@ Case Study Portfolio
 General Portfolio
 [Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
 
-
+E-learning Course Guide Content Sample
+[E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
 
 
 ## Core Expertise  
