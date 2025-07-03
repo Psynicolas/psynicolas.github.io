@@ -20,13 +20,13 @@ You can explore my full portfolio of instructional & learning design work and re
 # Signature Projects  
 
 ## **Project: Teacher Training Program**  
-PROFES EN RED
+"Profes en Red" Program
 [https://caserta.cl/profes-en-red/](https://caserta.cl/profes-en-red/)
 
 ![image](https://github.com/user-attachments/assets/c4d323fa-3427-4406-b9f3-50f82deaf346)
 
   
-- Evaluation Research Report:
+Evaluation Research Report:
 [https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf](https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf)
 
 ## Project: AI-Powered Teaching Assistant for Latin America
