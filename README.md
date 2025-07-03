@@ -13,13 +13,13 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 You can explore my full portfolio of instructional & learning design work and research here:
 
-Case Study Portfolio
+**Case Study Portfolio**
 [Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
 
-General Portfolio
+**General Portfolio**
 [Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
 
-E-learning Course Guide Content Sample
+**E-learning Course Guide Content Sample**
 [E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
 
 
