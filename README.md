@@ -1,9 +1,9 @@
 # Nicolas Fernandez / PhD in Edtech(c) / Master in Social Research / Psychologist / Certified Coach
 
-## About me
+# About me
 Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.
 
-## Portfolio
+# Portfolio
 
 You can explore my full portfolio of instructional & learning design work and research here:
 
@@ -17,9 +17,9 @@ You can explore my full portfolio of instructional & learning design work and re
 [E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
 
 
-## Signature Projects  
+# Signature Projects  
 
-# **Project: Teacher Training Program**  
+## **Project: Teacher Training Program**  
 PROFES EN RED
 [https://caserta.cl/profes-en-red/](https://caserta.cl/profes-en-red/)
 
@@ -29,7 +29,7 @@ PROFES EN RED
 - Evaluation Research Report:
 [https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf](https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf)
 
-# Project: AI-Powered Teaching Assistant for Latin America
+## Project: AI-Powered Teaching Assistant for Latin America
 
 **What is Ayni-AI?**
 An AI-powered virtual assistant to support Latin American teachers in planning, emotional well-being, and adopting innovative pedagogical practices. 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s
 **Research Report:**
 [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
-## Research & Publications  
+# Research & Publications  
 
 - **Fernandez, N. (2023) Understanding gamers' motivations:** an analysis of young chilean gamers using the self determination theory.
 [Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s
 - **Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:** [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
 - **Interview: Back when I was interviewed by Biobio:** [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
 
-## Conferences and Seminars:
+# Conferences and Seminars:
 ![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
 At Universidad de Santiago (USACH) (2020)
 
@@ -81,13 +81,13 @@ Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)
 Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)
 
 
-## Game Research & Gamification
+# Game Research & Gamification
 
 - Applied **Self-Determination Theory survey** to 500+ Chilean gamers  
 
 ![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
 
-## My Framework: Learning Theories
+# My Framework: Learning Theories
 
 ![Learning theories](https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0)
 
@@ -95,7 +95,7 @@ Online Conference of Education Sponsored by UNESCO and the Ministry of Education
 
 ---
 
-## Contact
+# Contact
 
 If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
 nicolas.fh.psy@gmail.com  
