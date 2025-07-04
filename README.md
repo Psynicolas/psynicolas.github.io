@@ -10,9 +10,9 @@
 Hi! Welcome. I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
 My expertise lies in:
-* 🧠 **AI for Education:** Designing and implementing AI solutions for learning.
-* 🔬 **Human-Centered Research:** Driving insights through robust research methodologies.
-* 📚 **Adult Learning Principles:** Crafting effective educational programs.
+*  **AI for Education:** Designing and implementing AI solutions for learning.
+* **Human-Centered Research:** Driving insights through robust research methodologies.
+* **Adult Learning Principles:** Crafting effective educational programs.
 
 I've had the privilege of:
 * Designing research-driven learning programs recognized by **Chile’s Ministry of Education**.
@@ -41,10 +41,10 @@ Explore my comprehensive portfolios and work samples in instructional design, le
 ### 1. Profes en Red Program: Teacher Training Initiative
 
 A Latin American teacher empowerment initiative that has reached **+1000 educators across 10 countries**. This program involves a **6+ year longitudinal study** on learning impact, focused on developing 21st-century educators through:
-* 🤝 Socioemotional skills training
-* 🌱 Sustainable development education
-* 💡 Technology innovation
-* 🌐 Collaborative peer networks
+* Socioemotional skills training
+* Sustainable development education
+* Technology innovation
+* Collaborative peer networks
 
 **Key Outcomes:**
 * Enhanced socioemotional skills and technological confidence in educators.
@@ -152,15 +152,15 @@ I base my learning design and research on established educational psychology and
 
 My core theoretical framework includes:
 
-* 🧠 **Cognitive Psychology:** Understanding how people think, perceive, remember, and learn.
-* 🤝 **Experiential Learning:** Emphasizing learning through direct experience and reflection.
-* 👨‍👩‍👧‍👦 **Social Learning:** Focusing on learning from others in a social context.
-* 🏗️ **Constructivism:** Believing learners construct knowledge actively from their experiences.
-* 🌟 **Multiple Intelligences & SEL:** Recognizing diverse forms of intelligence and the importance of socio-emotional learning.
-* 🚀 **Self-Efficacy Theory:** Highlighting the belief in one's capacity to succeed in specific situations.
-* 🎯 **Motivation Theory:** Exploring what drives learners and sustains their engagement.
-* 🧑‍🎓 **Andragogy:** Principles tailored for adult learning and development.
-* 🗣️ **Critical Pedagogy:** Encouraging learners to challenge and transform oppressive structures.
+* **Cognitive Psychology:** Understanding how people think, perceive, remember, and learn.
+* **Experiential Learning:** Emphasizing learning through direct experience and reflection.
+* **Social Learning:** Focusing on learning from others in a social context.
+* **Constructivism:** Believing learners construct knowledge actively from their experiences.
+* **Multiple Intelligences & SEL:** Recognizing diverse forms of intelligence and the importance of socio-emotional learning.
+* **Self-Efficacy Theory:** Highlighting the belief in one's capacity to succeed in specific situations.
+* **Motivation Theory:** Exploring what drives learners and sustains their engagement.
+* **Andragogy:** Principles tailored for adult learning and development.
+* 🗣**Critical Pedagogy:** Encouraging learners to challenge and transform oppressive structures.
 
 ---
 
