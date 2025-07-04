@@ -31,7 +31,7 @@ Explore my comprehensive portfolios and work samples in instructional design, le
 * **General Portfolio: Learning Designer & Researcher**
     [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link)
 
-* **E-learning Content: Course Guide Sample**
+* **E-learning Content: Sample Guide for online course**
     [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link)
 
 ---
