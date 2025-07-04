@@ -87,6 +87,16 @@ Learn more about the project, its impact, and future potential in my presentatio
 
 * **Research Report:** [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
+### 3. 🎮 Game Research & Gamification
+
+My research includes applying the **Self-Determination Theory survey** to **500+ Chilean gamers** to understand their motivations. This work explores the psychological underpinnings of engagement in digital environments.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472" alt="Game Research Visual" width="600"/>
+  <br>
+  <em>Game research infographics.</em>
+</p>
+
 ---
 
 ## 🔬 Research & Publications
@@ -131,18 +141,6 @@ Showcasing my participation and presentations at various academic and educationa
   <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3" alt="Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)" width="400"/>
   <br>
   <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
-</p>
-
----
-
-## 🎮 Game Research & Gamification
-
-My research includes applying the **Self-Determination Theory survey** to **500+ Chilean gamers** to understand their motivations. This work explores the psychological underpinnings of engagement in digital environments.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472" alt="Game Research Visual" width="600"/>
-  <br>
-  <em>Game research infographics.</em>
 </p>
 
 ---
