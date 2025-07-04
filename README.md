@@ -5,6 +5,7 @@
 
 ---
 ## About Me
+![Picture2](https://github.com/user-attachments/assets/a0371093-0247-46b5-bddf-73b2b6e30335)
 
 Hi! Welcome. I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
