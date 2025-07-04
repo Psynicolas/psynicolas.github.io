@@ -122,7 +122,7 @@ Showcasing my participation and presentations at various academic and educationa
 </p>
 
 <p align="center">
-  <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-aef2-cf8d96c42f14" alt="Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE)" width="400"/>
+  <img src="https://github.com/user-attachments/assets/2c969818-abf7-4e79-a6a7-f7ba5b798017" alt="Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE)" width="400"/>
   <br>
   <em>Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)</em>
 </p>
@@ -142,7 +142,7 @@ My research includes applying the **Self-Determination Theory survey** to **500+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472" alt="Game Research Visual" width="600"/>
   <br>
-  <em>Visual representation related to game research.</em>
+  <em>Game research infographics.</em>
 </p>
 
 ---
@@ -151,11 +151,17 @@ My research includes applying the **Self-Determination Theory survey** to **500+
 
 I base my learning design and research on established educational psychology and learning theories. This framework ensures that my approaches are evidence-based and effective.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0" alt="Learning Theories Framework" width="600"/>
-  <br>
-  <em>Visual representation of key learning theories guiding my work.</em>
-</p>
+My core theoretical framework includes:
+
+* 🧠 **Cognitive Psychology:** Understanding how people think, perceive, remember, and learn.
+* 🤝 **Experiential Learning:** Emphasizing learning through direct experience and reflection.
+* 👨‍👩‍👧‍👦 **Social Learning:** Focusing on learning from others in a social context.
+* 🏗️ **Constructivism:** Believing learners construct knowledge actively from their experiences.
+* 🌟 **Multiple Intelligences & SEL:** Recognizing diverse forms of intelligence and the importance of socio-emotional learning.
+* 🚀 **Self-Efficacy Theory:** Highlighting the belief in one's capacity to succeed in specific situations.
+* 🎯 **Motivation Theory:** Exploring what drives learners and sustains their engagement.
+* 🧑‍🎓 **Andragogy:** Principles tailored for adult learning and development.
+* 🗣️ **Critical Pedagogy:** Encouraging learners to challenge and transform oppressive structures.
 
 ---
 
