@@ -109,3 +109,41 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez
 
 Thank you for visiting my Professional Site!
 
+
+
+### 💻 Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,docker,aws,git,vscode)](https://skillicons.dev)
+
+### ✨ Featured Projects
+
+* **[Project Name 1]**: A brief, engaging description of your project. [Live Demo](link-to-demo) | [Repo](link-to-repo)
+    * *Technologies used:* `React`, `Node.js`, `MongoDB`
+    * *(Optional: Add a small screenshot or GIF here)*
+* **[Project Name 2]**: Another compelling project description. [Live Demo](link-to-demo) | [Repo](link-to-repo)
+    * *Technologies used:* `Python`, `Django`, `PostgreSQL`
+    * *(Optional: Add a small screenshot or GIF here)*
+* **[Project Name 3]**: ...and so on for your top projects.
+
+### 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌱 I'm currently learning
+
+* [New technology/skill]
+* [Another new technology/skill]
+
+### 📫 Connect with Me
+
+* **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
+* **Personal Website/Portfolio**: [Your Website](link-to-website)
+* **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+
+
+
+
+
+
+
