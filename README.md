@@ -21,7 +21,7 @@ I've had the privilege of:
 
 ---
 
-## 📚 Portfolios & Work Samples
+## Portfolios & Work Samples
 
 Explore my comprehensive portfolios and work samples in instructional design, learning design, and research:
 
@@ -36,7 +36,7 @@ Explore my comprehensive portfolios and work samples in instructional design, le
 
 ---
 
-## ✨ Signature Projects
+## Signature Projects
 
 ### 1. Profes en Red Program: Teacher Training Initiative
 
@@ -81,14 +81,14 @@ Ayni-AI is an innovative **AI-powered virtual assistant** designed to support La
   <em>Presenting Ayni-AI at COP29.</em>
 </p>
 
-**Watch the Presentation 🎥**
+**Watch the Presentation**
 Learn more about the project, its impact, and future potential in my presentation at COP29:
 **Watch here:** [COP29 Presentation on Ayni-AI](https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s)
 *(My presentation is featured from **[03:33:30 - 03:44:41]** within this panel discussion on "Success Stories for Sustainable Education".)*
 
 * **Research Report:** [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
-### 3. 🎮 Game Research & Gamification
+### 3. Game Research & Gamification
 
 My research includes applying the **Self-Determination Theory survey** to **500+ Chilean gamers** to understand their motivations. This work explores the psychological underpinnings of engagement in digital environments.
 
@@ -100,7 +100,7 @@ My research includes applying the **Self-Determination Theory survey** to **500+
 
 ---
 
-## 🔬 Research & Publications
+## Research & Publications
 
 * **Fernandez, N. (2023) Understanding Gamers' Motivations:** using Self-Determination Theory.
     [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link)
@@ -116,7 +116,7 @@ My research includes applying the **Self-Determination Theory survey** to **500+
 
 ---
 
-## 🎤 Conferences and Seminars
+## Conferences and Seminars
 
 Showcasing my participation and presentations at various academic and educational events:
 
@@ -146,7 +146,7 @@ Showcasing my participation and presentations at various academic and educationa
 
 ---
 
-## 💡 My Framework: Learning Theories
+## My Framework: Learning Theories
 
 I base my learning design and research on established educational psychology and learning theories. This framework ensures that my approaches are evidence-based and effective.
 
