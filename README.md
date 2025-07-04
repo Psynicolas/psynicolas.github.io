@@ -91,14 +91,14 @@ Learn more about the project, its impact, and future potential in my presentatio
 
 ## 🔬 Research & Publications
 
-* **Fernandez, N. (2023) Understanding Gamers' Motivations:** An analysis of young Chilean gamers using Self-Determination Theory.
-    [![Download PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobat)](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
+* **Fernandez, N. (2023) Understanding Gamers' Motivations:** using Self-Determination Theory.
+    [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link)
 
 * **Published Book: (2021) Education for the 21st Century:**
-    [Read the Book (PDF)](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
+    [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1nslipccixl6wIWKWbaiZpNCUiFtaaZGx/view?usp=drive_link)
 
 * **Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:**
-* [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+    [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
     *(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)*
 
 * **Interview: Back when I was interviewed by Biobio:** [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
