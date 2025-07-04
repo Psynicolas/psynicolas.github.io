@@ -63,9 +63,9 @@ A Latin American teacher empowerment initiative that has reached **+1000 educato
 ### 2. Ayni-AI: AI-Powered Teaching Assistant for Latin America
 
 Ayni-AI is an innovative **AI-powered virtual assistant** designed to support Latin American teachers in:
-* 📝 Lesson planning
-* 💖 Emotional well-being
-* 🚀 Adopting innovative pedagogical practices
+* Lesson planning
+* Emotional well-being
+* Adopting innovative pedagogical practices
 
 **My Role:** Project Manager and lead for the creation of training documents for the AI assistant.
 
@@ -160,7 +160,7 @@ My core theoretical framework includes:
 * **Self-Efficacy Theory:** Highlighting the belief in one's capacity to succeed in specific situations.
 * **Motivation Theory:** Exploring what drives learners and sustains their engagement.
 * **Andragogy:** Principles tailored for adult learning and development.
-* 🗣**Critical Pedagogy:** Encouraging learners to challenge and transform oppressive structures.
+* **Critical Pedagogy:** Encouraging learners to challenge and transform oppressive structures.
 
 ---
 
