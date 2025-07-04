@@ -1,149 +1,173 @@
-# Nicolas Fernandez / PhD in Edtech(c) / Master in Social Research / Psychologist / Certified Coach
-![Picture2](https://github.com/user-attachments/assets/a0371093-0247-46b5-bddf-73b2b6e30335)
-# About me
-Hi! Welcome. I'm a Psychologist, PhD(c) studying AI in adult education. I work as a Learning Designer and EdTech specialist with 7+ years of experience creating engaging, accessible, tech-enabled learning experiences. I am an expert in AI for education, human-centered research, and adult learning. I have designed research-driven learning programs recognized by Chile’s Ministry of Education, led the UNESCO-backed COEDUXII conference and authored the book Education for the 21st Century.
+# Nicolas Fernandez, PhD(c) | EdTech & Learning Design Specialist
 
-# Portfolios
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Fernandez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-fernandez-a6596171/)
+[![Email](https://img.shields.io/badge/Email-nicolas.fh.psy%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:nicolas.fh.psy@gmail.com)
 
-You can explore my full portfolio of instructional & learning design work and research here:
+---
+## About Me
 
-**Case Study Portfolio: Learning Design using ADDIE**
-[Portfolio Case Study Nicolas Fernandez.pdf](https://github.com/user-attachments/files/21045209/Portfolio.Case.Study.Nicolas.Fernandez.pdf)
+Hi! Welcome. I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
-**General Portfolio: As a Learning Designer and Reseacher**
-[Portfolio-Nicolas Fernandez.pdf](https://github.com/user-attachments/files/19866185/Portfolio-Nicolas.Fernandez.pdf)
+My expertise lies in:
+* 🧠 **AI for Education:** Designing and implementing AI solutions for learning.
+* 🔬 **Human-Centered Research:** Driving insights through robust research methodologies.
+* 📚 **Adult Learning Principles:** Crafting effective educational programs.
 
-**E-learning Content: Course Guide Sample**
-[E-learning course guide content sample.pdf](https://github.com/user-attachments/files/21045751/E-learning.course.guide.content.sample.pdf)
-
-
-# Signature Projects  
-
-## **Project: Teacher Training Program**  
-"Profes en Red" Program
-A Latin American teacher empowerment initiative reaching +1000 educators across 10 countries. 6+ years longitudinal study on learning impact. Objective: Develop 21st-century educators through, Socioemotional skills training, Sustainable development education, Technology innovation and Collaborative peer networks.
-
-[https://caserta.cl/profes-en-red/](https://caserta.cl/profes-en-red/)
-
-
-![Captura de pantalla 2025-07-04 003832](https://github.com/user-attachments/assets/b2901eb1-f654-49b5-96c5-8178c0c105aa)
-
-  
-Evaluation Research Report:
-[https://caserta.cl/wp-content/uploads/2023/12/informe-per_7ma.pdf](https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf)
-
-## Project: AI-Powered Teaching Assistant for Latin America
-
-**What is Ayni-AI?**
-An AI-powered virtual assistant to support Latin American teachers in planning, emotional well-being, and adopting innovative pedagogical practices. 
-
-**Role in Ayni Project**
-Project manager and creation of the documents to train the assistant.
-
-**Pilot testing of Ayni**
-After being piloted with 200 Latin-American teachers, a pre-post survey revealed an improvement of teachers disposition towards AI by 20%.
-
-**Speaker at COP29**
-I had the honor of presenting this project at the United Nations Climate Change Conference (COP29) during the panel on Innovation, Digitalization, and Climate Change. This initiative showcases the potential of Artificial Intelligence to transform education by providing a virtual assistant designed specifically to support teachers across Latin America.
-
-![4661e079-f0c4-4ac6-8510-b5e79ca51ead](https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb)
-
-- Integrated **socioemotional support** with digital pedagogy  
-- **25% increase** in educator confidence with new technologies
-
-**Watch the Presentation 🎥**
-Learn more about the project, its impact, and its future potential in my presentation at COP29:
-
-**Watch here:** 
-https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s
-
-(Minute 3:33:30 - 3:44:41)
-
-**Research Report:**
-[2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
-
-# Research & Publications  
-
-- **Fernandez, N. (2023) Understanding gamers' motivations:** an analysis of young chilean gamers using the self determination theory.
-[Fernandez, N. (2023) Comprendiendo la motivacion de los jugadores.pdf](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
-- **Published Book: (2021) Education for the 21st century:**  [Observatorio Web](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
-- **Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:** [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
-- **Interview: Back when I was interviewed by Biobio:** [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
-
-# Conferences and Seminars:
-![usach2](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a)
-At Universidad de Santiago (USACH) (2020)
-
-![unab1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad)
-Seminar at Universidad Andres Bello (UAB) (2021)
-
-![umce1](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-8eaf-4eb6-aef2-cf8d96c42f14)
-Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021) 
-
-![Presentacion COEDU22 (2022)](https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3)
-Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)
-
-
-# Game Research & Gamification
-
-- Applied **Self-Determination Theory survey** to 500+ Chilean gamers  
-
-![image](https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472)
-
-# My Framework: Learning Theories
-
-![Learning theories](https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0)
-
-
+I've had the privilege of:
+* Designing research-driven learning programs recognized by **Chile’s Ministry of Education**.
+* Leading the **UNESCO-backed COEDUXII conference**.
+* Authoring the book **"Education for the 21st Century."**
 
 ---
 
-# Contact
+## 📚 Portfolios & Work Samples
 
-If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out to me at:  
-nicolas.fh.psy@gmail.com  
-You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/).
+Explore my comprehensive portfolios and work samples in instructional design, learning design, and research:
 
-📩 Let's discuss how psychological science can transform digital education!  
+* **Case Study Portfolio: Learning Design using ADDIE**
+    [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view?usp=drive_link)
 
+* **General Portfolio: Learning Designer & Researcher**
+    [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link)
 
-Thank you for visiting my Professional Site!
+* **E-learning Content: Course Guide Sample**
+    [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link)
 
+---
 
+## ✨ Signature Projects
 
-### 💻 Technologies & Tools
+### 1. Profes en Red Program: Teacher Training Initiative
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,docker,aws,git,vscode)](https://skillicons.dev)
+A Latin American teacher empowerment initiative that has reached **+1000 educators across 10 countries**. This program involves a **6+ year longitudinal study** on learning impact, focused on developing 21st-century educators through:
+* 🤝 Socioemotional skills training
+* 🌱 Sustainable development education
+* 💡 Technology innovation
+* 🌐 Collaborative peer networks
 
-### ✨ Featured Projects
+**Key Outcomes:**
+* Enhanced socioemotional skills and technological confidence in educators.
+* Significant positive impact demonstrated through longitudinal research.
 
-* **[Project Name 1]**: A brief, engaging description of your project. [Live Demo](link-to-demo) | [Repo](link-to-repo)
-    * *Technologies used:* `React`, `Node.js`, `MongoDB`
-    * *(Optional: Add a small screenshot or GIF here)*
-* **[Project Name 2]**: Another compelling project description. [Live Demo](link-to-demo) | [Repo](link-to-repo)
-    * *Technologies used:* `Python`, `Django`, `PostgreSQL`
-    * *(Optional: Add a small screenshot or GIF here)*
-* **[Project Name 3]**: ...and so on for your top projects.
+**Learn More:**
+* [Program Website](https://caserta.cl/profes-en-red/)
+* [Evaluation Research Report](https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf)
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2901eb1-f654-49b5-96c5-8178c0c105aa" alt="Profes en Red Program Screenshot" width="600"/>
+  <br>
+  <em>My role in Profes en Red.</em>
+</p>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 2. Ayni-AI: AI-Powered Teaching Assistant for Latin America
 
-### 🌱 I'm currently learning
+Ayni-AI is an innovative **AI-powered virtual assistant** designed to support Latin American teachers in:
+* 📝 Lesson planning
+* 💖 Emotional well-being
+* 🚀 Adopting innovative pedagogical practices
 
-* [New technology/skill]
-* [Another new technology/skill]
+**My Role:** Project Manager and lead for the creation of training documents for the AI assistant.
 
-### 📫 Connect with Me
+**Impact & Recognition:**
+* **Pilot Testing Success:** A pre-post survey with 200 Latin American teachers revealed a **20% improvement** in their disposition towards AI after piloting Ayni.
+* **COP29 Presentation:** Honored to present this project at the **United Nations Climate Change Conference (COP29)** during the panel on Innovation, Digitalization, and Climate Change. This initiative highlights AI's potential to transform education by providing tailored support to teachers.
+* Integrated **socioemotional support** with digital pedagogy.
+* Achieved a **25% increase** in educator confidence with new technologies.
 
-* **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-* **Personal Website/Portfolio**: [Your Website](link-to-website)
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c16583eb" alt="Ayni-AI Presentation at COP29" width="600"/>
+  <br>
+  <em>Presenting Ayni-AI at COP29.</em>
+</p>
 
+**Watch the Presentation 🎥**
+Learn more about the project, its impact, and future potential in my presentation at COP29:
+**Watch here:** [COP29 Presentation on Ayni-AI](https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s)
+*(My presentation is featured from **[03:33:30 - 03:44:41]** within this panel discussion on "Success Stories for Sustainable Education".)*
 
+* **Research Report:** [2024_CEDS_Informe de Resultados Ayni v2.pdf](https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf)
 
+---
 
+## 🔬 Research & Publications
 
+* **Fernandez, N. (2023) Understanding Gamers' Motivations:** An analysis of young Chilean gamers using Self-Determination Theory.
+    [![Download PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobat)](https://github.com/Psynicolas/psynicolas.github.io/files/15234970/Fernandez.N.2023.Comprendiendo.la.motivacion.de.los.jugadores.pdf)
 
+* **Published Book: (2021) Education for the 21st Century:**
+    [Read the Book (PDF)](https://caserta.cl/wp-content/uploads/2022/12/observatorio_web.pdf)
 
+* **Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:**
+* [Watch on YouTube](https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta)
+    *(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)*
 
+* **Interview: Back when I was interviewed by Biobio:** [Benefits of Boredom in Children](https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml)
+
+---
+
+## 🎤 Conferences and Seminars
+
+Showcasing my participation and presentations at various academic and educational events:
+
+<p align="center">
+  <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a" alt="At Universidad de Santiago (USACH)" width="400"/>
+  <br>
+  <em>At Universidad de Santiago (USACH) (2020)</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad" alt="Seminar at Universidad Andres Bello (UAB)" width="400"/>
+  <br>
+  <em>Seminar at Universidad Andres Bello (UAB) (2021)</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/f19e96e0-aef2-cf8d96c42f14" alt="Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE)" width="400"/>
+  <br>
+  <em>Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3" alt="Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)" width="400"/>
+  <br>
+  <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
+</p>
+
+---
+
+## 🎮 Game Research & Gamification
+
+My research includes applying the **Self-Determination Theory survey** to **500+ Chilean gamers** to understand their motivations. This work explores the psychological underpinnings of engagement in digital environments.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472" alt="Game Research Visual" width="600"/>
+  <br>
+  <em>Visual representation related to game research.</em>
+</p>
+
+---
+
+## 💡 My Framework: Learning Theories
+
+I base my learning design and research on established educational psychology and learning theories. This framework ensures that my approaches are evidence-based and effective.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64d0a69b-c5e3-4b69-83e3-e506df04e6b0" alt="Learning Theories Framework" width="600"/>
+  <br>
+  <em>Visual representation of key learning theories guiding my work.</em>
+</p>
+
+---
+
+## ✉️ Contact
+
+If you have any questions, would like to discuss potential collaborations, or explore opportunities, please feel free to reach out!
+
+* **Email:** [nicolas.fh.psy@gmail.com](mailto:nicolas.fh.psy@gmail.com)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-a6596171/)
+
+Let's discuss how psychological science and EdTech innovation can transform digital education!
+
+---
+
+Thank you for visiting my Professional Site! ✨
