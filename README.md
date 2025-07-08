@@ -14,14 +14,23 @@
   I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a Learning Designer and EdTech specialist, I&#39;m passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
   My expertise lies in:
+
   <em> <strong>AI for Education</strong>: Designing and implementing AI solutions for learning.
+
   </em> <strong>Human-Centered Research</strong>: Driving insights through robust research methodologies.
+
   <em> <strong>Adult Learning Principles</strong>: Crafting effective educational programs.
 
-  I&#39;ve had the privilege of:
+  
+I&#39;ve had the privilege of:
+
+
   </em> Designing research-driven learning programs recognized by <strong>Chile’s Ministry of Education</strong>.
+
   <em> Leading the <strong>UNESCO-backed COEDUXII conference</strong>.
+
   </em> Authoring the book <strong>&quot;Education for the 21st Century.&quot;</strong>
+
 </details>
 
 <hr>
@@ -38,7 +47,7 @@
   </em> <strong>General Portfolio: Learning Designer &amp; Researcher</strong>
       <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link"><img src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&amp;logo=googledrive" alt="View PDF"></a>
 
-  <em> <em>*E-learning Content: Course Guide Sample</em></em>
+  <em> <strong>E-learning Content: Course Guide Sample</em></em>
       <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link"><img src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&amp;logo=googledrive" alt="View PDF"></a>
 </details>
 
