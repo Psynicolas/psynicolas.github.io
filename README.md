@@ -58,7 +58,7 @@
 
 <details>
   <summary>
-    <h2>Signature Projects</h2>
+    <h2>Featured Projects</h2>
   </summary>
 
   <h3>1. Profes en Red Program: Teacher Training Initiative</h3>
