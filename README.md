@@ -232,6 +232,3 @@
 <hr>
 
 <p>Thank you for visiting my Professional Site!</p>
-
-</body>
-</html>
