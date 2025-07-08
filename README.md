@@ -133,6 +133,8 @@
   </p>
 </details>
 
+ <hr>
+ 
 <details>
   <summary>
     <h2>Book Publication & Interviews</h2>
