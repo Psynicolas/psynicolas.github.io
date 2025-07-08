@@ -10,6 +10,7 @@
 ---
 
 <details>
+
   <summary>
     <h2>About Me</h2>
   </summary>
@@ -25,6 +26,7 @@
   * Designing research-driven learning programs recognized by **Chile’s Ministry of Education**.
   * Leading the **UNESCO-backed COEDUXII conference**.
   * Authoring the book **"Education for the 21st Century."**
+
 </details>
 
 ---
