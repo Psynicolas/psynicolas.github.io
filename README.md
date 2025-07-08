@@ -1,11 +1,9 @@
-<body>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner - EdTech & AI Specialist"/>
 </p>
 
 <h1>Hi, I'm Nicolas.</h1>
-<h3>PhD(c) in EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</h3>
+<h3>PhD(c) en EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</h3>
 
 <p><strong>I research, design, develop, implement and evaluate impactful learning experiences.</strong></p>
 
@@ -135,23 +133,25 @@
   </p>
 </details>
 
-    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
-        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-
 <hr>
 
 <details>
   <summary>
-    <h2>Book Publication & Interviews</h2>
+    <h2>Research & Publications</h2>
   </summary>
-
   <ul>
+    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
+        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
+
     <li><strong>Published Book: (2021) Education for the 21st Century:</strong>
         <a href="https://drive.google.com/file/d/1nslipccixl6wIWKWbaiZpNCUiFtaaZGx/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
+  </ul>
 
-![Book publication](https://github.com/user-attachments/assets/fdf163f5-e6d4-4982-a9f1-a11838949cb1)
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/fdf163f5-e6d4-4982-a9f1-a11838949cb1" alt="Book publication"/>
+  </p>
 
-
+  <ul>
     <li><strong>Interview: Back when I was interviewed by Biobio:</strong> <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml">Benefits of Boredom in Children</a></li>
   </ul>
 </details>
@@ -170,7 +170,7 @@
   </p>
 
   <p align="center">
-    <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad" alt="Seminar at Universidad Andres Bello (UAB)"/>
+    <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-424b-8275-4c9ba0ef32ad" alt="Seminar at Universidad Andres Bello (UAB)"/>
     <br>
     <em>Seminar at Universidad Andres Bello (UAB) (2021)</em>
   </p>
@@ -187,10 +187,11 @@
     <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
   </p>
 
-      <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
-        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
-        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
-
+  <ul>
+    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
+      <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
+      <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
+  </ul>
 </details>
 
 <hr>
@@ -235,4 +236,4 @@
 
 <hr>
 
-<p>Thank you for visiting my Professional Site!</p>
+<p>Thank you for visiting my Professional Site! ✨</p>
