@@ -12,11 +12,8 @@
 <details>
 
   <summary>
-
-    
     <h2>About Me</h2>
-  </summary>
-
+</summary>
   I'm specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
   My expertise lies in:
