@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner - EdTech & AI Specialist"/>
 </p>
 
-# Hi, I'm Nicolas.
-### PhD(c) in EdTech | Learning Designer | Master in Social research | Psychologist | Certified Coach
-**I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
+# Nicolas Fernandez 👋
+
+**Hi, I'm Nicolas. I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
 
 ---
 
@@ -12,8 +12,8 @@
   <summary>
     <h2>About Me</h2>
   </summary>
-  
- I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
+
+  I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
   My expertise lies in:
   * **AI for Education**: Designing and implementing AI solutions for learning.
@@ -32,7 +32,7 @@
   <summary>
     <h2>Portfolios & Work Samples</h2>
   </summary>
-  
+
   Explore my comprehensive portfolios and work samples in instructional design, learning design, and research:
 
   * **Case Study Portfolio: Learning Design using ADDIE**
@@ -89,8 +89,7 @@
   * Integrated **socioemotional support** with digital pedagogy.
   * Achieved a **25% increase** in educator confidence with new technologies.
 
-![Presentation COP29](https://github.com/user-attachments/assets/c631fd8b-7076-4c84-8492-616324908ef3)
-
+![Presentation COP29](https://github.com/user-attachments/assets/1b049620-5412-4a77-9312-4a8cf4ec3314)
 
 
   **Watch the Presentation 🎥**
@@ -119,7 +118,7 @@
     <h2>Research & Publications</h2>
   </summary>
 
-  * **Fernandez, N. (2023) Understanding Gamers' Motivations:** An analysis of young Chilean gamers using Self-Determination Theory.
+  * **Fernandez, N. (2023) Understanding Gamers' Motivations:**
       [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link)
 
   * **Published Book: (2021) Education for the 21st Century:**
