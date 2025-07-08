@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Nicolas.
-### PhD(c) en EdTech | Learning Designer & AI for Education Specialist | Master in Social research | Psychologist | Certified Coach
+### PhD(c) in EdTech | Learning Designer | Master in Social research | Psychologist | Certified Coach
 **I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
 
 ---
