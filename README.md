@@ -16,7 +16,7 @@
     <h2>About Me</h2>
   </summary>
 
-  <p>I'm a <strong>Psychologist</strong> and <strong>PhD(c) in EdTech</strong>, specializing in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.</p>
+  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.</p>
 
   <p>My expertise lies in:</p>
   <ul>
