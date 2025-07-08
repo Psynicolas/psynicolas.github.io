@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner - EdTech & AI Specialist"/>
 </p>
 
-# Nicolas Fernandez 👋
-
-**Hi, I'm Nicolas. I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
+# Hi, I'm Nicolas.
+### PhD(c) en EdTech | Learning Designer & AI for Education Specialist | Master in Social research | Psychologist | Certified Coach
+**I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
 
 ---
 
