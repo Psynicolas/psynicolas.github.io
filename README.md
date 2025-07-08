@@ -25,7 +25,6 @@
   * Designing research-driven learning programs recognized by **Chile’s Ministry of Education**.
   * Leading the **UNESCO-backed COEDUXII conference**.
   * Authoring the book **"Education for the 21st Century."**
-
 </details>
 
 ---
@@ -91,8 +90,11 @@
   * Integrated **socioemotional support** with digital pedagogy.
   * Achieved a **25% increase** in educator confidence with new technologies.
 
-![Presentation COP29](https://github.com/user-attachments/assets/1b049620-5412-4a77-9312-4a8cf4ec3314)
-
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/1b049620-5412-4a77-9312-4a8cf4ec3314" alt="Ayni-AI Presentation at COP29"/>
+    <br>
+    <em>Presenting Ayni-AI at COP29.</em>
+  </p>
 
   **Watch the Presentation 🎥**
   Learn more about the project, its impact, and future potential in my presentation at COP29:
@@ -120,7 +122,7 @@
     <h2>Research & Publications</h2>
   </summary>
 
-  * **Fernandez, N. (2023) Understanding Gamers' Motivations:**
+  * **Fernandez, N. (2023) Understanding Gamers' Motivations:** An analysis of young Chilean gamers using Self-Determination Theory.
       [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link)
 
   * **Published Book: (2021) Education for the 21st Century:**
@@ -203,4 +205,4 @@ Let's discuss how psychological science and EdTech innovation can transform digi
 
 ---
 
-Thank you for visiting my Professional Site! 
+Thank you for visiting my Professional Site!
