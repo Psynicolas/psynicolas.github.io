@@ -89,11 +89,8 @@
   * Integrated **socioemotional support** with digital pedagogy.
   * Achieved a **25% increase** in educator confidence with new technologies.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c1653eb" alt="Ayni-AI Presentation at COP29" width="600"/>
-  <br>
-  <em>Presenting Ayni-AI at COP29.</em>
-</p>
+![Presentation COP29](https://github.com/user-attachments/assets/c631fd8b-7076-4c84-8492-616324908ef3)
+
 
 
   **Watch the Presentation 🎥**
