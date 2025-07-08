@@ -131,6 +131,12 @@
     <br>
     <em>Visual representation related to game research.</em>
   </p>
+
+  <ul>
+    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
+        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
+  </ul>
+  
 </details>
 
  <hr>
@@ -153,22 +159,6 @@
 
   <ul>
     <li><strong>Interview: Back when I was interviewed by Biobio:</strong> <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml">Benefits of Boredom in Children</a></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>Research & Presentations</h2>
-  </summary>
-
-  <ul>
-    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
-        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
-        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
-        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
   </ul>
 </details>
 
@@ -202,6 +192,13 @@
     <br>
     <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
   </p>
+
+  <ul>
+    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
+        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
+        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
+  </ul>
+  
 </details>
 
 <hr>
