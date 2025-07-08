@@ -13,7 +13,7 @@
     <h2>About Me</h2>
   </summary>
   
-  Hi! Welcome. I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
+ I'm a **Psychologist** and **PhD(c) in EdTech**, specializing in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
   My expertise lies in:
   * **AI for Education**: Designing and implementing AI solutions for learning.
@@ -89,11 +89,12 @@
   * Integrated **socioemotional support** with digital pedagogy.
   * Achieved a **25% increase** in educator confidence with new technologies.
 
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c1653eb" alt="Ayni-AI Presentation at COP29"/>
-    <br>
-    <em>Presenting Ayni-AI at COP29.</em>
-  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaf6534a-21be-4b97-8bc0-0239c1653eb" alt="Ayni-AI Presentation at COP29" width="600"/>
+  <br>
+  <em>Presenting Ayni-AI at COP29.</em>
+</p>
+
 
   **Watch the Presentation 🎥**
   Learn more about the project, its impact, and future potential in my presentation at COP29:
