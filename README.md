@@ -15,6 +15,7 @@
     <h2>About Me</h2>
 </summary>
 
+
   I'm specialized in the intersection of **AI and adult education**. With over **7 years of experience** as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.
 
   My expertise lies in:
@@ -36,6 +37,7 @@
     <h2>Portfolios & Work Samples</h2>
   </summary>
 
+
   Explore my comprehensive portfolios and work samples in instructional design, learning design, and research:
 
   * **Case Study Portfolio: Learning Design using ADDIE**
@@ -54,6 +56,7 @@
   <summary>
     <h2>Signature Projects</h2>
   </summary>
+
 
   ### 1. Profes en Red Program: Teacher Training Initiative
 
@@ -123,6 +126,7 @@
   <summary>
     <h2>Research & Publications</h2>
   </summary>
+  
 
   * **Fernandez, N. (2023) Understanding Gamers' Motivations:** An analysis of young Chilean gamers using Self-Determination Theory.
       [![View PDF](https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link)
