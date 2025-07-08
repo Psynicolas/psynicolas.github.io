@@ -204,4 +204,4 @@ Let's discuss how psychological science and EdTech innovation can transform digi
 
 ---
 
-Thank you for visiting my Professional Site! ✨
+Thank you for visiting my Professional Site! 
