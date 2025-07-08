@@ -5,7 +5,7 @@
 # Hi, I'm Nicolas.
 ### PhD(c) en EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach
 
-**I design and develop engaging learning experiences based on my expertise as a PhD(c) in EdTech, Learning Designer, and Psychologist.**
+**I research, design and develop accessible, tech-enabled learning experiences.**
 
 ---
 
