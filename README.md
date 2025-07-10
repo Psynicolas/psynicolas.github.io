@@ -112,7 +112,7 @@
     <em>Presenting Ayni-AI at COP29.</em>
   </p>
 
-  <p><strong>Watch the Presentation 🎥</strong></p>
+  <p><strong>Watch the Presentation </strong></p>
   <p>Learn more about the project, its impact, and future potential in my presentation at COP29:</p>
 
   <p><strong>Watch here:</strong> <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s">COP29 Presentation on Ayni-AI</a><br>
@@ -141,7 +141,7 @@
 
 <details>
   <summary>
-    <h2>📊 Data-Driven Program Improvement</h2>
+    <h2> Data-Driven Program Improvement</h2>
   </summary>
 
   <p>I believe in <strong>evidence-based learning design</strong>. I conduct thorough needs assessments to identify performance gaps and use various evaluation methods to measure training effectiveness. My approach involves leveraging data and metrics to continuously refine and improve learning programs, ensuring maximum impact.</p>
@@ -170,7 +170,7 @@
 
 <details>
   <summary>
-    <h2>🎬 Advanced Multimedia Development</h2>
+    <h2> Advanced Multimedia Development</h2>
   </summary>
 
   <p>I bring learning experiences to life with a strong command of multimedia development. My skills span various formats, ensuring content is not only informative but also highly engaging and interactive.</p>
@@ -298,4 +298,4 @@
 
 <hr>
 
-<p>Thank you for visiting my Professional Site! ✨</p>
+<p>Thank you for visiting my Professional Site! </p>
