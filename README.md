@@ -14,7 +14,7 @@
     <h2>About Me</h2>
   </summary>
 
-  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a Learning Designer and EdTech specialist, I'm passionate about creating engaging, accessible, and tech-enabled learning experiences.</p>
+  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a <strong>Learning Designer and EdTech specialist<strong>, I'm passionate about <strong>creating engaging, accessible, and tech-enabled learning experiences<strong>.</p>
 
   <p>My expertise lies in:</p>
   <ul>
@@ -47,7 +47,7 @@
     <li><strong>General Portfolio: Learning Designer & Researcher</strong>
         <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
 
-    <li><strong>E-learning Content: Course Guide Sample</strong>
+    <li><strong>E-learning Content: Course Guide Sample</strong>        
         <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
   </ul>
 </details>
