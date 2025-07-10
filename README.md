@@ -131,18 +131,17 @@
     <br>
     <em>Infographic.</em>
   </p>
-
-  
+  <ul>
     <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
         <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-<ul>
+  </ul>
 </details>
 
 <hr>
 
 <details>
   <summary>
-    <h2> Data-Driven Program Improvement</h2>
+    <h2>📊 Data-Driven Program Improvement</h2>
   </summary>
 
   <p>I believe in <strong>evidence-based learning design</strong>. I conduct thorough needs assessments to identify performance gaps and use various evaluation methods to measure training effectiveness. My approach involves leveraging data and metrics to continuously refine and improve learning programs, ensuring maximum impact.</p>
@@ -156,13 +155,12 @@
 
   <p><strong>Measuring Impact (Example Visuals):</strong></p>
   <p align="center">
-    <img src="<img width="822" height="857" alt="Captura de pantalla 2025-07-10 143727" src="https://github.com/user-attachments/assets/f2545190-67c0-465d-aa43-a924f6738709" />" alt="Example Graph: Learner Performance Improvement"/>
+    <img src="https://github.com/user-attachments/assets/f2545190-67c0-465d-aa43-a924f6738709" alt="Example Graph: Learner Performance Improvement"/>
     <br>
     <em>A graph showing a 25% average increase in post-training assessment scores compared to pre-training.</em>
   </p>
-  <p align="center"> 
-
-    <img src=<img width="868" height="767" alt="Captura de pantalla 2025-07-10 143807" src="https://github.com/user-attachments/assets/15403839-a94b-4cac-9443-4cc1c6c2837f" /> alt="Example Dashboard: Course Completion Rates"/>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/15403839-a94b-4cac-9443-4cc1c6c2837f" alt="Example Dashboard: Course Completion Rates"/>
     <br>
     <em>Representation of the sample by country.</em>
   </p>
@@ -197,8 +195,6 @@
     <em>A short animated sequence from a microlearning module on ethical decision-making.</em>
   </p>
 </details>
-
-<hr>
 
 <hr>
 
@@ -253,11 +249,11 @@
     <br>
     <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
   </p>
-
+  <ul>
     <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
         <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
         <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
-  
+  </ul>
 </details>
 
 <hr>
@@ -302,4 +298,4 @@
 
 <hr>
 
-<p>Thank you for visiting my Professional Site!</p>
+<p>Thank you for visiting my Professional Site! ✨</p>
