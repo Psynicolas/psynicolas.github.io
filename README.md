@@ -132,10 +132,10 @@
     <em>Infographic.</em>
   </p>
 
-  <ul>
+  
     <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
         <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-
+<ul>
 </details>
 
 <hr>
