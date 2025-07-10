@@ -14,7 +14,7 @@
     <h2>About Me</h2>
   </summary>
 
-  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a <strong>Learning Designer and EdTech specialist<strong>, I'm passionate about <strong>creating engaging, accessible, and tech-enabled learning experiences<strong> .</p>
+  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a <strong>Learning Designer and EdTech specialist</strong>, I'm passionate about <strong>creating engaging, accessible, and tech-enabled learning experiences</strong>.</p>
 
   <p>My expertise lies in:</p>
   <ul>
@@ -47,7 +47,7 @@
     <li><strong>General Portfolio: Learning Designer & Researcher</strong>
         <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
 
-    <li><strong>E-learning Content: Course Guide Sample</strong>        
+    <li><strong>E-learning Content: Course Guide Sample</strong>
         <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
   </ul>
 </details>
@@ -131,16 +131,99 @@
     <br>
     <em>Visual representation related to game research.</em>
   </p>
-
-  <ul>
-    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
-        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-  </ul>
-  
 </details>
 
- <hr>
- 
+<hr>
+
+<details>
+  <summary>
+    <h2>📊 Data-Driven Program Improvement</h2>
+  </summary>
+
+  <p>I believe in <strong>evidence-based learning design</strong>. I conduct thorough needs assessments to identify performance gaps and use various evaluation methods to measure training effectiveness. My approach involves leveraging data and metrics to continuously refine and improve learning programs, ensuring maximum impact.</p>
+
+  <p>My process typically includes:</p>
+  <ul>
+    <li><strong>Needs Assessments:</strong> Pinpointing specific skill gaps and learning objectives.</li>
+    <li><strong>Formative & Summative Evaluation:</strong> Employing surveys, quizzes, performance data, and feedback loops to assess learning outcomes.</li>
+    <li><strong>Iterative Enhancement:</strong> Using insights from data to make informed adjustments and optimize program design.</li>
+  </ul>
+
+  <p><strong>Measuring Impact (Example Visuals):</strong></p>
+  <p align="center">
+    <img src="YOUR_GRAPH_IMAGE_URL_1.png" alt="Example Graph: Learner Performance Improvement"/>
+    <br>
+    <em>A graph showing a 25% increase in post-training assessment scores compared to pre-training.</em>
+  </p>
+  <p align="center">
+    <img src="YOUR_GRAPH_IMAGE_URL_2.png" alt="Example Dashboard: Course Completion Rates"/>
+    <br>
+    <em>A dashboard illustrating consistent course completion rates above 80% across various programs.</em>
+  </p>
+</details>
+
+<hr>
+
+<details>
+  <summary>
+    <h2>🎬 Advanced Multimedia Development</h2>
+  </summary>
+
+  <p>I bring learning experiences to life with a strong command of multimedia development. My skills span various formats, ensuring content is not only informative but also highly engaging and interactive.</p>
+
+  <p>My expertise includes creating:</p>
+  <ul>
+    <li><strong>Interactive Simulations:</strong> Designing scenarios that allow learners to practice skills in a safe environment.</li>
+    <li><strong>Animated Explainer Videos:</strong> Simplifying complex concepts through dynamic visual storytelling.</li>
+    <li><strong>Engaging Video Lectures:</strong> Producing high-quality instructional videos with clear objectives and compelling visuals.</li>
+    <li><strong>Interactive Quizzes & Activities:</strong> Integrating elements that promote active learning and immediate feedback.</li>
+  </ul>
+
+  <p><strong>See My Work in Action (Example Videos/GIFs):</strong></p>
+  <p align="center">
+    <iframe width="560" height="315" src="YOUR_YOUTUBE_VIDEO_EMBED_URL_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <em>An example of an interactive simulation I designed for leadership training.</em>
+  </p>
+  <p align="center">
+    <img src="YOUR_GIF_ANIMATION_URL_1.gif" alt="Example Animation: Microlearning Module"/>
+    <br>
+    <em>A short animated sequence from a microlearning module on ethical decision-making.</em>
+  </p>
+</details>
+
+<hr>
+
+<details>
+  <summary>
+    <h2>🗺️ Learning Journey Mapping & Strategy</h2>
+  </summary>
+
+  <p>I specialize in designing comprehensive and cohesive learning journeys that guide learners from initial concept to mastery. My strategic approach focuses on creating a seamless and effective learner experience, ensuring every touchpoint contributes to defined educational outcomes.</p>
+
+  <p>My process involves:</p>
+  <ul>
+    <li><strong>Learner Persona Development:</strong> Understanding target audiences to tailor content effectively.</li>
+    <li><strong>Path Design:</strong> Structuring logical and engaging learning sequences.</li>
+    <li><strong>Content Alignment:</strong> Mapping content to specific learning objectives and milestones.</li>
+    <li><strong>Experience Optimization:</strong> Focusing on user flow, accessibility, and motivational elements throughout the journey.</li>
+  </ul>
+
+  <p><strong>Visualizing Learning Paths (Example Maps):</strong></p>
+  <p align="center">
+    <img src="YOUR_JOURNEY_MAP_IMAGE_URL_1.png" alt="Example Learning Journey Map: Onboarding Program"/>
+    <br>
+    <em>A detailed map illustrating the 6-week onboarding journey for new employees.</em>
+  </p>
+  <p align="center">
+    <img src="YOUR_BLUEPRINT_IMAGE_URL_1.png" alt="Example Learning Blueprint: Skills Development Program"/>
+    <br>
+    <em>A blueprint outlining the strategic phases and key interventions in a year-long skills development program.</em>
+  </p>
+</details>
+
+<hr>
+
 <details>
   <summary>
     <h2>Book Publication & Interviews</h2>
@@ -159,6 +242,22 @@
 
   <ul>
     <li><strong>Interview: Back when I was interviewed by Biobio:</strong> <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml">Benefits of Boredom in Children</a></li>
+  </ul>
+</details>
+
+<hr>
+
+<details>
+  <summary>
+    <h2>Research & Presentations</h2>
+  </summary>
+
+  <ul>
+    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
+        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
+    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
+        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
+        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
   </ul>
 </details>
 
@@ -192,12 +291,6 @@
     <br>
     <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
   </p>
-
-  <ul>
-    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
-        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
-        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
-  </ul>
 </details>
 
 <hr>
