@@ -142,7 +142,7 @@
 
 <details>
   <summary>
-    <h2>📊 Data-Driven Program Improvement</h2>
+    <h2> Data-Driven Program Improvement</h2>
   </summary>
 
   <p>I believe in <strong>evidence-based learning design</strong>. I conduct thorough needs assessments to identify performance gaps and use various evaluation methods to measure training effectiveness. My approach involves leveraging data and metrics to continuously refine and improve learning programs, ensuring maximum impact.</p>
@@ -156,14 +156,15 @@
 
   <p><strong>Measuring Impact (Example Visuals):</strong></p>
   <p align="center">
-    <img src="YOUR_GRAPH_IMAGE_URL_1.png" alt="Example Graph: Learner Performance Improvement"/>
+    <img src="<img width="822" height="857" alt="Captura de pantalla 2025-07-10 143727" src="https://github.com/user-attachments/assets/f2545190-67c0-465d-aa43-a924f6738709" />" alt="Example Graph: Learner Performance Improvement"/>
     <br>
-    <em>A graph showing a 25% increase in post-training assessment scores compared to pre-training.</em>
+    <em>A graph showing a 25% average increase in post-training assessment scores compared to pre-training.</em>
   </p>
-  <p align="center">
-    <img src="YOUR_GRAPH_IMAGE_URL_2.png" alt="Example Dashboard: Course Completion Rates"/>
+  <p align="center"> 
+
+    <img src=<img width="868" height="767" alt="Captura de pantalla 2025-07-10 143807" src="https://github.com/user-attachments/assets/15403839-a94b-4cac-9443-4cc1c6c2837f" /> alt="Example Dashboard: Course Completion Rates"/>
     <br>
-    <em>A dashboard illustrating consistent course completion rates above 80% across various programs.</em>
+    <em>Representation of the sample by country.</em>
   </p>
 </details>
 
