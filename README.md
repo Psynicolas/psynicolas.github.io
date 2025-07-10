@@ -170,7 +170,7 @@
 
 <details>
   <summary>
-    <h2>🤖 AI Multimedia Tools</h2>
+    <h2>AI Multimedia Tools</h2>
   </summary>
 
   <p>I bring learning experiences to life with a strong command of multimedia development. My skills span various formats, ensuring content is not only informative but also highly engaging and interactive.</p>
@@ -190,17 +190,6 @@
     <em>An example of an AI-generated video for learning modules.</em>
   </p>
 
-  <p><strong>See My Work in Action (Example Videos/GIFs):</strong></p>
-  <p align="center">
-    <iframe width="560" height="315" src="YOUR_YOUTUBE_VIDEO_EMBED_URL_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br>
-    <em>An example of an interactive simulation I designed for leadership training.</em>
-  </p>
-  <p align="center">
-    <img src="YOUR_GIF_ANIMATION_URL_1.gif" alt="Example Animation: Microlearning Module"/>
-    <br>
-    <em>A short animated sequence from a microlearning module on ethical decision-making.</em>
-  </p>
 </details>
 
 <hr>
