@@ -3,7 +3,7 @@
 </p>
 
 <h1>Hi, I'm Nicolas.</h1>
-<h3>PhD(c) en EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</h3>
+<h3>PhD(c) in EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</h3>
 
 <p><strong>I research, design, develop, implement and evaluate impactful learning experiences.</strong></p>
 
