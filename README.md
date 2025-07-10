@@ -198,7 +198,6 @@
         <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
         <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
   </ul>
-  
 </details>
 
 <hr>
