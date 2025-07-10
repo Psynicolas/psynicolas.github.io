@@ -200,34 +200,6 @@
 
 <hr>
 
-<details>
-  <summary>
-    <h2>🗺️ Learning Journey Mapping & Strategy</h2>
-  </summary>
-
-  <p>I specialize in designing comprehensive and cohesive learning journeys that guide learners from initial concept to mastery. My strategic approach focuses on creating a seamless and effective learner experience, ensuring every touchpoint contributes to defined educational outcomes.</p>
-
-  <p>My process involves:</p>
-  <ul>
-    <li><strong>Learner Persona Development:</strong> Understanding target audiences to tailor content effectively.</li>
-    <li><strong>Path Design:</strong> Structuring logical and engaging learning sequences.</li>
-    <li><strong>Content Alignment:</strong> Mapping content to specific learning objectives and milestones.</li>
-    <li><strong>Experience Optimization:</strong> Focusing on user flow, accessibility, and motivational elements throughout the journey.</li>
-  </ul>
-
-  <p><strong>Visualizing Learning Paths (Example Maps):</strong></p>
-  <p align="center">
-    <img src="YOUR_JOURNEY_MAP_IMAGE_URL_1.png" alt="Example Learning Journey Map: Onboarding Program"/>
-    <br>
-    <em>A detailed map illustrating the 6-week onboarding journey for new employees.</em>
-  </p>
-  <p align="center">
-    <img src="YOUR_BLUEPRINT_IMAGE_URL_1.png" alt="Example Learning Blueprint: Skills Development Program"/>
-    <br>
-    <em>A blueprint outlining the strategic phases and key interventions in a year-long skills development program.</em>
-  </p>
-</details>
-
 <hr>
 
 <details>
