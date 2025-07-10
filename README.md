@@ -170,7 +170,7 @@
 
 <details>
   <summary>
-    <h2> Advanced Multimedia Development</h2>
+    <h2>🤖 AI Multimedia Tools</h2>
   </summary>
 
   <p>I bring learning experiences to life with a strong command of multimedia development. My skills span various formats, ensuring content is not only informative but also highly engaging and interactive.</p>
@@ -182,6 +182,13 @@
     <li><strong>Engaging Video Lectures:</strong> Producing high-quality instructional videos with clear objectives and compelling visuals.</li>
     <li><strong>Interactive Quizzes & Activities:</strong> Integrating elements that promote active learning and immediate feedback.</li>
   </ul>
+
+  <p><strong>AI-generated video for easily digestible modules:</strong></p>
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1j6g2EMG8FS1pxz1SKFyh-YJzz6qFWE2c/view?usp=drive_link">Watch AI Video</a>
+    <br>
+    <em>An example of an AI-generated video for learning modules.</em>
+  </p>
 
   <p><strong>See My Work in Action (Example Videos/GIFs):</strong></p>
   <p align="center">
