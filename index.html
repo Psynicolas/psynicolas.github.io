@@ -453,33 +453,38 @@
 
         /* Collapsible Sections */
         .collapsible {
-            background: white;
-            color: var(--primary);
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
             cursor: pointer;
             padding: 1.5rem;
             width: 100%;
-            border: none;
+            border: 2px solid rgba(255, 255, 255, 0.3);
             text-align: left;
             outline: none;
             font-size: 1.3rem;
             font-weight: 600;
             border-radius: 0.5rem;
             margin-top: 1.5rem;
-            transition: background 0.3s;
+            transition: all 0.3s;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
 
         .collapsible:hover {
-            background: #f0f0f0;
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
         }
 
         .collapsible:after {
             content: '\002B';
-            color: var(--primary);
+            color: white;
             font-weight: bold;
             font-size: 2rem;
+        }
+
+        .collapsible.active {
+            background: rgba(255, 255, 255, 0.25);
         }
 
         .collapsible.active:after {
@@ -492,6 +497,7 @@
             transition: max-height 0.3s ease-out;
             background: white;
             border-radius: 0 0 0.5rem 0.5rem;
+            margin-top: 1rem;
         }
 
         .collapsible-content.active {
@@ -501,6 +507,7 @@
         .collapsible-inner {
             padding: 2rem;
             line-height: 1.8;
+            color: var(--dark);
         }
 
         .proposal-section {
@@ -509,6 +516,11 @@
             background: #f9fafb;
             border-radius: 0.5rem;
             border-left: 4px solid var(--highlight);
+        }
+
+        .proposal-section h4 {
+            color: var(--highlight);
+            margin-bottom: 1rem;
         }
 
         .proposal-table {
@@ -528,6 +540,7 @@
         .proposal-table td {
             padding: 1rem;
             border: 1px solid #e5e7eb;
+            color: var(--dark);
         }
 
         .proposal-table tr:nth-child(even) {
@@ -545,6 +558,12 @@
         .module-box h4 {
             color: var(--highlight);
             margin-bottom: 0.5rem;
+        }
+
+        .module-box p,
+        .module-box ul,
+        .module-box li {
+            color: var(--dark);
         }
 
         /* Responsive */
@@ -738,7 +757,7 @@
                 </div>
 
                 <!-- Collapsible Full Proposal -->
-                <button class="collapsible" style="background: rgba(255,255,255,0.2); color: white; margin-top: 2rem;">
+                <button class="collapsible">
                     📄 View Complete Proposal Details
                 </button>
                 <div class="collapsible-content">
