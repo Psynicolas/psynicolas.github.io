@@ -663,8 +663,8 @@
     <!-- Navigation -->
     <nav>
         <ul>
-            <li><a href="#featured">Featured Project</a></li>
             <li><a href="#about">About</a></li>
+            <li><a href="#featured">Featured Project</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#impact">Impact</a></li>
@@ -674,9 +674,62 @@
     </nav>
 
     <div class="container">
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>🎓 Expertise</h3>
+                    <ul>
+                        <li><strong>AI for Education:</strong> Designing and implementing AI solutions for learning</li>
+                        <li><strong>Human-Centered Research:</strong> Driving insights through robust methodologies</li>
+                        <li><strong>Adult Learning Principles:</strong> Crafting effective educational programs</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>🏆 Achievements</h3>
+                    <ul>
+                        <li>7+ years as Learning Designer & EdTech specialist</li>
+                        <li>Research-driven programs recognized by Chile's Ministry of Education</li>
+                        <li>Led UNESCO-backed COEDUXII conference</li>
+                        <li>Author: "Education for the 21st Century"</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>🔬 Research Focus</h3>
+                    <ul>
+                        <li>AI and Adult Education intersection</li>
+                        <li>Socioemotional learning in digital contexts</li>
+                        <li>Teacher self-efficacy and technology adoption</li>
+                        <li>Gamification and motivation theory</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Educators Reached</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">10</div>
+                <div class="stat-label">Countries Impacted</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">7+</div>
+                <div class="stat-label">Years Experience</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">500+</div>
+                <div class="stat-label">Research Participants</div>
+            </div>
+        </div>
+
         <!-- Featured Project Section -->
         <section id="featured">
-            <h2>Course Design Proposal</h2>
+            <h2>Featured Project: Course Design Proposal</h2>
             
             <div class="featured-project">
                 <h3>🎓 AI Inventory Assistant Course Proposal</h3>
@@ -756,242 +809,11 @@
                     <a href="https://drive.google.com/file/d/17Hnm244SRaToX7zjFanoe5duPe_UuUuO/view?usp=sharing" class="btn btn-white" target="_blank">Download PDF Version</a>
                 </div>
 
-                <!-- Collapsible Full Proposal -->
-                <button class="collapsible">
-                    📄 View Complete Proposal Details
-                </button>
-                <div class="collapsible-content">
-                    <div class="collapsible-inner">
-                        
-                        <h3>Executive Summary</h3>
-                        <div class="proposal-section">
-                            <p><strong>Course Goal:</strong> By completing this course, learners will have a fully functional AI inventory assistant running in their Slack workspace that accurately processes natural language requests, checks real-time stock levels, and creates restock orders with built-in safeguards against over-ordering.</p>
-                        </div>
-
-                        <h3>Target Audience Profile</h3>
-                        <p>This mini-course format is designed for busy professionals who manage operational tasks in retail or small business environments. Our target learners are comfortable exploring no-code tools and have basic experience with simple automations in Make, but lack developer skills.</p>
-
-                        <div class="module-box">
-                            <h4>User Persona: Retail Operations Manager</h4>
-                            <p><strong>Characteristics:</strong></p>
-                            <ul>
-                                <li>Manages inventory, supply orders, and internal communication</li>
-                                <li>Uses Slack daily for team coordination</li>
-                                <li>Comfortable with no-code tools but not a developer</li>
-                                <li>Has basic Make.com experience with simple scenarios</li>
-                                <li>Limited time for learning (needs quick wins)</li>
-                            </ul>
-                            
-                            <p><strong>Pain Points:</strong></p>
-                            <ul>
-                                <li>Manual inventory checking consumes hours daily</li>
-                                <li>Previous automations failed when becoming too complex</li>
-                                <li>Confused by technical jargon and abstract concepts</li>
-                                <li>Needs reliable, maintainable solutions</li>
-                            </ul>
-                        </div>
-
-                        <h3>Learning Objectives</h3>
-                        <p>By the end of this course, learners will be able to:</p>
-                        
-                        <div class="module-box">
-                            <p><strong>1. Explain AI agent architecture</strong> (Understand)</p>
-                            <p>Describe how AI agents coordinate between Slack, Make scenarios, and Google Sheets using plain language.</p>
-                        </div>
-
-                        <div class="module-box">
-                            <p><strong>2. Configure a functional AI agent</strong> (Apply)</p>
-                            <p>Set up a Make AI agent that interprets natural language inventory requests from Slack and automatically selects appropriate tool scenarios.</p>
-                        </div>
-
-                        <div class="module-box">
-                            <p><strong>3. Build operational tool scenarios</strong> (Create)</p>
-                            <p>Construct two complete scenarios that handle inventory lookups and restock orders, including proper error handling and feedback mechanisms.</p>
-                        </div>
-
-                        <div class="module-box">
-                            <p><strong>4. Diagnose common failures</strong> (Analyze)</p>
-                            <p>Identify and resolve typical agent errors by examining execution logs and determining whether issues stem from prompts, tool descriptions, or data structure mismatches.</p>
-                        </div>
-
-                        <div class="module-box">
-                            <p><strong>5. Optimize agent responses</strong> (Evaluate)</p>
-                            <p>Test agent behavior with various request types and refine system prompts to improve accuracy while preventing inappropriate or excessive orders.</p>
-                        </div>
-
-                        <h3>Program Journey</h3>
-                        <table class="proposal-table">
-                            <thead>
-                                <tr>
-                                    <th>Stage</th>
-                                    <th>Component</th>
-                                    <th>Purpose</th>
-                                    <th>Duration</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td><strong>Pre-Course</strong></td>
-                                    <td>Welcome & Introduction</td>
-                                    <td>Set expectations, build excitement</td>
-                                    <td>5 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Assessment</strong></td>
-                                    <td>Diagnostic Quiz</td>
-                                    <td>Evaluate knowledge base</td>
-                                    <td>10 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Module 1</strong></td>
-                                    <td>Meet Your New Assistant</td>
-                                    <td>Real-world demo, account setup</td>
-                                    <td>30 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Module 2</strong></td>
-                                    <td>Creating Your Inventory Brain</td>
-                                    <td>Build AI agent and tool scenarios</td>
-                                    <td>90 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Module 3</strong></td>
-                                    <td>Connecting Slack</td>
-                                    <td>Integration, testing, first success</td>
-                                    <td>45 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Module 4</strong></td>
-                                    <td>Making It Yours</td>
-                                    <td>Customization, optimization</td>
-                                    <td>15 min</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Post-Course</strong></td>
-                                    <td>Perception Survey</td>
-                                    <td>Gather feedback</td>
-                                    <td>5 min</td>
-                                </tr>
-                            </tbody>
-                        </table>
-
-                        <h3>Course Structure & Modules</h3>
-                        
-                        <div class="module-box">
-                            <h4>Module 1: Meet Your New Assistant (30 minutes)</h4>
-                            <p><strong>Foundation Module - See It, Then Build It</strong></p>
-                            <ul>
-                                <li>Real-Life Example: Interactive demonstration showing a retail manager using Slack to check inventory</li>
-                                <li>Understanding the Workflow: Visual breakdown of manual to automated processes</li>
-                                <li>Comparing Approaches: Time savings (5 hours weekly to 30 minutes) and error reduction</li>
-                                <li>Account Setup: Creating Make account, obtaining OpenAI API key, configuring access</li>
-                            </ul>
-                        </div>
-
-                        <div class="module-box">
-                            <h4>Module 2: Creating Your Inventory Brain (90 minutes)</h4>
-                            <p><strong>Building Module - Hands-On Construction</strong></p>
-                            <ul>
-                                <li>Step-by-step agent creation in Make</li>
-                                <li>Writing effective system prompts with business constraints</li>
-                                <li>Building inventory lookup scenario with Google Sheets</li>
-                                <li>Creating restock order scenario with email notifications</li>
-                                <li>Implementing feedback mechanisms via Return Output module</li>
-                            </ul>
-                        </div>
-
-                        <div class="module-box">
-                            <h4>Module 3: Connecting Slack to Your Agent (45 minutes)</h4>
-                            <p><strong>Integration Module - Bringing It Together</strong></p>
-                            <ul>
-                                <li>Slack app configuration and permission settings</li>
-                                <li>Webhook setup and message filtering</li>
-                                <li>Thread management for organized conversations</li>
-                                <li>Testing with actual inventory queries</li>
-                                <li>Troubleshooting common connection issues</li>
-                            </ul>
-                        </div>
-
-                        <div class="module-box">
-                            <h4>Module 4: Making It Yours (15 minutes)</h4>
-                            <p><strong>Customization Module - Personal Touch</strong></p>
-                            <ul>
-                                <li>Customizing prompts for industry-specific terminology</li>
-                                <li>Adding SMS notifications alongside email alerts</li>
-                                <li>Creating a personal troubleshooting checklist</li>
-                                <li>Planning future enhancements and expansions</li>
-                            </ul>
-                        </div>
-
-                        <h3>Success Metrics & Evaluation</h3>
-                        <table class="proposal-table">
-                            <tr>
-                                <th>Metric</th>
-                                <th>Target</th>
-                                <th>Measurement Method</th>
-                            </tr>
-                            <tr>
-                                <td>Course Completion Rate</td>
-                                <td>≥ 80%</td>
-                                <td>LMS tracking</td>
-                            </tr>
-                            <tr>
-                                <td>Working Agent Created</td>
-                                <td>100% of completers</td>
-                                <td>Final challenge submission</td>
-                            </tr>
-                            <tr>
-                                <td>Time to First Success</td>
-                                <td>&lt; 120 minutes</td>
-                                <td>Module 3 checkpoint</td>
-                            </tr>
-                            <tr>
-                                <td>30-Day Active Usage</td>
-                                <td>≥ 60%</td>
-                                <td>Follow-up survey</td>
-                            </tr>
-                        </table>
-
-                        <h3>Design Considerations</h3>
-                        
-                        <div class="proposal-section">
-                            <h4>Cognitive Load Management</h4>
-                            <ul>
-                                <li><strong>Progressive Disclosure:</strong> Technical details revealed only when needed</li>
-                                <li><strong>Chunked Content:</strong> 5-10 minute segments for learning during work breaks</li>
-                                <li><strong>Real-World Anchors:</strong> Actual business scenarios provide context</li>
-                                <li><strong>Just-in-Time Learning:</strong> Concepts introduced immediately before application</li>
-                            </ul>
-                        </div>
-
-                        <div class="proposal-section">
-                            <h4>Engagement Strategy</h4>
-                            <ul>
-                                <li><strong>Real-Life Connection:</strong> Opening with actual use cases</li>
-                                <li><strong>Personal Relevance:</strong> Examples use retail inventory items</li>
-                                <li><strong>Celebration Moments:</strong> Clear success indicators at each milestone</li>
-                                <li><strong>Active Learning:</strong> Continuous project building from start to finish</li>
-                            </ul>
-                        </div>
-
-                        <div class="proposal-section">
-                            <h4>Expected ROI for Learners</h4>
-                            <ul>
-                                <li>5 hours/week saved on inventory management</li>
-                                <li>50% reduction in stock-out incidents</li>
-                                <li>75% faster reorder processing</li>
-                                <li>Improved staff allocation to customer service</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
             </div>
         </section>
 
         <!-- About Section -->
-        <section id="about">
+        <section id="about-old" style="display: none;">
             <h2>About Me</h2>
             <div class="cards">
                 <div class="card">
@@ -1255,25 +1077,5 @@
         <p>&copy; 2025 Nicolas Fernandez. All rights reserved.</p>
         <p style="margin-top: 0.5rem; opacity: 0.8;">EdTech & AI Specialist | Learning Designer | Researcher</p>
     </footer>
-
-    <script>
-        // Collapsible functionality
-        document.addEventListener('DOMContentLoaded', function() {
-            const collapsibles = document.getElementsByClassName("collapsible");
-            
-            for (let i = 0; i < collapsibles.length; i++) {
-                collapsibles[i].addEventListener("click", function() {
-                    this.classList.toggle("active");
-                    const content = this.nextElementSibling;
-                    
-                    if (content.style.maxHeight) {
-                        content.style.maxHeight = null;
-                    } else {
-                        content.style.maxHeight = content.scrollHeight + "px";
-                    }
-                });
-            }
-        });
-    </script>
 </body>
 </html>
