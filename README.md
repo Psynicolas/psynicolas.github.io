@@ -1,297 +1,827 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner - EdTech & AI Specialist"/>
-</p>
-
-<h1>Hi, I'm Nicolas.</h1>
-<h3>PhD(c) in EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</h3>
-
-<p><strong>I research, design, develop, implement and evaluate impactful learning experiences.</strong></p>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>About Me</h2>
-  </summary>
-
-  <p>I specialize in the intersection of <strong>AI and adult education</strong>. With over <strong>7 years of experience</strong> as a <strong>Learning Designer and EdTech specialist</strong>, I'm passionate about <strong>creating engaging, accessible, and tech-enabled learning experiences</strong>.</p>
-
-  <p>My expertise lies in:</p>
-  <ul>
-    <li><strong>AI for Education</strong>: Designing and implementing AI solutions for learning.</li>
-    <li><strong>Human-Centered Research</strong>: Driving insights through robust research methodologies.</li>
-    <li><strong>Adult Learning Principles</strong>: Crafting effective educational programs.</li>
-  </ul>
-
-  <p>I've had the privilege of:</p>
-  <ul>
-    <li>Designing research-driven learning programs recognized by <strong>Chile’s Ministry of Education</strong>.</li>
-    <li>Leading the <strong>UNESCO-backed COEDUXII conference</strong>.</li>
-    <li>Authoring the book <strong>"Education for the 21st Century."</strong></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>Portfolios & Work Samples</h2>
-  </summary>
-
-  <p>Explore my comprehensive portfolios and work samples in instructional design, learning design, and research:</p>
-
-  <ul>
-    <li><strong>Case Study Portfolio: Learning Design using ADDIE</strong>
-        <a href="https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-
-    <li><strong>General Portfolio: Learning Designer & Researcher</strong>
-        <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-
-    <li><strong>E-learning Content: Course Guide Sample</strong>
-        <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>Featured Projects</h2>
-  </summary>
-
-  <h3>1. Profes en Red Program: Teacher Training Initiative</h3>
-
-  <p>A Latin American teacher empowerment initiative that has reached <strong>+1000 educators across 10 countries</strong>. This program involves a <strong>6+ year longitudinal study</strong> on learning impact, focused on developing 21st-century educators through:</p>
-  <ul>
-    <li>Socioemotional skills training</li>
-    <li>Sustainable development education</li>
-    <li>Technology innovation</li>
-    <li>Collaborative peer networks</li>
-  </ul>
-
-  <p><strong>Key Outcomes:</strong></p>
-  <ul>
-    <li>Enhanced socioemotional skills and technological confidence in educators.</li>
-    <li>Significant positive impact demonstrated through longitudinal research.</li>
-  </ul>
-
-  <p><strong>Learn More:</strong></p>
-  <ul>
-    <li><a href="https://caserta.cl/profes-en-red/">Program Website</a></li>
-    <li><a href="https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf">Evaluation Research Report</a></li>
-  </ul>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/b2901eb1-f654-49b5-96c5-8178c0c105aa" alt="Profes en Red Program Screenshot"/>
-    <br>
-    <em>Screenshot from the Profes en Red website.</em>
-  </p>
-
-  <h3>2. Ayni-AI: AI-Powered Teaching Assistant for Latin America</h3>
-
-  <p>Ayni-AI is an innovative <strong>AI-powered virtual assistant</strong> designed to support Latin American teachers in:</p>
-  <ul>
-    <li>Lesson planning</li>
-    <li>Emotional well-being</li>
-    <li>Adopting innovative pedagogical practices</li>
-  </ul>
-
-  <p><strong>My Role:</strong> Project Manager and lead for the creation of training documents for the AI assistant.</p>
-
-  <p><strong>Impact & Recognition:</strong></p>
-  <ul>
-    <li><strong>Pilot Testing Success:</strong> A pre-post survey with 200 Latin American teachers revealed a <strong>20% improvement</strong> in their disposition towards AI after piloting Ayni.</li>
-    <li><strong>COP29 Presentation:</strong> Honored to present this project at the <strong>United Nations Climate Change Conference (COP29)</strong> during the panel on Innovation, Digitalization, and Climate Change. This initiative highlights AI's potential to transform education by providing tailored support to teachers.</li>
-    <li>Integrated <strong>socioemotional support</strong> with digital pedagogy.</li>
-    <li>Achieved a <strong>25% increase</strong> in educator confidence with new technologies.</li>
-  </ul>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/1b049620-5412-4a77-9312-4a8cf4ec3314" alt="Ayni-AI Presentation at COP29"/>
-    <br>
-    <em>Presenting Ayni-AI at COP29.</em>
-  </p>
-
-  <p><strong>Watch the Presentation </strong></p>
-  <p>Learn more about the project, its impact, and future potential in my presentation at COP29:</p>
-
-  <p><strong>Watch here:</strong> <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&list=LL&index=1&t=12902s">COP29 Presentation on Ayni-AI</a><br>
-  <em>(My presentation is featured from <strong>[03:33:30 - 03:44:41]</strong> within this panel discussion on "Success Stories for Sustainable Education".)</em></p>
-
-  <ul>
-    <li><strong>Research Report:</strong> <a href="https://github.com/user-attachments/files/19826613/2024_CEDS_Informe.de.Resultados.Ayni.v2.pdf">2024_CEDS_Informe de Resultados Ayni v2.pdf</a></li>
-  </ul>
-
-  <h3>3. Game Research & Gamification</h3>
-
-  <p>My research includes applying the <strong>Self-Determination Theory survey</strong> to <strong>500+ Chilean gamers</strong> to understand their motivations. This work explores the psychological underpinnings of engagement in digital environments.</p>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/b93968c5-1915-42a8-86c1-d1bc966ba472" alt="Game Research Visual"/>
-    <br>
-    <em>Infographic.</em>
-  </p>
-  <ul>
-    <li><strong>Fernandez, N. (2023) Understanding Gamers' Motivations:</strong> An analysis of young Chilean gamers using Self-Determination Theory.
-        <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2> Data-Driven Program Improvement</h2>
-  </summary>
-
-  <p>I believe in <strong>evidence-based learning design</strong>. I conduct thorough needs assessments to identify performance gaps and use various evaluation methods to measure training effectiveness. My approach involves leveraging data and metrics to continuously refine and improve learning programs, ensuring maximum impact.</p>
-
-  <p>My process typically includes:</p>
-  <ul>
-    <li><strong>Needs Assessments:</strong> Pinpointing specific skill gaps and learning objectives.</li>
-    <li><strong>Formative & Summative Evaluation:</strong> Employing surveys, quizzes, performance data, and feedback loops to assess learning outcomes.</li>
-    <li><strong>Iterative Enhancement:</strong> Using insights from data to make informed adjustments and optimize program design.</li>
-  </ul>
-
-  <p><strong>Measuring Impact (Example Visuals):</strong></p>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/f2545190-67c0-465d-aa43-a924f6738709" alt="Example Graph: Learner Performance Improvement"/>
-    <br>
-    <em>A graph showing a 25% average increase in post-training assessment scores compared to pre-training.</em>
-  </p>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/15403839-a94b-4cac-9443-4cc1c6c2837f" alt="Example Dashboard: Course Completion Rates"/>
-    <br>
-    <em>Representation of the sample by country.</em>
-  </p>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>AI Multimedia Tools</h2>
-  </summary>
-
-  <p>I bring learning experiences to life with a strong command of multimedia development. My skills span various formats, ensuring content is not only informative but also highly engaging and interactive.</p>
-
-  <p>My expertise includes creating:</p>
-  <ul>
-    <li><strong>Interactive Simulations:</strong> Designing scenarios that allow learners to practice skills in a safe environment.</li>
-    <li><strong>Animated Explainer Videos:</strong> Simplifying complex concepts through dynamic visual storytelling.</li>
-    <li><strong>Engaging Video Lectures:</strong> Producing high-quality instructional videos with clear objectives and compelling visuals.</li>
-    <li><strong>Interactive Quizzes & Activities:</strong> Integrating elements that promote active learning and immediate feedback.</li>
-  </ul>
-
-  <p><strong>AI-generated video for easily digestible modules:</strong></p>
-  <p align="center">
-    <a href="https://drive.google.com/file/d/1j6g2EMG8FS1pxz1SKFyh-YJzz6qFWE2c/view?usp=drive_link">Watch AI Video</a>
-    <br>
-    <em>An example of an AI-generated video for learning modules.</em>
-  </p>
-
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>Book Publication & Interviews</h2>
-  </summary>
-
-  <ul>
-    <li><strong>Published Book: (2021) Education for the 21st Century:</strong>
-        <a href="https://drive.google.com/file/d/1nslipccixl6wIWKWbaiZpNCUiFtaaZGx/view?usp=drive_link"><img class="badge" src="https://img.shields.io/badge/PDF-View-blue?style=for-the-badge&logo=googledrive" alt="View PDF"></a></li>
-  </ul>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/fdf163f5-e6d4-4982-a9f1-a11838949cb1" alt="Book publication cover"/>
-    <br>
-    <em>Cover of the book "Education for the 21st Century".</em>
-  </p>
-
-  <ul>
-    <li><strong>Interview: Back when I was interviewed by Biobio:</strong> <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml">Benefits of Boredom in Children</a></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>Conferences and Seminars</h2>
-  </summary>
-
-  <p align="center">
-    <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/044ac298-cefd-439c-b2d4-628fa89cf17a" alt="At Universidad de Santiago (USACH)"/>
-    <br>
-    <em>At Universidad de Santiago (USACH) (2020)</em>
-  </p>
-
-  <p align="center">
-    <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/9c79ee4c-9321-429b-8275-4c9ba0ef32ad" alt="Seminar at Universidad Andres Bello (UAB)"/>
-    <br>
-    <em>Seminar at Universidad Andres Bello (UAB) (2021)</em>
-  </p>
-
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/2c969818-abf7-4e79-a6a7-f7ba5b798017" alt="Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE)"/>
-    <br>
-    <em>Seminar at Universidad Metropolitana de Ciencias de la Educación (UMCE) (2021)</em>
-  </p>
-
-  <p align="center">
-    <img src="https://github.com/Psynicolas/psynicolas.github.io/assets/130244104/e4073457-bd37-4202-aa1c-445e724c4ff3" alt="Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)"/>
-    <br>
-    <em>Online Conference of Education Sponsored by UNESCO and the Ministry of Education of Chile (2022)</em>
-  </p>
-  <ul>
-    <li><strong>Presentation: (2022) Online Conference COEDU22, Socio Emotional Learning Panel:</strong>
-        <a href="https://www.youtube.com/watch?v=pJoHfEhnP64&ab_channel=Fundaci%C3%B3nCaserta">Watch on YouTube</a><br>
-        <em>(My presentation is featured within this panel discussion, where I discuss teacher self-efficacy and the "Profes en Red" program.)</em></li>
-  </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary>
-    <h2>My Framework: Learning Theories</h2>
-  </summary>
-
-  <p>I base my learning design and research on established educational psychology and learning theories. This framework ensures that my approaches are evidence-based and effective.</p>
-
-  <p>My core theoretical framework includes:</p>
-
-  <ul>
-    <li>Cognitive Psychology: Understanding how people think, perceive, remember, and learn.</li>
-    <li>Experiential Learning: Emphasizing learning through direct experience and reflection.</li>
-    <li>Social Learning: Focusing on learning from others in a social context.</li>
-    <li>Constructivism: Believing learners construct knowledge actively from their experiences.</li>
-    <li>Multiple Intelligences & SEL: Recognizing diverse forms of intelligence and the importance of socio-emotional learning.</li>
-    <li>Self-Efficacy Theory: Highlighting the belief in one's capacity to succeed in specific situations.</li>
-    <li>Motivation Theory: Exploring what drives learners and sustains their engagement.</li>
-    <li>Autonomy & Relatedness (Self-Determination Theory): Focusing on intrinsic motivation, autonomy, competence, and relatedness.</li>
-    <li>Andragogy: Principles tailored for adult learning and development.</li>
-    <li>Critical Pedagogy: Encouraging learners to challenge and transform oppressive structures.</li>
-  </ul>
-</details>
-
-<hr>
-
-<h2>✉️ Contact</h2>
-
-<p>If you have any questions, would like to discuss potential collaborations, or explore opportunities, please feel free to reach out!</p>
-
-<div class="contact-info">
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:nicolas.fh.psy@gmail.com">nicolas.fh.psy@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nicolas-fernandez-a6596171/">Connect with me on LinkedIn</a></li>
-  </ul>
-</div>
-
-<p>Let's discuss how psychological science and EdTech innovation can transform digital education!</p>
-
-<hr>
-
-<p>Thank you for visiting my Professional Site! </p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicolas Fernandez | EdTech & AI Specialist</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #2563eb;
+            --secondary: #0ea5e9;
+            --dark: #1e293b;
+            --light: #f8fafc;
+            --accent: #8b5cf6;
+            --highlight: #7c3aed;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background: var(--light);
+        }
+
+        /* Banner Original */
+        .banner {
+            width: 100%;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            padding: 2rem;
+        }
+
+        .banner img {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            display: block;
+            border-radius: 8px;
+        }
+
+        /* Header Hero */
+        .hero {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+            opacity: 0.3;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            animation: fadeInUp 0.8s ease;
+        }
+
+        .hero .subtitle {
+            font-size: 1.3rem;
+            opacity: 0.95;
+            margin-bottom: 1.5rem;
+            animation: fadeInUp 0.8s ease 0.2s both;
+        }
+
+        .hero .tagline {
+            font-size: 1.1rem;
+            font-weight: 300;
+            animation: fadeInUp 0.8s ease 0.4s both;
+        }
+
+        /* Navigation */
+        nav {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            padding: 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        nav li {
+            margin: 0.5rem 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--dark);
+            font-weight: 500;
+            transition: color 0.3s;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+        }
+
+        nav a:hover {
+            color: var(--primary);
+            background: rgba(37, 99, 235, 0.1);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Sections */
+        section {
+            margin: 4rem 0;
+            animation: fadeIn 0.6s ease;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 2rem;
+            text-align: center;
+            position: relative;
+        }
+
+        h2::after {
+            content: '';
+            display: block;
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            margin: 1rem auto;
+            border-radius: 2px;
+        }
+
+        /* Featured Project - Destacado */
+        .featured-project {
+            background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+            color: white;
+            border-radius: 1.5rem;
+            padding: 3rem;
+            margin: 3rem 0;
+            box-shadow: 0 20px 60px rgba(124, 58, 237, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .featured-project::before {
+            content: '★ FEATURED PROJECT';
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 2rem;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .featured-project h3 {
+            color: white;
+            font-size: 2.2rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .featured-content {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin: 2rem 0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .featured-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .featured-metric {
+            text-align: center;
+            padding: 1.5rem;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 1rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .featured-metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+        }
+
+        .featured-metric-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+
+        .featured-highlights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .featured-highlight {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1.5rem;
+            border-radius: 1rem;
+            border-left: 4px solid white;
+        }
+
+        .featured-highlight h4 {
+            color: white;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        /* Cards */
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 1rem;
+            padding: 2rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-top: 4px solid var(--primary);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+        }
+
+        .card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .card ul {
+            padding-left: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .card li {
+            margin: 0.5rem 0;
+        }
+
+        /* Projects */
+        .project {
+            background: white;
+            border-radius: 1rem;
+            padding: 2.5rem;
+            margin: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            border-left: 6px solid var(--accent);
+        }
+
+        .project h3 {
+            color: var(--accent);
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+
+        .project-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .tag {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 0.4rem 1rem;
+            border-radius: 2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .tag.white {
+            background: white;
+            color: var(--highlight);
+            border: 2px solid white;
+        }
+
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            text-decoration: none;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            transition: transform 0.3s, box-shadow 0.3s;
+            margin: 0.5rem;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(37, 99, 235, 0.3);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, var(--accent), #a78bfa);
+        }
+
+        .btn-white {
+            background: white;
+            color: var(--highlight);
+        }
+
+        .btn-white:hover {
+            box-shadow: 0 8px 16px rgba(255, 255, 255, 0.3);
+        }
+
+        /* Stats */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 2rem;
+            background: white;
+            border-radius: 1rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: bold;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            color: var(--dark);
+            font-size: 1.1rem;
+            margin-top: 0.5rem;
+        }
+
+        /* Contact */
+        .contact-box {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 3rem;
+            border-radius: 1rem;
+            text-align: center;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+
+        .contact-box h2 {
+            color: white;
+        }
+
+        .contact-box h2::after {
+            background: white;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        .contact-item a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: opacity 0.3s;
+        }
+
+        .contact-item a:hover {
+            opacity: 0.8;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero .subtitle {
+                font-size: 1.1rem;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-links {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .featured-project {
+                padding: 2rem;
+            }
+
+            .featured-project h3 {
+                font-size: 1.5rem;
+            }
+
+            .featured-project::before {
+                top: 10px;
+                right: 10px;
+                font-size: 0.65rem;
+            }
+        }
+
+        /* Skills Grid */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .skill-item {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 0.8rem;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .skill-item:hover {
+            transform: scale(1.05);
+        }
+
+        .skill-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Banner Original -->
+    <div class="banner">
+        <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner">
+    </div>
+
+    <!-- Header Hero -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Nicolas Fernandez</h1>
+            <p class="subtitle">PhD(c) in EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</p>
+            <p class="tagline">Researching, designing, developing, implementing and evaluating impactful learning experiences</p>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#featured">Featured Project</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#portfolios">Portfolios</a></li>
+            <li><a href="#impact">Impact</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <!-- Featured Project Section -->
+        <section id="featured">
+            <h2>Featured Instructional Design Project</h2>
+            
+            <div class="featured-project">
+                <h3>🎓 AI Inventory Assistant Course Proposal</h3>
+                <p style="font-size: 1.2rem; margin-bottom: 2rem;">Comprehensive learning design proposal for Make Academy: A mini-course teaching professionals to build AI-powered inventory management systems using no-code tools.</p>
+
+                <div class="featured-content">
+                    <h4 style="color: white; font-size: 1.3rem; margin-bottom: 1rem;">Project Overview</h4>
+                    <p>This instructional design project demonstrates a complete course development process from needs analysis to evaluation strategy. The course teaches retail operations managers to create AI agents that automate inventory management through natural language interactions in Slack.</p>
+                </div>
+
+                <div class="featured-metrics">
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">3</div>
+                        <div class="featured-metric-label">Hours Learning</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">4</div>
+                        <div class="featured-metric-label">Modules</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">5</div>
+                        <div class="featured-metric-label">Learning Objectives</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">80%</div>
+                        <div class="featured-metric-label">Target Completion</div>
+                    </div>
+                </div>
+
+                <div class="featured-highlights">
+                    <div class="featured-highlight">
+                        <h4>📋 Complete Needs Analysis</h4>
+                        <p>Detailed user persona with pain points, learning goals, and preferences based on retail operations managers</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>🎯 Bloom's Taxonomy Alignment</h4>
+                        <p>Learning objectives spanning from Understanding to Evaluation, with clear assessment methods</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>🗺️ Learner Journey Maps</h4>
+                        <p>Program-level and module-level journey maps showing progression from orientation to mastery</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>💡 Active Learning Focus</h4>
+                        <p>Learn-by-doing approach with continuous project building from account setup to customization</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>📊 Success Metrics</h4>
+                        <p>Clear evaluation framework including completion rates, time to first success, and business impact ROI</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>🎨 Cognitive Load Management</h4>
+                        <p>Progressive disclosure, chunked content, and just-in-time learning principles throughout</p>
+                    </div>
+                </div>
+
+                <div class="featured-content">
+                    <h4 style="color: white; font-size: 1.1rem; margin-bottom: 1rem;">Key Design Elements</h4>
+                    <ul style="line-height: 2;">
+                        <li><strong>Real-World Application:</strong> Every module builds toward a functional AI inventory assistant</li>
+                        <li><strong>Scaffolded Learning:</strong> Three-tier progression from observation to guided practice to independent application</li>
+                        <li><strong>Multimodal Resources:</strong> Interactive demonstrations, GIF tutorials, visual workflows, and hands-on exercises</li>
+                        <li><strong>Engagement Strategy:</strong> Celebration moments, personal relevance, and immediate business value</li>
+                        <li><strong>Assessment Integration:</strong> Pre-course diagnostic, module quizzes, and post-course perception survey</li>
+                    </ul>
+                </div>
+
+                <div class="project-meta" style="justify-content: center;">
+                    <span class="tag white">Instructional Design</span>
+                    <span class="tag white">ADDIE Framework</span>
+                    <span class="tag white">AI Education</span>
+                    <span class="tag white">No-Code Tools</span>
+                    <span class="tag white">Adult Learning</span>
+                </div>
+
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="https://psynicolas.github.io/Make_course/" class="btn btn-white" target="_blank">View Full Course Proposal</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>🎓 Expertise</h3>
+                    <ul>
+                        <li><strong>AI for Education:</strong> Designing and implementing AI solutions for learning</li>
+                        <li><strong>Human-Centered Research:</strong> Driving insights through robust methodologies</li>
+                        <li><strong>Adult Learning Principles:</strong> Crafting effective educational programs</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>🏆 Achievements</h3>
+                    <ul>
+                        <li>7+ years as Learning Designer & EdTech specialist</li>
+                        <li>Research-driven programs recognized by Chile's Ministry of Education</li>
+                        <li>Led UNESCO-backed COEDUXII conference</li>
+                        <li>Author: "Education for the 21st Century"</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>🔬 Research Focus</h3>
+                    <ul>
+                        <li>AI and Adult Education intersection</li>
+                        <li>Socioemotional learning in digital contexts</li>
+                        <li>Teacher self-efficacy and technology adoption</li>
+                        <li>Gamification and motivation theory</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Educators Reached</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">10</div>
+                <div class="stat-label">Countries Impacted</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">7+</div>
+                <div class="stat-label">Years Experience</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">500+</div>
+                <div class="stat-label">Research Participants</div>
+            </div>
+        </div>
+
+        <!-- Other Projects -->
+        <section id="projects">
+            <h2>Other Featured Projects</h2>
+            
+            <div class="project">
+                <h3>🌐 Profes en Red: Teacher Training Initiative</h3>
+                <p>A Latin American teacher empowerment initiative with a 6+ year longitudinal study on learning impact, reaching 1000+ educators across 10 countries.</p>
+                
+                <div class="project-meta">
+                    <span class="tag">Teacher Training</span>
+                    <span class="tag">Longitudinal Research</span>
+                    <span class="tag">SEL</span>
+                    <span class="tag">EdTech</span>
+                </div>
+
+                <h4>Key Focus Areas:</h4>
+                <ul>
+                    <li>Socioemotional skills training</li>
+                    <li>Sustainable development education</li>
+                    <li>Technology innovation</li>
+                    <li>Collaborative peer networks</li>
+                </ul>
+
+                <div style="margin-top: 1.5rem;">
+                    <a href="https://caserta.cl/profes-en-red/" class="btn" target="_blank">Visit Program Website</a>
+                    <a href="https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf" class="btn btn-secondary" target="_blank">Research Report</a>
+                </div>
+            </div>
+
+            <div class="project">
+                <h3>🤖 Ayni-AI: AI-Powered Teaching Assistant</h3>
+                <p>An innovative AI-powered virtual assistant supporting Latin American teachers in lesson planning, emotional well-being, and adopting innovative pedagogical practices.</p>
+                
+                <div class="project-meta">
+                    <span class="tag">AI Innovation</span>
+                    <span class="tag">Virtual Assistant</span>
+                    <span class="tag">COP29</span>
+                    <span class="tag">UNESCO</span>
+                </div>
+
+                <h4>Impact & Recognition:</h4>
+                <ul>
+                    <li><strong>20% improvement</strong> in teacher disposition towards AI (200 teachers surveyed)</li>
+                    <li><strong>25% increase</strong> in educator confidence with new technologies</li>
+                    <li>Presented at <strong>UN COP29 Climate Conference</strong></li>
+                    <li>Integrated socioemotional support with digital pedagogy</li>
+                </ul>
+
+                <div style="margin-top: 1.5rem;">
+                    <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&t=12902s" class="btn" target="_blank">Watch COP29 Presentation</a>
+                </div>
+            </div>
+
+            <div class="project">
+                <h3>🎮 Game Research & Gamification</h3>
+                <p>Applied Self-Determination Theory survey to 500+ Chilean gamers to understand motivations and psychological underpinnings of engagement in digital environments.</p>
+                
+                <div class="project-meta">
+                    <span class="tag">Research</span>
+                    <span class="tag">Gamification</span>
+                    <span class="tag">Motivation Theory</span>
+                    <span class="tag">SDT</span>
+                </div>
+
+                <div style="margin-top: 1.5rem;">
+                    <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view" class="btn btn-secondary" target="_blank">View Research Paper</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolios -->
+        <section id="portfolios">
+            <h2>Portfolios & Work Samples</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>📚 ADDIE Case Study Portfolio</h3>
+                    <p>Comprehensive learning design case studies using the ADDIE model</p>
+                    <a href="https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view" class="btn" target="_blank">View Portfolio</a>
+                </div>
+                <div class="card">
+                    <h3>🔬 General Portfolio</h3>
+                    <p>Learning Designer & Researcher work compilation</p>
+                    <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view" class="btn" target="_blank">View Portfolio</a>
+                </div>
+                <div class="card">
+                    <h3>💻 E-learning Content</h3>
+                    <p>Course guide sample and instructional materials</p>
+                    <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view" class="btn" target="_blank">View Sample</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills & Framework -->
+        <section id="impact">
+            <h2>Theoretical Framework & Approach</h2>
+            <div class="skills-grid">
+                <div class="skill-item">
+                    <div class="skill-icon">🧠</div>
+                    <strong>Cognitive Psychology</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🔄</div>
+                    <strong>Experiential Learning</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">👥</div>
+                    <strong>Social Learning</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🏗️</div>
+                    <strong>Constructivism</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">💡</div>
+                    <strong>Multiple Intelligences</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">💪</div>
+                    <strong>Self-Efficacy Theory</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🎯</div>
+                    <strong>Motivation Theory</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🌱</div>
+                    <strong>Self-Determination</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">👨‍🎓</div>
+                    <strong>Andragogy</strong>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">✊</div>
+                    <strong>Critical Pedagogy</strong>
+                </div>
+            </div>
+        </section
