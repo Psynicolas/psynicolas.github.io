@@ -12,25 +12,27 @@
         }
 
         :root {
-            --primary: #2563eb;
-            --secondary: #0ea5e9;
-            --dark: #1e293b;
-            --light: #f8fafc;
-            --accent: #8b5cf6;
-            --highlight: #7c3aed;
+            --black: #000000;
+            --dark-gray: #1a1a1a;
+            --medium-gray: #4a4a4a;
+            --light-gray: #9ca3af;
+            --off-white: #f5f5f5;
+            --white: #ffffff;
+            --accent-gold: #b8926a;
+            --accent-sepia: #a0826d;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            color: var(--dark);
-            background: var(--light);
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.7;
+            color: var(--dark-gray);
+            background: var(--white);
         }
 
         /* Banner Original */
         .banner {
             width: 100%;
-            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            background: #2a2a2a;
             padding: 2rem;
         }
 
@@ -39,63 +41,54 @@
             max-width: 1200px;
             margin: 0 auto;
             display: block;
-            border-radius: 8px;
+            filter: grayscale(100%) contrast(1.1);
         }
 
         /* Header Hero */
         .hero {
-            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
-            color: white;
-            padding: 3rem 2rem;
+            background: #2a2a2a;
+            color: var(--white);
+            padding: 4rem 2rem;
             text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
-            opacity: 0.3;
+            border-bottom: 1px solid var(--accent-gold);
         }
 
         .hero-content {
-            position: relative;
-            z-index: 1;
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
         }
 
         .hero h1 {
             font-size: 3rem;
+            font-weight: 300;
+            letter-spacing: 2px;
             margin-bottom: 1rem;
-            animation: fadeInUp 0.8s ease;
+            text-transform: uppercase;
         }
 
         .hero .subtitle {
-            font-size: 1.3rem;
-            opacity: 0.95;
+            font-size: 1.1rem;
+            font-weight: 300;
+            color: var(--accent-sepia);
             margin-bottom: 1.5rem;
-            animation: fadeInUp 0.8s ease 0.2s both;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .hero .tagline {
-            font-size: 1.1rem;
+            font-size: 1rem;
             font-weight: 300;
-            animation: fadeInUp 0.8s ease 0.4s both;
+            font-style: italic;
+            opacity: 0.75;
         }
 
         /* Navigation */
         nav {
-            background: white;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            background: var(--white);
+            border-bottom: 1px solid var(--light-gray);
             position: sticky;
             top: 0;
             z-index: 100;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
         }
 
         nav ul {
@@ -103,27 +96,32 @@
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
-            padding: 1rem;
+            padding: 0;
             max-width: 1200px;
             margin: 0 auto;
         }
 
         nav li {
-            margin: 0.5rem 1rem;
+            margin: 0;
         }
 
         nav a {
             text-decoration: none;
-            color: var(--dark);
-            font-weight: 500;
-            transition: color 0.3s;
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
+            color: var(--dark-gray);
+            font-weight: 700;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s;
+            padding: 1.2rem 1.5rem;
+            display: block;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            border-bottom: 2px solid transparent;
         }
 
         nav a:hover {
-            color: var(--primary);
-            background: rgba(37, 99, 235, 0.1);
+            color: var(--accent-gold);
+            border-bottom-color: var(--accent-gold);
         }
 
         /* Container */
@@ -135,93 +133,145 @@
 
         /* Sections */
         section {
-            margin: 4rem 0;
-            animation: fadeIn 0.6s ease;
+            margin: 5rem 0;
         }
 
         h2 {
             font-size: 2.5rem;
-            color: var(--primary);
-            margin-bottom: 2rem;
+            font-weight: 300;
+            color: var(--black);
+            margin-bottom: 3rem;
             text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 3px;
             position: relative;
+            padding-bottom: 1rem;
         }
 
         h2::after {
             content: '';
             display: block;
-            width: 80px;
-            height: 4px;
-            background: linear-gradient(90deg, var(--primary), var(--secondary));
-            margin: 1rem auto;
-            border-radius: 2px;
+            width: 60px;
+            height: 1px;
+            background: var(--accent-gold);
+            margin: 1.5rem auto 0;
         }
 
-        /* Featured Project - Destacado */
+        /* Cards */
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .card {
+            background: var(--off-white);
+            border: 1px solid var(--light-gray);
+            padding: 2.5rem;
+            transition: all 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-color: var(--accent-gold);
+        }
+
+        .card h3 {
+            color: var(--black);
+            margin-bottom: 1.5rem;
+            font-size: 1.3rem;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+        }
+
+        .card ul {
+            padding-left: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .card li {
+            margin: 0.8rem 0;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-size: 0.95rem;
+        }
+
+        /* Featured Project */
         .featured-project {
-            background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
-            color: white;
-            border-radius: 1.5rem;
-            padding: 3rem;
-            margin: 3rem 0;
-            box-shadow: 0 20px 60px rgba(124, 58, 237, 0.3);
+            background: var(--dark-gray);
+            color: var(--white);
+            padding: 4rem;
+            margin: 4rem 0;
             position: relative;
-            overflow: hidden;
+            border: 1px solid var(--black);
         }
 
         .featured-project::before {
-            content: '★ FEATURED PROJECT';
+            content: 'FEATURED PROJECT';
             position: absolute;
-            top: 20px;
-            right: 20px;
-            background: rgba(255, 255, 255, 0.2);
-            padding: 0.5rem 1rem;
-            border-radius: 2rem;
-            font-size: 0.75rem;
-            font-weight: 700;
-            letter-spacing: 1px;
+            top: 2rem;
+            right: 2rem;
+            color: var(--accent-gold);
+            font-size: 0.7rem;
+            font-weight: 400;
+            letter-spacing: 2px;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .featured-project h3 {
-            color: white;
-            font-size: 2.2rem;
+            color: var(--white);
+            font-size: 2rem;
             margin-bottom: 1.5rem;
+            font-weight: 300;
+            text-transform: uppercase;
+            letter-spacing: 2px;
         }
 
         .featured-content {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
             padding: 2rem;
             margin: 2rem 0;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .featured-content h4 {
+            color: var(--accent-gold);
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .featured-metrics {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1.5rem;
-            margin: 2rem 0;
+            gap: 2rem;
+            margin: 2.5rem 0;
         }
 
         .featured-metric {
             text-align: center;
             padding: 1.5rem;
-            background: rgba(255, 255, 255, 0.15);
-            border-radius: 1rem;
-            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
         }
 
         .featured-metric-value {
-            font-size: 2.5rem;
-            font-weight: 700;
-            color: white;
+            font-size: 3rem;
+            font-weight: 300;
+            color: var(--accent-gold);
         }
 
         .featured-metric-label {
-            font-size: 0.9rem;
-            opacity: 0.9;
+            font-size: 0.8rem;
+            opacity: 0.8;
             margin-top: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .featured-highlights {
@@ -232,69 +282,43 @@
         }
 
         .featured-highlight {
-            background: rgba(255, 255, 255, 0.1);
+            background: rgba(255, 255, 255, 0.05);
             padding: 1.5rem;
-            border-radius: 1rem;
-            border-left: 4px solid white;
+            border-left: 2px solid var(--accent-gold);
         }
 
         .featured-highlight h4 {
-            color: white;
+            color: var(--white);
             margin-bottom: 0.5rem;
-            font-size: 1.1rem;
+            font-size: 1rem;
+            font-weight: 400;
         }
 
-        /* Cards */
-        .cards {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-top: 2rem;
-        }
-
-        .card {
-            background: white;
-            border-radius: 1rem;
-            padding: 2rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
-            border-top: 4px solid var(--primary);
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 24px rgba(0,0,0,0.15);
-        }
-
-        .card h3 {
-            color: var(--primary);
-            margin-bottom: 1rem;
-            font-size: 1.5rem;
-        }
-
-        .card ul {
-            padding-left: 1.5rem;
-            margin: 1rem 0;
-        }
-
-        .card li {
-            margin: 0.5rem 0;
+        .featured-highlight p {
+            font-size: 0.9rem;
+            opacity: 0.85;
         }
 
         /* Projects */
         .project {
-            background: white;
-            border-radius: 1rem;
+            background: var(--off-white);
+            border-left: 3px solid var(--accent-sepia);
             padding: 2.5rem;
-            margin: 2rem 0;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            border-left: 6px solid var(--accent);
+            margin: 2.5rem 0;
+            transition: all 0.3s;
+        }
+
+        .project:hover {
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
         }
 
         .project h3 {
-            color: var(--accent);
-            font-size: 1.8rem;
+            color: var(--black);
+            font-size: 1.5rem;
             margin-bottom: 1rem;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .project-meta {
@@ -305,49 +329,64 @@
         }
 
         .tag {
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            color: white;
+            background: var(--black);
+            color: var(--white);
             padding: 0.4rem 1rem;
-            border-radius: 2rem;
-            font-size: 0.9rem;
-            font-weight: 500;
+            font-size: 0.75rem;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .tag.white {
-            background: white;
-            color: var(--highlight);
-            border: 2px solid white;
+            background: var(--white);
+            color: var(--dark-gray);
+            border: 1px solid var(--dark-gray);
         }
 
         /* Buttons */
         .btn {
             display: inline-block;
-            padding: 0.8rem 2rem;
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            color: white;
+            padding: 1rem 2.5rem;
+            background: var(--black);
+            color: var(--white);
             text-decoration: none;
-            border-radius: 0.5rem;
-            font-weight: 600;
-            transition: transform 0.3s, box-shadow 0.3s;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.85rem;
+            transition: all 0.3s;
             margin: 0.5rem;
+            border: 1px solid var(--black);
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 16px rgba(37, 99, 235, 0.3);
+            background: var(--white);
+            color: var(--black);
+            border-color: var(--black);
         }
 
         .btn-secondary {
-            background: linear-gradient(135deg, var(--accent), #a78bfa);
+            background: var(--accent-sepia);
+            border-color: var(--accent-sepia);
+        }
+
+        .btn-secondary:hover {
+            background: transparent;
+            color: var(--accent-sepia);
         }
 
         .btn-white {
-            background: white;
-            color: var(--highlight);
+            background: var(--white);
+            color: var(--dark-gray);
+            border-color: var(--white);
         }
 
         .btn-white:hover {
-            box-shadow: 0 8px 16px rgba(255, 255, 255, 0.3);
+            background: transparent;
+            color: var(--white);
         }
 
         /* Stats */
@@ -355,267 +394,89 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 2rem;
-            margin: 3rem 0;
+            margin: 4rem 0;
         }
 
         .stat {
             text-align: center;
-            padding: 2rem;
-            background: white;
-            border-radius: 1rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 2.5rem;
+            background: var(--off-white);
+            border: 1px solid var(--light-gray);
         }
 
         .stat-number {
-            font-size: 3rem;
-            font-weight: bold;
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            font-size: 3.5rem;
+            font-weight: 300;
+            color: var(--accent-gold);
         }
 
         .stat-label {
-            color: var(--dark);
-            font-size: 1.1rem;
-            margin-top: 0.5rem;
+            color: var(--medium-gray);
+            font-size: 0.9rem;
+            margin-top: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         /* Contact */
         .contact-box {
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            color: white;
-            padding: 3rem;
-            border-radius: 1rem;
+            background: var(--black);
+            color: var(--white);
+            padding: 4rem;
             text-align: center;
-            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            border: 1px solid var(--accent-gold);
         }
 
         .contact-box h2 {
-            color: white;
+            color: var(--white);
         }
 
         .contact-box h2::after {
-            background: white;
+            background: var(--accent-gold);
         }
 
         .contact-links {
             display: flex;
             justify-content: center;
-            gap: 2rem;
+            gap: 3rem;
             margin-top: 2rem;
             flex-wrap: wrap;
         }
 
         .contact-item {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            font-size: 1.1rem;
+            font-size: 1rem;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
         .contact-item a {
-            color: white;
+            color: var(--white);
             text-decoration: none;
-            font-weight: 500;
-            transition: opacity 0.3s;
+            font-weight: 300;
+            transition: color 0.3s;
+            border-bottom: 1px solid transparent;
+            padding-bottom: 2px;
         }
 
         .contact-item a:hover {
-            opacity: 0.8;
+            color: var(--accent-gold);
+            border-bottom-color: var(--accent-gold);
         }
 
         /* Footer */
         footer {
-            background: var(--dark);
-            color: white;
+            background: var(--dark-gray);
+            color: var(--light-gray);
             text-align: center;
-            padding: 2rem;
-            margin-top: 4rem;
+            padding: 2.5rem;
+            margin-top: 5rem;
+            border-top: 1px solid var(--accent-gold);
+            font-family: 'Helvetica Neue', Arial, sans-serif;
         }
 
-        /* Animations */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
-        /* Collapsible Sections */
-        .collapsible {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            cursor: pointer;
-            padding: 1.5rem;
-            width: 100%;
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            text-align: left;
-            outline: none;
-            font-size: 1.3rem;
-            font-weight: 600;
-            border-radius: 0.5rem;
-            margin-top: 1.5rem;
-            transition: all 0.3s;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .collapsible:hover {
-            background: rgba(255, 255, 255, 0.3);
-            border-color: rgba(255, 255, 255, 0.5);
-        }
-
-        .collapsible:after {
-            content: '\002B';
-            color: white;
-            font-weight: bold;
-            font-size: 2rem;
-        }
-
-        .collapsible.active {
-            background: rgba(255, 255, 255, 0.25);
-        }
-
-        .collapsible.active:after {
-            content: "\2212";
-        }
-
-        .collapsible-content {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.3s ease-out;
-            background: white;
-            border-radius: 0 0 0.5rem 0.5rem;
-            margin-top: 1rem;
-        }
-
-        .collapsible-content.active {
-            max-height: none;
-        }
-
-        .collapsible-inner {
-            padding: 2rem;
-            line-height: 1.8;
-            color: var(--dark);
-        }
-
-        .proposal-section {
-            margin: 2rem 0;
-            padding: 1.5rem;
-            background: #f9fafb;
-            border-radius: 0.5rem;
-            border-left: 4px solid var(--highlight);
-        }
-
-        .proposal-section h4 {
-            color: var(--highlight);
-            margin-bottom: 1rem;
-        }
-
-        .proposal-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 1.5rem 0;
-            background: white;
-        }
-
-        .proposal-table th {
-            background: var(--highlight);
-            color: white;
-            padding: 1rem;
-            text-align: left;
-        }
-
-        .proposal-table td {
-            padding: 1rem;
-            border: 1px solid #e5e7eb;
-            color: var(--dark);
-        }
-
-        .proposal-table tr:nth-child(even) {
-            background: #f9fafb;
-        }
-
-        .module-box {
-            background: white;
-            border: 2px solid #e5e7eb;
-            border-radius: 0.8rem;
-            padding: 1.5rem;
-            margin: 1rem 0;
-        }
-
-        .module-box h4 {
-            color: var(--highlight);
-            margin-bottom: 0.5rem;
-        }
-
-        .module-box p,
-        .module-box ul,
-        .module-box li {
-            color: var(--dark);
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 2rem;
-            }
-
-            .hero .subtitle {
-                font-size: 1.1rem;
-            }
-
-            h2 {
-                font-size: 2rem;
-            }
-
-            nav ul {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .stats {
-                grid-template-columns: 1fr;
-            }
-
-            .contact-links {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .featured-project {
-                padding: 2rem;
-            }
-
-            .featured-project h3 {
-                font-size: 1.5rem;
-            }
-
-            .featured-project::before {
-                top: 10px;
-                right: 10px;
-                font-size: 0.65rem;
-            }
-
-            .proposal-table {
-                font-size: 0.9rem;
-            }
-
-            .proposal-table th,
-            .proposal-table td {
-                padding: 0.5rem;
-            }
+        footer p {
+            font-size: 0.9rem;
+            font-weight: 300;
         }
 
         /* Skills Grid */
@@ -623,25 +484,88 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
             gap: 1.5rem;
-            margin: 2rem 0;
+            margin: 3rem 0;
         }
 
         .skill-item {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 0.8rem;
+            background: var(--off-white);
+            padding: 2rem;
             text-align: center;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            transition: transform 0.3s;
+            border: 1px solid var(--light-gray);
+            transition: all 0.3s;
         }
 
         .skill-item:hover {
-            transform: scale(1.05);
+            border-color: var(--accent-gold);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
         }
 
         .skill-icon {
             font-size: 2rem;
-            margin-bottom: 0.5rem;
+            margin-bottom: 1rem;
+            filter: grayscale(100%);
+        }
+
+        .skill-item strong {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 400;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+                letter-spacing: 1px;
+            }
+
+            .hero .subtitle {
+                font-size: 1rem;
+            }
+
+            h2 {
+                font-size: 1.8rem;
+                letter-spacing: 2px;
+            }
+
+            nav ul {
+                flex-direction: column;
+            }
+
+            nav a {
+                border-bottom: 1px solid var(--light-gray);
+            }
+
+            .featured-project {
+                padding: 2rem;
+            }
+
+            .featured-project::before {
+                top: 1rem;
+                right: 1rem;
+            }
+
+            .stats,
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-links {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+        }
+
+        /* Subtle animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        section {
+            animation: fadeIn 0.6s ease-out;
         }
     </style>
 </head>
@@ -679,7 +603,7 @@
             <h2>About Me</h2>
             <div class="cards">
                 <div class="card">
-                    <h3>🎓 Expertise</h3>
+                    <h3>Expertise</h3>
                     <ul>
                         <li><strong>AI for Education:</strong> Designing and implementing AI solutions for learning</li>
                         <li><strong>Human-Centered Research:</strong> Driving insights through robust methodologies</li>
@@ -687,7 +611,7 @@
                     </ul>
                 </div>
                 <div class="card">
-                    <h3>🏆 Achievements</h3>
+                    <h3>Achievements</h3>
                     <ul>
                         <li>7+ years as Learning Designer & EdTech specialist</li>
                         <li>Research-driven programs recognized by Chile's Ministry of Education</li>
@@ -696,145 +620,7 @@
                     </ul>
                 </div>
                 <div class="card">
-                    <h3>🔬 Research Focus</h3>
-                    <ul>
-                        <li>AI and Adult Education intersection</li>
-                        <li>Socioemotional learning in digital contexts</li>
-                        <li>Teacher self-efficacy and technology adoption</li>
-                        <li>Gamification and motivation theory</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <!-- Stats -->
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-number">1000+</div>
-                <div class="stat-label">Educators Reached</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">10</div>
-                <div class="stat-label">Countries Impacted</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">10+</div>
-                <div class="stat-label">Years Experience</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">500+</div>
-                <div class="stat-label">Research Participants</div>
-            </div>
-        </div>
-
-        <!-- Featured Project Section -->
-        <section id="featured">
-            <h2>Featured Project: Course Design Proposal</h2>
-            
-            <div class="featured-project">
-                <h3>🎓 AI Inventory Assistant Course Proposal</h3>
-                <p style="font-size: 1.2rem; margin-bottom: 2rem;">Comprehensive learning design proposal for Make Academy: A mini-course teaching professionals to build AI-powered inventory management systems using no-code tools.</p>
-
-                <div class="featured-content">
-                    <h4 style="color: white; font-size: 1.3rem; margin-bottom: 1rem;">Project Overview</h4>
-                    <p>This instructional design project demonstrates a complete course development process from needs analysis to evaluation strategy. The course teaches retail operations managers to create AI agents that automate inventory management through natural language interactions in Slack.</p>
-                </div>
-
-                <div class="featured-metrics">
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">3</div>
-                        <div class="featured-metric-label">Hours Learning</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">4</div>
-                        <div class="featured-metric-label">Modules</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">5</div>
-                        <div class="featured-metric-label">Learning Objectives</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">80%</div>
-                        <div class="featured-metric-label">Target Completion</div>
-                    </div>
-                </div>
-
-                <div class="featured-highlights">
-                    <div class="featured-highlight">
-                        <h4>📋 Complete Needs Analysis</h4>
-                        <p>Detailed user persona with pain points, learning goals, and preferences based on retail operations managers</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>🎯 Bloom's Taxonomy Alignment</h4>
-                        <p>Learning objectives spanning from Understanding to Evaluation, with clear assessment methods</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>🗺️ Learner Journey Maps</h4>
-                        <p>Program-level and module-level journey maps showing progression from orientation to mastery</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>💡 Active Learning Focus</h4>
-                        <p>Learn-by-doing approach with continuous project building from account setup to customization</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>📊 Success Metrics</h4>
-                        <p>Clear evaluation framework including completion rates, time to first success, and business impact ROI</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>🎨 Cognitive Load Management</h4>
-                        <p>Progressive disclosure, chunked content, and just-in-time learning principles throughout</p>
-                    </div>
-                </div>
-
-                <div class="featured-content">
-                    <h4 style="color: white; font-size: 1.1rem; margin-bottom: 1rem;">Key Design Elements</h4>
-                    <ul style="line-height: 2;">
-                        <li><strong>Real-World Application:</strong> Every module builds toward a functional AI inventory assistant</li>
-                        <li><strong>Scaffolded Learning:</strong> Three-tier progression from observation to guided practice to independent application</li>
-                        <li><strong>Multimodal Resources:</strong> Interactive demonstrations, GIF tutorials, visual workflows, and hands-on exercises</li>
-                        <li><strong>Engagement Strategy:</strong> Celebration moments, personal relevance, and immediate business value</li>
-                        <li><strong>Assessment Integration:</strong> Pre-course diagnostic, module quizzes, and post-course perception survey</li>
-                    </ul>
-                </div>
-
-                <div class="project-meta" style="justify-content: center;">
-                    <span class="tag white">Instructional Design</span>
-                    <span class="tag white">ADDIE Framework</span>
-                    <span class="tag white">AI Education</span>
-                    <span class="tag white">No-Code Tools</span>
-                    <span class="tag white">Adult Learning</span>
-                </div>
-
-                <div style="text-align: center; margin-top: 2rem;">
-                    <a href="https://drive.google.com/file/d/17Hnm244SRaToX7zjFanoe5duPe_UuUuO/view?usp=sharing" class="btn btn-white" target="_blank">Download PDF Version</a>
-                </div>
-
-            </div>
-        </section>
-
-        <!-- About Section -->
-        <section id="about-old" style="display: none;">
-            <h2>About Me</h2>
-            <div class="cards">
-                <div class="card">
-                    <h3>🎓 Expertise</h3>
-                    <ul>
-                        <li><strong>AI for Education:</strong> Designing and implementing AI solutions for learning</li>
-                        <li><strong>Human-Centered Research:</strong> Driving insights through robust methodologies</li>
-                        <li><strong>Adult Learning Principles:</strong> Crafting effective educational programs</li>
-                    </ul>
-                </div>
-                <div class="card">
-                    <h3>🏆 Achievements</h3>
-                    <ul>
-                        <li>7+ years as Learning Designer & EdTech specialist</li>
-                        <li>Research-driven programs recognized by Chile's Ministry of Education</li>
-                        <li>Led UNESCO-backed COEDUXII conference</li>
-                        <li>Author: "Education for the 21st Century"</li>
-                    </ul>
-                </div>
-                <div class="card">
-                    <h3>🔬 Research Focus</h3>
+                    <h3>Research Focus</h3>
                     <ul>
                         <li>AI and Adult Education intersection</li>
                         <li>Socioemotional learning in digital contexts</li>
@@ -865,34 +651,119 @@
             </div>
         </div>
 
+        <!-- Featured Project Section -->
+        <section id="featured">
+            <h2>Featured Project: Course Design Proposal</h2>
+            
+            <div class="featured-project">
+                <h3>AI Inventory Assistant Course Proposal</h3>
+                <p style="font-size: 1.1rem; margin-bottom: 2rem; opacity: 0.9;">Comprehensive learning design proposal for Make Academy: A mini-course teaching professionals to build AI-powered inventory management systems using no-code tools.</p>
+
+                <div class="featured-content">
+                    <h4>Project Overview</h4>
+                    <p>This instructional design project demonstrates a complete course development process from needs analysis to evaluation strategy. The course teaches retail operations managers to create AI agents that automate inventory management through natural language interactions in Slack.</p>
+                </div>
+
+                <div class="featured-metrics">
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">3</div>
+                        <div class="featured-metric-label">Hours Learning</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">4</div>
+                        <div class="featured-metric-label">Modules</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">5</div>
+                        <div class="featured-metric-label">Learning Objectives</div>
+                    </div>
+                    <div class="featured-metric">
+                        <div class="featured-metric-value">80%</div>
+                        <div class="featured-metric-label">Target Completion</div>
+                    </div>
+                </div>
+
+                <div class="featured-highlights">
+                    <div class="featured-highlight">
+                        <h4>Complete Needs Analysis</h4>
+                        <p>Detailed user persona with pain points, learning goals, and preferences based on retail operations managers</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>Bloom's Taxonomy Alignment</h4>
+                        <p>Learning objectives spanning from Understanding to Evaluation, with clear assessment methods</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>Learner Journey Maps</h4>
+                        <p>Program-level and module-level journey maps showing progression from orientation to mastery</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>Active Learning Focus</h4>
+                        <p>Learn-by-doing approach with continuous project building from account setup to customization</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>Success Metrics</h4>
+                        <p>Clear evaluation framework including completion rates, time to first success, and business impact ROI</p>
+                    </div>
+                    <div class="featured-highlight">
+                        <h4>Cognitive Load Management</h4>
+                        <p>Progressive disclosure, chunked content, and just-in-time learning principles throughout</p>
+                    </div>
+                </div>
+
+                <div class="featured-content">
+                    <h4>Key Design Elements</h4>
+                    <ul style="line-height: 2; opacity: 0.9;">
+                        <li><strong>Real-World Application:</strong> Every module builds toward a functional AI inventory assistant</li>
+                        <li><strong>Scaffolded Learning:</strong> Three-tier progression from observation to guided practice to independent application</li>
+                        <li><strong>Multimodal Resources:</strong> Interactive demonstrations, GIF tutorials, visual workflows, and hands-on exercises</li>
+                        <li><strong>Engagement Strategy:</strong> Celebration moments, personal relevance, and immediate business value</li>
+                        <li><strong>Assessment Integration:</strong> Pre-course diagnostic, module quizzes, and post-course perception survey</li>
+                    </ul>
+                </div>
+
+                <div class="project-meta" style="justify-content: center;">
+                    <span class="tag white">Instructional Design</span>
+                    <span class="tag white">ADDIE Framework</span>
+                    <span class="tag white">AI Education</span>
+                    <span class="tag white">No-Code Tools</span>
+                    <span class="tag white">Adult Learning</span>
+                </div>
+
+                <div style="text-align: center; margin-top: 2.5rem;">
+                    <a href="https://drive.google.com/file/d/17Hnm244SRaToX7zjFanoe5duPe_UuUuO/view?usp=sharing" class="btn btn-white" target="_blank">Download PDF Version</a>
+                </div>
+
+            </div>
+        </section>
+
         <!-- Portfolios -->
         <section id="portfolio">
             <h2>Portfolio & Work Samples</h2>
             <div class="cards">
                 <div class="card">
-                    <h3>📚 ADDIE Case Study Portfolio</h3>
+                    <h3>ADDIE Case Study</h3>
                     <p>Comprehensive learning design case studies using the ADDIE model</p>
                     <a href="https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view" class="btn" target="_blank">View Portfolio</a>
                 </div>
                 <div class="card">
-                    <h3>🔬 General Portfolio</h3>
+                    <h3>General Portfolio</h3>
                     <p>Learning Designer & Researcher work compilation</p>
                     <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view" class="btn" target="_blank">View Portfolio</a>
                 </div>
                 <div class="card">
-                    <h3>💻 E-learning Content</h3>
+                    <h3>E-learning Content</h3>
                     <p>Course guide sample and instructional materials</p>
                     <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view" class="btn" target="_blank">View Sample</a>
                 </div>
             </div>
         </section>
 
-        <!-- Other Projects -->
+        <!-- Featured Projects -->
         <section id="projects">
             <h2>Featured Projects</h2>
             
             <div class="project">
-                <h3>🌐 Profes en Red: Teacher Training Initiative</h3>
+                <h3>Profes en Red: Teacher Training Initiative</h3>
                 <p>A Latin American teacher empowerment initiative with a 6+ year longitudinal study on learning impact, reaching 1000+ educators across 10 countries.</p>
                 
                 <div class="project-meta">
@@ -902,7 +773,7 @@
                     <span class="tag">EdTech</span>
                 </div>
 
-                <h4>Key Focus Areas:</h4>
+                <h4 style="margin-top: 1.5rem; font-weight: 400; font-size: 1.1rem;">Key Focus Areas:</h4>
                 <ul>
                     <li>Socioemotional skills training</li>
                     <li>Sustainable development education</li>
@@ -917,7 +788,7 @@
             </div>
 
             <div class="project">
-                <h3>🤖 Ayni-AI: AI-Powered Teaching Assistant</h3>
+                <h3>Ayni-AI: AI-Powered Teaching Assistant</h3>
                 <p>An innovative AI-powered virtual assistant supporting Latin American teachers in lesson planning, emotional well-being, and adopting innovative pedagogical practices.</p>
                 
                 <div class="project-meta">
@@ -927,7 +798,7 @@
                     <span class="tag">UNESCO</span>
                 </div>
 
-                <h4>Impact & Recognition:</h4>
+                <h4 style="margin-top: 1.5rem; font-weight: 400; font-size: 1.1rem;">Impact & Recognition:</h4>
                 <ul>
                     <li><strong>20% improvement</strong> in teacher disposition towards AI (200 teachers surveyed)</li>
                     <li><strong>25% increase</strong> in educator confidence with new technologies</li>
@@ -941,7 +812,7 @@
             </div>
 
             <div class="project">
-                <h3>🎮 Game Research & Gamification</h3>
+                <h3>Game Research & Gamification</h3>
                 <p>Applied Self-Determination Theory survey to 500+ Chilean gamers to understand motivations and psychological underpinnings of engagement in digital environments.</p>
                 
                 <div class="project-meta">
@@ -957,37 +828,9 @@
             </div>
         </section>
 
-        <!-- Portfolios -->
-        <section id="portfolio">
-            <h2>Portfolio & Work Samples</h2>
-            <div class="cards">
-                <div class="card">
-                    <h3>📚 ADDIE Case Study Portfolio</h3>
-                    <p>Comprehensive learning design case studies using the ADDIE model</p>
-                    <a href="https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view" class="btn" target="_blank">View Portfolio</a>
-                </div>
-                <div class="card">
-                    <h3>🔬 General Portfolio</h3>
-                    <p>Learning Designer & Researcher work compilation</p>
-                    <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view" class="btn" target="_blank">View Portfolio</a>
-                </div>
-                <div class="card">
-                    <h3>💻 E-learning Content</h3>
-                    <p>Course guide sample and instructional materials</p>
-                    <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view" class="btn" target="_blank">View Sample</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Featured Projects -->
-        <section id="projects">
-            <h2>Featured Projects</h2>
-            
-            <div class="project">
-
         <!-- Skills & Framework -->
         <section id="impact">
-            <h2>Theoretical Framework & Approach</h2>
+            <h2>Theoretical Framework</h2>
             <div class="skills-grid">
                 <div class="skill-item">
                     <div class="skill-icon">🧠</div>
@@ -1005,77 +848,4 @@
                     <div class="skill-icon">🏗️</div>
                     <strong>Constructivism</strong>
                 </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💡</div>
-                    <strong>Multiple Intelligences</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💪</div>
-                    <strong>Self-Efficacy Theory</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎯</div>
-                    <strong>Motivation Theory</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🌱</div>
-                    <strong>Self-Determination</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">👨‍🎓</div>
-                    <strong>Andragogy</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">✊</div>
-                    <strong>Critical Pedagogy</strong>
-                </div>
-            </div>
-        </section>
-
-        <!-- Publications -->
-        <section id="publications">
-            <h2>Publications & Media</h2>
-            <div class="cards">
-                <div class="card">
-                    <h3>📖 Book Publication (2021)</h3>
-                    <p><strong>"Education for the 21st Century"</strong></p>
-                    <a href="https://drive.google.com/file/d/1nslipccixl6wIWKWbaiZpNCUiFtaaZGx/view" class="btn" target="_blank">Read Book</a>
-                </div>
-                <div class="card">
-                    <h3>🎤 COEDU22 UNESCO Conference</h3>
-                    <p>Socio-Emotional Learning Panel presentation on teacher self-efficacy</p>
-                    <a href="https://www.youtube.com/watch?v=pJoHfEhnP64" class="btn btn-secondary" target="_blank">Watch Presentation</a>
-                </div>
-                <div class="card">
-                    <h3>📺 Media Interview</h3>
-                    <p>BioBio TV: Benefits of Boredom in Children</p>
-                    <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml" class="btn btn-secondary" target="_blank">Watch Interview</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Contact -->
-        <section id="contact">
-            <div class="contact-box">
-                <h2>Let's Connect</h2>
-                <p style="font-size: 1.2rem; margin: 1.5rem 0;">Interested in collaboration or want to discuss how psychological science and EdTech innovation can transform digital education?</p>
-                
-                <div class="contact-links">
-                    <div class="contact-item">
-                        📧 <a href="mailto:nicolas.fh.psy@gmail.com">nicolas.fh.psy@gmail.com</a>
-                    </div>
-                    <div class="contact-item">
-                        💼 <a href="https://www.linkedin.com/in/nicolas-fernandez-a6596171/" target="_blank">LinkedIn Profile</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2025 Nicolas Fernandez. All rights reserved.</p>
-        <p style="margin-top: 0.5rem; opacity: 0.8;">EdTech & AI Specialist | Learning Designer | Researcher</p>
-    </footer>
-</body>
-</html>
+                <div
