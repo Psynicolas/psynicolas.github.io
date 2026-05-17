@@ -1,1001 +1,1745 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en" data-lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nicolas Fernandez | EdTech & AI Specialist</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        :root {
-            --black: #000000;
-            --dark-gray: #1a1a1a;
-            --medium-gray: #4a4a4a;
-            --light-gray: #9ca3af;
-            --off-white: #f5f5f5;
-            --white: #ffffff;
-            --accent-gold: #b8926a;
-            --accent-sepia: #a0826d;
-        }
-
-        body {
-            font-family: 'Georgia', 'Times New Roman', serif;
-            line-height: 1.7;
-            color: var(--dark-gray);
-            background: var(--white);
-        }
-
-        /* Banner Original */
-        .banner {
-            width: 100%;
-            background: #2a2a2a;
-            padding: 2rem;
-        }
-
-        .banner img {
-            width: 100%;
-            max-width: 1200px;
-            margin: 0 auto;
-            display: block;
-            filter: grayscale(100%) contrast(1.1);
-        }
-
-        /* Header Hero */
-        .hero {
-            background: #2a2a2a;
-            color: var(--white);
-            padding: 4rem 2rem;
-            text-align: center;
-            border-bottom: 1px solid var(--accent-gold);
-        }
-
-        .hero-content {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-
-        .hero h1 {
-            font-size: 3rem;
-            font-weight: 300;
-            letter-spacing: 2px;
-            margin-bottom: 1rem;
-            text-transform: uppercase;
-        }
-
-        .hero .subtitle {
-            font-size: 1.1rem;
-            font-weight: 300;
-            color: var(--accent-sepia);
-            margin-bottom: 1.5rem;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .hero .tagline {
-            font-size: 1rem;
-            font-weight: 300;
-            font-style: italic;
-            opacity: 0.75;
-        }
-
-        /* Navigation */
-        nav {
-            background: var(--white);
-            border-bottom: 1px solid var(--light-gray);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-        }
-
-        nav ul {
-            list-style: none;
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            padding: 0;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        nav li {
-            margin: 0;
-        }
-
-        nav a {
-            text-decoration: none;
-            color: var(--dark-gray);
-            font-weight: 700;
-            font-size: 0.9rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: all 0.3s;
-            padding: 1.2rem 1.5rem;
-            display: block;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-            border-bottom: 2px solid transparent;
-        }
-
-        nav a:hover {
-            color: var(--accent-gold);
-            border-bottom-color: var(--accent-gold);
-        }
-
-        /* Container */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-
-        /* Sections */
-        section {
-            margin: 5rem 0;
-        }
-
-        h2 {
-            font-size: 2.5rem;
-            font-weight: 300;
-            color: var(--black);
-            margin-bottom: 3rem;
-            text-align: center;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            position: relative;
-            padding-bottom: 1rem;
-        }
-
-        h2::after {
-            content: '';
-            display: block;
-            width: 60px;
-            height: 1px;
-            background: var(--accent-gold);
-            margin: 1.5rem auto 0;
-        }
-
-        /* Cards */
-        .cards {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-top: 3rem;
-        }
-
-        .card {
-            background: var(--off-white);
-            border: 1px solid var(--light-gray);
-            padding: 2.5rem;
-            transition: all 0.3s;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            border-color: var(--accent-gold);
-        }
-
-        .card h3 {
-            color: var(--black);
-            margin-bottom: 1.5rem;
-            font-size: 1.3rem;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .card ul {
-            padding-left: 1.5rem;
-            margin: 1rem 0;
-        }
-
-        .card li {
-            margin: 0.8rem 0;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-            font-size: 0.95rem;
-        }
-
-        /* Featured Project */
-        .featured-project {
-            background: var(--dark-gray);
-            color: var(--white);
-            padding: 4rem;
-            margin: 4rem 0;
-            position: relative;
-            border: 1px solid var(--black);
-        }
-
-        .featured-project::before {
-            content: 'FEATURED PROJECT';
-            position: absolute;
-            top: 2rem;
-            right: 2rem;
-            color: var(--accent-gold);
-            font-size: 0.7rem;
-            font-weight: 400;
-            letter-spacing: 2px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .featured-project h3 {
-            color: var(--white);
-            font-size: 2rem;
-            margin-bottom: 1.5rem;
-            font-weight: 300;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-
-        .featured-content {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 2rem;
-            margin: 2rem 0;
-        }
-
-        .featured-content h4 {
-            color: var(--accent-gold);
-            font-size: 1.1rem;
-            margin-bottom: 1rem;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        .featured-metrics {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 2rem;
-            margin: 2.5rem 0;
-        }
-
-        .featured-metric {
-            text-align: center;
-            padding: 1.5rem;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
-
-        .featured-metric-value {
-            font-size: 3rem;
-            font-weight: 300;
-            color: var(--accent-gold);
-        }
-
-        .featured-metric-label {
-            font-size: 0.8rem;
-            opacity: 0.8;
-            margin-top: 0.5rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .featured-highlights {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
-            margin: 2rem 0;
-        }
-
-        .featured-highlight {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 1.5rem;
-            border-left: 2px solid var(--accent-gold);
-        }
-
-        .featured-highlight h4 {
-            color: var(--white);
-            margin-bottom: 0.5rem;
-            font-size: 1rem;
-            font-weight: 400;
-        }
-
-        .featured-highlight p {
-            font-size: 0.9rem;
-            opacity: 0.85;
-        }
-
-        /* Projects */
-        .project {
-            background: var(--off-white);
-            border-left: 3px solid var(--accent-sepia);
-            padding: 2.5rem;
-            margin: 2.5rem 0;
-            transition: all 0.3s;
-        }
-
-        .project:hover {
-            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
-        }
-
-        .project h3 {
-            color: var(--black);
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        .project-meta {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            margin: 1.5rem 0;
-        }
-
-        .tag {
-            background: var(--black);
-            color: var(--white);
-            padding: 0.4rem 1rem;
-            font-size: 0.75rem;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .tag.white {
-            background: var(--white);
-            color: var(--dark-gray);
-            border: 1px solid var(--dark-gray);
-        }
-
-        /* Buttons */
-        .btn {
-            display: inline-block;
-            padding: 1rem 2.5rem;
-            background: var(--black);
-            color: var(--white);
-            text-decoration: none;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-size: 0.85rem;
-            transition: all 0.3s;
-            margin: 0.5rem;
-            border: 1px solid var(--black);
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .btn:hover {
-            background: var(--white);
-            color: var(--black);
-            border-color: var(--black);
-        }
-
-        .btn-secondary {
-            background: var(--accent-sepia);
-            border-color: var(--accent-sepia);
-        }
-
-        .btn-secondary:hover {
-            background: transparent;
-            color: var(--accent-sepia);
-        }
-
-        .btn-white {
-            background: var(--white);
-            color: var(--dark-gray);
-            border-color: var(--white);
-        }
-
-        .btn-white:hover {
-            background: transparent;
-            color: var(--white);
-        }
-
-        /* Stats */
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 2rem;
-            margin: 4rem 0;
-        }
-
-        .stat {
-            text-align: center;
-            padding: 2.5rem;
-            background: var(--off-white);
-            border: 1px solid var(--light-gray);
-        }
-
-        .stat-number {
-            font-size: 3.5rem;
-            font-weight: 300;
-            color: var(--accent-gold);
-        }
-
-        .stat-label {
-            color: var(--medium-gray);
-            font-size: 0.9rem;
-            margin-top: 0.8rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        /* Contact */
-        .contact-box {
-            background: var(--black);
-            color: var(--white);
-            padding: 4rem;
-            text-align: center;
-            border: 1px solid var(--accent-gold);
-        }
-
-        .contact-box h2 {
-            color: var(--white);
-        }
-
-        .contact-box h2::after {
-            background: var(--accent-gold);
-        }
-
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 3rem;
-            margin-top: 2rem;
-            flex-wrap: wrap;
-        }
-
-        .contact-item {
-            font-size: 1rem;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        .contact-item a {
-            color: var(--white);
-            text-decoration: none;
-            font-weight: 300;
-            transition: color 0.3s;
-            border-bottom: 1px solid transparent;
-            padding-bottom: 2px;
-        }
-
-        .contact-item a:hover {
-            color: var(--accent-gold);
-            border-bottom-color: var(--accent-gold);
-        }
-
-        /* Footer */
-        footer {
-            background: var(--dark-gray);
-            color: var(--light-gray);
-            text-align: center;
-            padding: 2.5rem;
-            margin-top: 5rem;
-            border-top: 1px solid var(--accent-gold);
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        footer p {
-            font-size: 0.9rem;
-            font-weight: 300;
-        }
-
-        /* Skills Grid */
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1.5rem;
-            margin: 3rem 0;
-        }
-
-        .skill-item {
-            background: var(--off-white);
-            padding: 2rem;
-            text-align: center;
-            border: 1px solid var(--light-gray);
-            transition: all 0.3s;
-        }
-
-        .skill-item:hover {
-            border-color: var(--accent-gold);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-        }
-
-        .skill-icon {
-            font-size: 2rem;
-            margin-bottom: 1rem;
-            filter: grayscale(100%);
-        }
-
-        .skill-item strong {
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            font-weight: 400;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        /* Video container */
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 ratio */
-            height: 0;
-            overflow: hidden;
-            background: var(--black);
-            margin: 1.5rem 0;
-        }
-
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: 1px solid var(--light-gray);
-        }
-
-        .video-card {
-            background: var(--off-white);
-            border: 1px solid var(--light-gray);
-            padding: 0;
-            transition: all 0.3s;
-            overflow: hidden;
-        }
-
-        .video-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            border-color: var(--accent-gold);
-        }
-
-        .video-card-content {
-            padding: 2rem;
-        }
-
-        .video-card h3 {
-            color: var(--black);
-            margin-bottom: 1rem;
-            font-size: 1.3rem;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 2rem;
-                letter-spacing: 1px;
-            }
-
-            .hero .subtitle {
-                font-size: 1rem;
-            }
-
-            h2 {
-                font-size: 1.8rem;
-                letter-spacing: 2px;
-            }
-
-            nav ul {
-                flex-direction: column;
-            }
-
-            nav a {
-                border-bottom: 1px solid var(--light-gray);
-            }
-
-            .featured-project {
-                padding: 2rem;
-            }
-
-            .featured-project::before {
-                top: 1rem;
-                right: 1rem;
-            }
-
-            .stats,
-            .skills-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .contact-links {
-                flex-direction: column;
-                gap: 1.5rem;
-            }
-        }
-
-        /* Subtle animations */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        section {
-            animation: fadeIn 0.6s ease-out;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>[NAME] — Head of Learning · AI-Augmented Education Systems</title>
+<meta name="description" content="Head of Learning building AI-augmented education systems. 10+ years architecting learning experiences for adults at scale.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============================================
+   RESET & BASE
+   ============================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  /* Editorial warm palette — inspired by your methodological analysis doc */
+  --bg: #F5EFE0;            /* warm cream — main bg */
+  --bg-2: #FBF7EB;          /* lighter cream */
+  --bg-3: #FFFFFF;          /* white for contrast sections */
+  --bg-deep: #1B3A5C;       /* navy — deep contrast sections */
+
+  --ink: #1F1F1F;            /* near-black text */
+  --ink-2: #4A4A4A;          /* secondary text */
+  --ink-3: #7A7468;          /* muted, warm gray */
+  --ink-on-dark: #F5EFE0;    /* text on navy bg */
+
+  --rule: #D9CDB0;           /* warm divider */
+  --rule-light: #E8DDC1;
+
+  --navy: #1B3A5C;           /* primary accent */
+  --navy-soft: #2A5580;
+  --mustard: #E8B547;        /* secondary accent — highlights, metrics */
+  --terracotta: #C8542D;     /* tertiary — links, hover, important data */
+  --terracotta-soft: #E07650;
+
+  /* Type */
+  --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --mono: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
+  --sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', system-ui, sans-serif;
+
+  /* Layout */
+  --max: 1280px;
+  --pad-x: clamp(20px, 4vw, 64px);
+
+  /* Motion */
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16.5px;
+  line-height: 1.6;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Very subtle paper grain */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1000;
+  opacity: 0.025;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+img { max-width: 100%; height: auto; display: block; }
+
+/* ============================================
+   TYPOGRAPHY UTILITIES
+   ============================================ */
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  font-weight: 500;
+}
+
+/* ============================================
+   NAV
+   ============================================ */
+.nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  padding: 16px var(--pad-x);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  background: rgba(245, 239, 224, 0.85);
+  border-bottom: 1px solid var(--rule-light);
+}
+.nav-brand {
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--navy);
+}
+.nav-brand::before {
+  content: '';
+  width: 8px; height: 8px;
+  background: var(--mustard);
+  border-radius: 50%;
+}
+.nav-links {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+.nav-links a {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  color: var(--ink-2);
+  transition: color 0.2s var(--ease);
+  position: relative;
+  padding: 4px 0;
+}
+.nav-links a:hover { color: var(--terracotta); }
+.nav-links a:hover::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 1.5px;
+  background: var(--terracotta);
+}
+.lang-switch {
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-2);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  padding: 6px 12px;
+  border-radius: 4px;
+  transition: all 0.2s var(--ease);
+}
+.lang-switch:hover {
+  border-color: var(--navy);
+  color: var(--navy);
+}
+@media (max-width: 720px) {
+  .nav-links a:not(.lang-switch) { display: none; }
+}
+
+/* ============================================
+   HERO
+   ============================================ */
+.hero {
+  min-height: 100vh;
+  padding: 140px var(--pad-x) 80px;
+  max-width: var(--max);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.hero-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 40px;
+  padding: 6px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 100px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--ink-2);
+  width: fit-content;
+  background: var(--bg-2);
+}
+.hero-status .pulse {
+  width: 6px; height: 6px;
+  background: var(--mustard);
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(232, 181, 71, 0.5); }
+  50% { opacity: 0.7; box-shadow: 0 0 0 8px rgba(232, 181, 71, 0); }
+}
+
+.hero-title {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: clamp(48px, 9vw, 132px);
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  margin-bottom: 36px;
+  max-width: 13ch;
+  font-variation-settings: "opsz" 144;
+  color: var(--ink);
+}
+.hero-title em {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--terracotta);
+}
+.hero-title .underline {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.hero-title .underline::after {
+  content: '';
+  position: absolute;
+  left: -4px; right: -4px; bottom: 0.05em;
+  height: 0.18em;
+  background: var(--mustard);
+  opacity: 0.55;
+  z-index: -1;
+}
+
+.hero-sub {
+  font-size: clamp(17px, 1.4vw, 20px);
+  line-height: 1.55;
+  color: var(--ink-2);
+  max-width: 58ch;
+  margin-bottom: 64px;
+  font-weight: 400;
+}
+.hero-sub strong { color: var(--ink); font-weight: 500; }
+.hero-sub em { color: var(--navy); font-style: italic; font-weight: 500; }
+
+.hero-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 32px;
+  padding-top: 32px;
+  border-top: 1px solid var(--rule);
+  max-width: 920px;
+}
+.hero-meta-item .label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 8px;
+}
+.hero-meta-item .value {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.hero-meta-item .value.big {
+  font-size: 36px;
+  line-height: 1;
+  color: var(--terracotta);
+  font-weight: 500;
+}
+.hero-meta-item .value.big small {
+  font-size: 0.5em;
+  color: var(--ink-3);
+}
+
+/* Decorative corner mark */
+.hero-mark {
+  position: absolute;
+  top: 130px;
+  right: var(--pad-x);
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  color: var(--ink-3);
+  text-align: right;
+  line-height: 1.7;
+}
+@media (max-width: 720px) {
+  .hero-mark { display: none; }
+}
+
+/* ============================================
+   SECTION FRAME
+   ============================================ */
+section { padding: 110px var(--pad-x); }
+.section-inner { max-width: var(--max); margin: 0 auto; }
+
+.section-head {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 56px;
+  align-items: end;
+  margin-bottom: 80px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid var(--rule);
+}
+@media (max-width: 880px) {
+  .section-head { grid-template-columns: 1fr; gap: 16px; }
+}
+.section-num {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  color: var(--ink-3);
+}
+.section-title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(36px, 5vw, 64px);
+  line-height: 1.02;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+}
+.section-title em { font-style: italic; color: var(--terracotta); font-weight: 400; }
+
+/* ============================================
+   WORK / CASES
+   ============================================ */
+.case {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 64px;
+  padding: 72px 0;
+  border-top: 1px solid var(--rule);
+  position: relative;
+}
+.case:last-child { border-bottom: 1px solid var(--rule); }
+@media (max-width: 880px) {
+  .case { grid-template-columns: 1fr; gap: 24px; padding: 56px 0; }
+}
+
+.case-aside {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  position: sticky;
+  top: 100px;
+  align-self: start;
+}
+@media (max-width: 880px) {
+  .case-aside { position: static; }
+}
+.case-num {
+  font-family: var(--serif);
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+  color: var(--navy);
+  font-style: italic;
+}
+.case-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.case-tag {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  padding: 4px 9px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  color: var(--ink-2);
+  text-transform: uppercase;
+  background: var(--bg-2);
+}
+.case-period {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.05em;
+  margin-top: 4px;
+}
+
+.case-body { min-width: 0; }
+.case-title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(30px, 3.8vw, 46px);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin-bottom: 20px;
+  color: var(--ink);
+}
+.case-tagline {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 300;
+  font-size: clamp(18px, 1.8vw, 23px);
+  line-height: 1.4;
+  color: var(--ink-2);
+  margin-bottom: 44px;
+  max-width: 58ch;
+  padding-left: 18px;
+  border-left: 3px solid var(--mustard);
+}
+
+/* Hero metrics row inside case */
+.metrics-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 28px;
+  padding: 32px 0;
+  margin-bottom: 44px;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+.metric .num {
+  font-family: var(--serif);
+  font-size: clamp(34px, 4vw, 52px);
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  color: var(--terracotta);
+  margin-bottom: 8px;
+  font-style: italic;
+}
+.metric .num.alt-1 { color: var(--navy); }
+.metric .num.alt-2 { color: var(--mustard); }
+.metric .num.alt-3 { color: var(--terracotta-soft); }
+.metric .label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  line-height: 1.4;
+}
+
+/* Case content blocks */
+.case-block {
+  margin-bottom: 52px;
+}
+.case-block:last-child { margin-bottom: 0; }
+.block-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 500;
+}
+.block-label::before {
+  content: '';
+  width: 16px;
+  height: 1.5px;
+  background: var(--terracotta);
+}
+.block-content {
+  font-size: 16.5px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  max-width: 70ch;
+}
+.block-content strong { color: var(--ink); font-weight: 500; }
+.block-content em { color: var(--navy); font-style: italic; }
+.block-content p + p { margin-top: 16px; }
+
+/* List inside case blocks */
+.case-list {
+  list-style: none;
+  margin-top: 14px;
+}
+.case-list li {
+  padding: 16px 0 16px 26px;
+  border-bottom: 1px solid var(--rule-light);
+  position: relative;
+  color: var(--ink-2);
+  font-size: 15.5px;
+  line-height: 1.6;
+}
+.case-list li::before {
+  content: '→';
+  position: absolute;
+  left: 0; top: 16px;
+  color: var(--terracotta);
+  font-family: var(--mono);
+  font-weight: 500;
+}
+.case-list li:last-child { border-bottom: none; }
+.case-list li strong { color: var(--ink); font-weight: 500; }
+.case-list li em { color: var(--navy); font-style: italic; }
+
+/* Image / artifact placeholder */
+.artifact {
+  background: var(--bg-3);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 80px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-3);
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin: 24px 0;
+  min-height: 220px;
+}
+.artifact::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(45deg, transparent 0, transparent 14px, rgba(27, 58, 92, 0.04) 14px, rgba(27, 58, 92, 0.04) 15px);
+  pointer-events: none;
+}
+.artifact-label {
+  display: inline-block;
+  padding: 6px 14px;
+  background: var(--mustard);
+  border-radius: 3px;
+  color: var(--ink);
+  margin-bottom: 14px;
+  font-size: 10px;
+  font-weight: 500;
+  position: relative;
+  z-index: 1;
+}
+.artifact-desc {
+  color: var(--ink-2);
+  font-family: var(--serif);
+  font-size: 15px;
+  letter-spacing: 0;
+  max-width: 42ch;
+  line-height: 1.5;
+  font-style: italic;
+  position: relative;
+  z-index: 1;
+}
+
+/* When you embed real images: */
+.case-image {
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid var(--rule);
+  margin: 24px 0;
+  display: block;
+}
+.case-image-caption {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  text-align: center;
+  margin-top: -16px;
+  margin-bottom: 24px;
+  letter-spacing: 0.05em;
+}
+
+/* Grid of two artifacts */
+.artifact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin: 24px 0;
+}
+@media (max-width: 720px) {
+  .artifact-grid { grid-template-columns: 1fr; }
+}
+
+/* Pull quote */
+.pull-quote {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(22px, 2.4vw, 30px);
+  line-height: 1.4;
+  color: var(--ink);
+  padding: 36px 36px 36px 44px;
+  border-left: 3px solid var(--mustard);
+  background: var(--bg-2);
+  margin: 28px 0;
+  max-width: 64ch;
+  position: relative;
+  border-radius: 0 6px 6px 0;
+}
+.pull-quote::before {
+  content: '"';
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  font-size: 56px;
+  color: var(--mustard);
+  opacity: 0.5;
+  line-height: 1;
+  font-weight: 600;
+}
+.pull-quote cite {
+  display: block;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-style: normal;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+/* Two-column blocks inside case (before/after) */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 28px 0;
+}
+@media (max-width: 720px) {
+  .two-col { grid-template-columns: 1fr; gap: 18px; }
+}
+.two-col-item {
+  padding: 28px;
+  background: var(--bg-3);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+}
+.two-col-item.warn { border-color: var(--terracotta-soft); background: linear-gradient(to bottom right, var(--bg-3), rgba(200, 84, 45, 0.04)); }
+.two-col-item.good { border-color: var(--navy-soft); background: linear-gradient(to bottom right, var(--bg-3), rgba(27, 58, 92, 0.04)); }
+.two-col-item h4 {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 500;
+  margin-bottom: 14px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.two-col-item.warn h4 { color: var(--terracotta); }
+.two-col-item.good h4 { color: var(--navy); }
+.two-col-item p {
+  font-size: 14.5px;
+  color: var(--ink-2);
+  line-height: 1.6;
+}
+.two-col-item strong { color: var(--ink); }
+
+/* Inline link to external project */
+.external-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 13px;
+  letter-spacing: 0.05em;
+  color: var(--terracotta);
+  border-bottom: 1px solid var(--terracotta-soft);
+  padding-bottom: 2px;
+  transition: all 0.2s var(--ease);
+}
+.external-link:hover {
+  color: var(--navy);
+  border-bottom-color: var(--navy);
+}
+.external-link::after { content: '↗'; font-size: 14px; }
+
+/* Findings/methodology cards (used in Case 3) */
+.finding-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin: 28px 0;
+}
+.finding-card {
+  background: var(--bg-3);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 26px;
+  position: relative;
+  transition: all 0.3s var(--ease);
+}
+.finding-card:hover {
+  border-color: var(--navy);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(27, 58, 92, 0.08);
+}
+.finding-card .finding-num {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--terracotta);
+  letter-spacing: 0.15em;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.finding-card h4 {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1.25;
+  margin-bottom: 12px;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+.finding-card p {
+  font-size: 14px;
+  color: var(--ink-2);
+  line-height: 1.55;
+}
+.finding-card .impact {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--ink-3);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule-light);
+}
+
+/* ============================================
+   RESEARCH SECTION
+   ============================================ */
+#research { background: var(--bg-2); }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+.research-card {
+  padding: 32px;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  background: var(--bg-3);
+  transition: all 0.3s var(--ease);
+  position: relative;
+  overflow: hidden;
+}
+.research-card:hover {
+  border-color: var(--navy);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(27, 58, 92, 0.1);
+}
+.research-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 0; height: 2px;
+  background: var(--mustard);
+  transition: width 0.4s var(--ease);
+}
+.research-card:hover::before { width: 100%; }
+
+.research-type {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+.research-title {
+  font-family: var(--serif);
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  margin-bottom: 14px;
+  color: var(--ink);
+}
+.research-desc {
+  font-size: 14.5px;
+  color: var(--ink-2);
+  line-height: 1.6;
+  margin-bottom: 22px;
+}
+.research-link {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--navy);
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 500;
+}
+.research-link:hover { color: var(--terracotta); }
+.research-link::after { content: '↗'; }
+
+/* ============================================
+   ABOUT
+   ============================================ */
+.about-wrap {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 80px;
+  align-items: start;
+}
+@media (max-width: 880px) {
+  .about-wrap { grid-template-columns: 1fr; gap: 48px; }
+}
+.about-prose {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(20px, 1.9vw, 26px);
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+}
+.about-prose p + p { margin-top: 1em; }
+.about-prose em {
+  font-style: italic;
+  color: var(--terracotta);
+}
+.about-prose strong { font-weight: 500; }
+
+.about-side {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+.about-card {
+  padding: 26px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--bg-3);
+}
+.about-card h4 {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+.about-card ul {
+  list-style: none;
+}
+.about-card li {
+  font-size: 14px;
+  color: var(--ink-2);
+  padding: 7px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  line-height: 1.4;
+}
+.about-card li .year {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+.about-card li.headline { color: var(--ink); font-weight: 500; }
+
+/* Validation strip */
+.validation {
+  margin-top: 64px;
+  padding: 32px 36px;
+  border: 1px solid var(--mustard);
+  border-radius: 6px;
+  background: linear-gradient(to right, rgba(232, 181, 71, 0.12), rgba(232, 181, 71, 0.03));
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+@media (max-width: 720px) {
+  .validation { flex-direction: column; align-items: flex-start; gap: 14px; padding: 28px; }
+}
+.validation-icon {
+  font-family: var(--serif);
+  font-size: 42px;
+  color: var(--mustard);
+  line-height: 1;
+  font-weight: 500;
+  font-style: italic;
+}
+.validation-text {
+  font-size: 15px;
+  color: var(--ink-2);
+  line-height: 1.6;
+}
+.validation-text strong { color: var(--ink); font-weight: 500; }
+
+/* ============================================
+   CONTACT
+   ============================================ */
+.contact {
+  padding: 140px var(--pad-x) 90px;
+  background: var(--bg-deep);
+  color: var(--ink-on-dark);
+}
+.contact-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+}
+.contact .section-num { color: rgba(245,239,224,0.6); margin-bottom: 24px; }
+.contact-title {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: clamp(48px, 7vw, 96px);
+  line-height: 1;
+  letter-spacing: -0.03em;
+  margin-bottom: 56px;
+  max-width: 18ch;
+  color: var(--ink-on-dark);
+}
+.contact-title em { font-style: italic; color: var(--mustard); font-weight: 400; }
+
+.contact-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 28px;
+  padding-top: 44px;
+  border-top: 1px solid rgba(245,239,224,0.18);
+}
+.contact-link-item .label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(245,239,224,0.55);
+  margin-bottom: 8px;
+}
+.contact-link-item a {
+  font-family: var(--serif);
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--ink-on-dark);
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s var(--ease);
+  display: inline-block;
+}
+.contact-link-item a:hover {
+  border-bottom-color: var(--mustard);
+  color: var(--mustard);
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.footer {
+  padding: 36px var(--pad-x);
+  background: var(--bg-deep);
+  border-top: 1px solid rgba(245,239,224,0.12);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: rgba(245,239,224,0.55);
+  letter-spacing: 0.05em;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.footer a { color: rgba(245,239,224,0.55); }
+.footer a:hover { color: var(--mustard); }
+
+/* ============================================
+   LANG SWITCHING
+   ============================================ */
+[data-lang="en"] [lang="es"],
+[data-lang="es"] [lang="en"] { display: none; }
+
+/* ============================================
+   ENTRY ANIMATIONS
+   ============================================ */
+@keyframes riseIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.hero > * { animation: riseIn 0.8s var(--ease) both; }
+.hero-status { animation-delay: 0.1s; }
+.hero-title { animation-delay: 0.2s; }
+.hero-sub { animation-delay: 0.35s; }
+.hero-meta { animation-delay: 0.5s; }
+
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s var(--ease), transform 0.7s var(--ease); }
+.reveal.in { opacity: 1; transform: translateY(0); }
+
+::selection { background: var(--mustard); color: var(--ink); }
+</style>
 </head>
 <body>
-    <!-- Banner Original -->
-    <div class="banner">
-        <img src="https://github.com/user-attachments/assets/0069b4fa-c320-401f-9a1e-2f145368fac6" alt="Nicolas Fernandez Banner">
+
+<!-- ============================================
+     NAV
+     ============================================ -->
+<nav class="nav">
+  <a href="#top" class="nav-brand">[NAME]</a>
+  <div class="nav-links">
+    <a href="#work"><span lang="en">Work</span><span lang="es">Trabajo</span></a>
+    <a href="#research"><span lang="en">Research</span><span lang="es">Investigación</span></a>
+    <a href="#about"><span lang="en">About</span><span lang="es">Sobre mí</span></a>
+    <a href="#contact"><span lang="en">Contact</span><span lang="es">Contacto</span></a>
+    <button class="lang-switch" onclick="toggleLang()">
+      <span class="lang-en">EN / es</span>
+      <span class="lang-es" style="display:none;">en / ES</span>
+    </button>
+  </div>
+</nav>
+
+<!-- ============================================
+     HERO
+     ============================================ -->
+<header class="hero" id="top">
+  <div class="hero-mark">
+    <div>v1.0 · 2026</div>
+    <div>[CITY], SPAIN</div>
+    <div>SELECT OPPORTUNITIES</div>
+  </div>
+
+  <div class="hero-status">
+    <span class="pulse"></span>
+    <span lang="en">Head of Learning · Learning Heroes</span>
+    <span lang="es">Head of Learning · Learning Heroes</span>
+  </div>
+
+  <h1 class="hero-title">
+    <span lang="en">Head of Learning,<br>building <em>AI-augmented</em><br><span class="underline">education systems.</span></span>
+    <span lang="es">Head of Learning,<br>construyo <em>sistemas educativos</em><br><span class="underline">aumentados con IA.</span></span>
+  </h1>
+
+  <p class="hero-sub">
+    <span lang="en">Ten years architecting learning experiences for adults at scale. <strong>Programs recognized by Chile's Ministry of Education and UNESCO.</strong> Author of <em>Education for the 21st Century</em>. Co-creator of Ayni-IA, presented at COP29. Currently completing a PhD in EdTech at Universidad de Sevilla on AI for adult learning.</span>
+    <span lang="es">Diez años diseñando experiencias de aprendizaje para adultos a escala. <strong>Programas reconocidos por el Ministerio de Educación de Chile y respaldados por UNESCO.</strong> Autor de <em>Educación para el siglo XXI</em>. Co-creador de Ayni-IA, presentado en la COP29. Cursando un doctorado en EdTech en la Universidad de Sevilla sobre IA en aprendizaje adulto.</span>
+  </p>
+
+  <div class="hero-meta">
+    <div class="hero-meta-item">
+      <div class="label"><span lang="en">Experience</span><span lang="es">Experiencia</span></div>
+      <div class="value big">10<small>yr+</small></div>
+    </div>
+    <div class="hero-meta-item">
+      <div class="label"><span lang="en">Adults trained</span><span lang="es">Adultos formados</span></div>
+      <div class="value big">1,000<small>+</small></div>
+    </div>
+    <div class="hero-meta-item">
+      <div class="label"><span lang="en">Countries reached</span><span lang="es">Países alcanzados</span></div>
+      <div class="value big">11</div>
+    </div>
+    <div class="hero-meta-item">
+      <div class="label"><span lang="en">Currently</span><span lang="es">Actualmente</span></div>
+      <div class="value">PhD(c) · Learning Heroes</div>
+    </div>
+  </div>
+</header>
+
+<!-- ============================================
+     WORK / CASES
+     ============================================ -->
+<section id="work">
+  <div class="section-inner">
+    <div class="section-head">
+      <div><div class="section-num">— 01 / Work</div></div>
+      <h2 class="section-title">
+        <span lang="en">Four cases. Each one solves a <em>different</em> problem.</span>
+        <span lang="es">Cuatro casos. Cada uno resuelve un problema <em>diferente</em>.</span>
+      </h2>
     </div>
 
-    <!-- Header Hero -->
-    <header class="hero">
-        <div class="hero-content">
-            <h1>Nicolas Fernandez</h1>
-            <p class="subtitle">PhD(c) in EdTech | Learning Designer | Master in Social Research | Psychologist | Certified Coach</p>
-            <p class="tagline">Researching, designing, developing, implementing and evaluating impactful learning experiences</p>
+    <!-- ============================================
+         CASE 1 · PROFES EN RED
+         ============================================ -->
+    <article class="case reveal">
+      <div class="case-aside">
+        <div class="case-num">01</div>
+        <div class="case-tags">
+          <span class="case-tag">ADDIE</span>
+          <span class="case-tag">Mixed Methods</span>
+          <span class="case-tag">LATAM</span>
+          <span class="case-tag">Pre-Post · t-test</span>
         </div>
-    </header>
+        <div class="case-period">2020 — 2025 · Fundación Caserta</div>
+      </div>
 
-    <!-- Navigation -->
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#featured">Featured Project</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#impact">Impact</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+      <div class="case-body">
+        <h3 class="case-title">Profes en Red</h3>
+        <p class="case-tagline">
+          <span lang="en">An online teacher training program empowering 21st-century educators across Latin America. From 50-teacher pilot to 227+ inscribed per cohort across 11 countries, sustained through 10 consecutive iterations with statistically significant pre-post gains.</span>
+          <span lang="es">Un programa online de formación docente para educadores del siglo XXI en Latinoamérica. De un piloto de 50 docentes a 227+ inscritos por cohorte en 11 países, sostenido durante 10 iteraciones consecutivas con ganancias pre-post estadísticamente significativas.</span>
+        </p>
 
-    <div class="container">
-        <!-- About Section -->
-        <section id="about">
-            <h2>About Me</h2>
-            <div class="cards">
-                <div class="card">
-                    <h3>Expertise</h3>
-                    <ul>
-                        <li><strong>AI for Education:</strong> Designing and implementing AI solutions for learning</li>
-                        <li><strong>Human-Centered Research:</strong> Driving insights through robust methodologies</li>
-                        <li><strong>Adult Learning Principles:</strong> Crafting effective educational programs</li>
-                    </ul>
-                </div>
-                <div class="card">
-                    <h3>Achievements</h3>
-                    <ul>
-                        <li>10+ years as Learning Designer & EdTech specialist</li>
-                        <li>Project Manager with experience leading global remote teams</li>
-                        <li>Research-driven programs recognized by Chile's Ministry of Education</li>
-                        <li>Led UNESCO-backed COEDUXII conference</li>
-                        <li>Author: "Education for the 21st Century"</li>
-                    </ul>
-                </div>
-                <div class="card">
-                    <h3>Research Focus</h3>
-                    <ul>
-                        <li>AI and Adult Education intersection</li>
-                        <li>Socioemotional learning in digital contexts</li>
-                        <li>Teacher self-efficacy and technology adoption</li>
-                        <li>Gamification and motivation theory</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <!-- Stats -->
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-number">1000+</div>
-                <div class="stat-label">Educators Reached</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">10</div>
-                <div class="stat-label">Countries Impacted</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">10+</div>
-                <div class="stat-label">Years Experience</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">500+</div>
-                <div class="stat-label">Research Participants</div>
-            </div>
+        <!-- Hero image placeholder - PER cover/journey map -->
+        <div class="artifact">
+          <div class="artifact-label">[IMAGE 1]</div>
+          <div class="artifact-desc">Informe de Resultados PER v9 (December 2024) — LATAM map with participating educators. Authored as Director of Research at Filantropia Cortés Solari.</div>
         </div>
 
-        <!-- Portfolios -->
-        <section id="portfolio">
-            <h2>Portfolio & Work Samples</h2>
-            <div class="cards">
-                <div class="video-card">
-                    <div class="video-container">
-                        <iframe 
-                            src="https://www.youtube.com/embed/oeUKhVicBcQ" 
-                            title="YouTube video player" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                            allowfullscreen>
-                        </iframe>
-                    </div>
-                    <div class="video-card-content">
-                        <h3>AI in Education: Video Presentation</h3>
-                        <p>Short-form video content demonstrating communication and presentation skills in EdTech and AI topics.</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <h3>Interactive Course: Cybersecurity</h3>
-                    <p>Developed using Articulate Rise 360 with engaging interactions and assessments.</p>
-                    <a href="https://360.eu.articulate.com/review/content/583c41e1-86bc-427c-a4bd-79766e3f6224/review" class="btn" target="_blank">View Interactive Course</a>
-                </div>
-                <div class="card">
-                    <h3>Research Report: Profes en Red</h3>
-                    <p>Comprehensive evaluation research report with statistical analysis using SPSS and R. Includes quantitative data analysis from longitudinal study spanning 6+ years with 1,000+ educators.</p>
-                    <a href="https://caserta.cl/wp-content/uploads/2025/02/2024-Informe-de-Resultados-Profes-en-Red-v9.pdf" class="btn" target="_blank">View Research Report</a>
-                </div>
-                <div class="card">
-                    <h3>ADDIE Case Study</h3>
-                    <p>Comprehensive learning design case studies using the ADDIE model</p>
-                    <a href="https://drive.google.com/file/d/1uO3mfJttPxtpJJ2d2FLip_7rklQF5Tg3/view" class="btn" target="_blank">View Portfolio</a>
-                </div>
-                <div class="card">
-                    <h3>General Portfolio</h3>
-                    <p>Learning Designer & Researcher work compilation</p>
-                    <a href="https://drive.google.com/file/d/1Zho6kLqIRQ1OvOXTp2Rs0LZlYMhpBQWW/view" class="btn" target="_blank">View Portfolio</a>
-                </div>
-                <div class="card">
-                    <h3>E-learning Content</h3>
-                    <p>Course guide sample and instructional materials</p>
-                    <a href="https://drive.google.com/file/d/1pyFP48JbunMpqwo-TQ7hu4mt_Ir0temm/view" class="btn" target="_blank">View Sample</a>
-                </div>
+        <div class="metrics-row">
+          <div class="metric"><div class="num">227<small style="font-size:0.5em;">+</small></div><div class="label"><span lang="en">Participants per cohort (v9)</span><span lang="es">Participantes por cohorte (v9)</span></div></div>
+          <div class="metric"><div class="num alt-1">+20%</div><div class="label"><span lang="en">Avg. self-efficacy lift</span><span lang="es">Mejora autoeficacia</span></div></div>
+          <div class="metric"><div class="num alt-2">11</div><div class="label"><span lang="en">LATAM countries</span><span lang="es">Países LATAM</span></div></div>
+          <div class="metric"><div class="num alt-3">10</div><div class="label"><span lang="en">Active iterations</span><span lang="es">Iteraciones activas</span></div></div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Context</span><span lang="es">Contexto</span></div>
+          <div class="block-content">
+            <p><span lang="en">Fundación Caserta is a Chilean non-profit advancing educational transformation through the <strong>Mapa del Desarrollo Humano</strong> framework (seven levels, four dimensions). They had piloted an online teacher training program with 50 educators on Google Classroom, but the second version needed a full rebuild: the institutional framework had no visible connection to module content, mentorships had no structure, evaluation tools were missing, and content was plain text without multimedia. <strong>The constraint: the organization could only work with free Google tools.</strong></span>
+            <span lang="es">La Fundación Caserta es una ONG chilena dedicada a la transformación educativa a través del <strong>Mapa del Desarrollo Humano</strong> (siete niveles, cuatro dimensiones). Habían piloteado un programa online de formación docente con 50 educadores en Google Classroom, pero la segunda versión necesitaba ser reconstruida por completo: el marco institucional no se conectaba con el contenido de los módulos, las mentorías carecían de estructura, no había instrumentos de evaluación y el contenido era texto plano sin multimedia. <strong>La restricción: la organización solo podía trabajar con herramientas gratuitas de Google.</strong></span></p>
+          </div>
+
+          <div class="artifact">
+            <div class="artifact-label">[IMAGE 2]</div>
+            <div class="artifact-desc">Mapa del Desarrollo Humano — Caserta's institutional framework with seven levels (Self-esteem → Wisdom) and four dimensions (Body, Mind, Spirit, Values).</div>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">My role</span><span lang="es">Mi rol</span></div>
+          <div class="block-content">
+            <p><span lang="en">Director of Research & Learning. Owned the full redesign across three streams: <strong>course design</strong> (audit + new architecture + 8 thematic modules), <strong>leadership and coaching</strong> (oversaw implementation, led the facilitator team with coaching mindset), and <strong>evaluation research</strong> (built mixed-method instruments measuring impact through pre/post analysis with paired-sample t-tests, qualitative thematic insights, and continuous feedback).</span>
+            <span lang="es">Director de Investigación y Aprendizaje. Lideré el rediseño completo en tres frentes: <strong>diseño curricular</strong> (audit + nueva arquitectura + 8 módulos temáticos), <strong>liderazgo y coaching</strong> (supervisión de implementación, conducción del equipo de facilitadores con enfoque de coaching) y <strong>evaluación e investigación</strong> (instrumentos mixed-method con pre/post pareado t-test, análisis temático cualitativo y feedback continuo).</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Process · ADDIE applied</span><span lang="es">Proceso · ADDIE aplicado</span></div>
+          <ul class="case-list">
+            <li><strong>Analysis.</strong> <span lang="en">Stakeholder diagnostic identified four challenge areas: framework disconnection, unstructured mentorships, evaluation gap, content delivery issues. Needs assessment grounded in UNESCO E2030, OECD Future of Education 2030/2040, and regional teacher data.</span><span lang="es">Diagnóstico con stakeholders identificó cuatro áreas críticas: desconexión del marco, mentorías sin estructura, falta de evaluación, problemas de delivery. Needs assessment basado en UNESCO E2030, OECD Future of Education 2030/2040 y datos regionales docentes.</span></li>
+            <li><strong>Design.</strong> <span lang="en">Reframed learning objectives. Eight modules thematically structured with storytelling as connective tissue. <em>Spiral learning architecture</em> (early concepts reappear in deeper forms). Dual format: synchronous mentorships + asynchronous self-paced.</span><span lang="es">Replanteamiento de objetivos. Ocho módulos temáticos con storytelling como hilo conector. <em>Arquitectura en espiral</em> (los conceptos tempranos reaparecen en formas más profundas). Doble formato: mentorías sincrónicas + asincrónico autónomo.</span></li>
+            <li><strong>Development.</strong> <span lang="en">Module guides applying chunking and cognitive load principles. Microlearning videos crafted specifically for the audience. Spotify podcast curation as informal channel. Facilitator guides, rubrics, session templates.</span><span lang="es">Guías de módulo aplicando chunking y carga cognitiva. Microvideos creados específicamente para la audiencia. Curaduría de podcasts en Spotify como canal informal. Guías de facilitador, rúbricas, plantillas de sesión.</span></li>
+            <li><strong>Implementation.</strong> <span lang="en">Weekly supervision of mentorships. Mid-term surveys feeding agile adjustments. Follow-up coaching for facilitators.</span><span lang="es">Supervisión semanal de mentorías. Encuestas mid-term alimentando ajustes ágiles. Coaching de seguimiento para facilitadores.</span></li>
+            <li><strong>Evaluation.</strong> <span lang="en">Mixed-method instruments: pre/mid/post Google Forms with quantitative tracking and open-ended capture. <em>Paired-sample t-tests (one-tailed)</em> and thematic analysis of reflections. Self-efficacy chosen as the outcome variable, aligned with the institution's holistic approach.</span><span lang="es">Instrumentos mixed-method: formularios pre/mid/post con tracking cuantitativo y captura abierta. <em>T-tests pareados (una cola)</em> y análisis temático de reflexiones. Autoeficacia como variable de resultado, alineada con el enfoque holístico institucional.</span></li>
+          </ul>
+
+          <div class="artifact-grid">
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 3]</div>
+              <div class="artifact-desc">Learning Journey Map — 8 thematic modules with synchronous mentorships, pre/mid/post assessments, AI activities, opening and closing plenaries.</div>
             </div>
-        </section>
-
-        <!-- Featured Project Section -->
-        <section id="featured">
-            <h2>Featured Project: Course Design Proposal</h2>
-            
-            <div class="featured-project">
-                <h3>AI Inventory Assistant Course Proposal</h3>
-                <p style="font-size: 1.1rem; margin-bottom: 2rem; opacity: 0.9;">Comprehensive learning design proposal for Make Academy: A mini-course teaching professionals to build AI-powered inventory management systems using no-code tools.</p>
-
-                <div class="featured-content">
-                    <h4>Project Overview</h4>
-                    <p>This instructional design project demonstrates a complete course development process from needs analysis to evaluation strategy. The course teaches retail operations managers to create AI agents that automate inventory management through natural language interactions in Slack.</p>
-                </div>
-
-                <div class="featured-metrics">
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">3</div>
-                        <div class="featured-metric-label">Hours Learning</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">4</div>
-                        <div class="featured-metric-label">Modules</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">5</div>
-                        <div class="featured-metric-label">Learning Objectives</div>
-                    </div>
-                    <div class="featured-metric">
-                        <div class="featured-metric-value">80%</div>
-                        <div class="featured-metric-label">Target Completion</div>
-                    </div>
-                </div>
-
-                <div class="featured-highlights">
-                    <div class="featured-highlight">
-                        <h4>Complete Needs Analysis</h4>
-                        <p>Detailed user persona with pain points, learning goals, and preferences based on retail operations managers</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>Bloom's Taxonomy Alignment</h4>
-                        <p>Learning objectives spanning from Understanding to Evaluation, with clear assessment methods</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>Learner Journey Maps</h4>
-                        <p>Program-level and module-level journey maps showing progression from orientation to mastery</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>Active Learning Focus</h4>
-                        <p>Learn-by-doing approach with continuous project building from account setup to customization</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>Success Metrics</h4>
-                        <p>Clear evaluation framework including completion rates, time to first success, and business impact ROI</p>
-                    </div>
-                    <div class="featured-highlight">
-                        <h4>Cognitive Load Management</h4>
-                        <p>Progressive disclosure, chunked content, and just-in-time learning principles throughout</p>
-                    </div>
-                </div>
-
-                <div class="featured-content">
-                    <h4>Key Design Elements</h4>
-                    <ul style="line-height: 2; opacity: 0.9;">
-                        <li><strong>Real-World Application:</strong> Every module builds toward a functional AI inventory assistant</li>
-                        <li><strong>Scaffolded Learning:</strong> Three-tier progression from observation to guided practice to independent application</li>
-                        <li><strong>Multimodal Resources:</strong> Interactive demonstrations, GIF tutorials, visual workflows, and hands-on exercises</li>
-                        <li><strong>Engagement Strategy:</strong> Celebration moments, personal relevance, and immediate business value</li>
-                        <li><strong>Assessment Integration:</strong> Pre-course diagnostic, module quizzes, and post-course perception survey</li>
-                    </ul>
-                </div>
-
-                <div class="project-meta" style="justify-content: center;">
-                    <span class="tag white">Instructional Design</span>
-                    <span class="tag white">ADDIE Framework</span>
-                    <span class="tag white">AI Education</span>
-                    <span class="tag white">No-Code Tools</span>
-                    <span class="tag white">Adult Learning</span>
-                </div>
-
-                <div style="text-align: center; margin-top: 2.5rem;">
-                    <a href="https://drive.google.com/file/d/17Hnm244SRaToX7zjFanoe5duPe_UuUuO/view?usp=sharing" class="btn btn-white" target="_blank">Download PDF Version</a>
-                </div>
-
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 4]</div>
+              <div class="artifact-desc">Module Learner Journey — 4 steps + 2 viewpoints mapping cognitive flow from real-case engagement to consolidation.</div>
             </div>
-        </section>
+          </div>
+        </div>
 
-        <!-- Featured Projects -->
-        <section id="projects">
-            <h2>Featured Projects</h2>
-            
-            <div class="project">
-                <h3>Profes en Red: Teacher Training Initiative</h3>
-                <p>A Latin American teacher empowerment initiative with a 6+ year longitudinal study on learning impact, reaching 1,000+ educators across 10 countries.</p>
-                
-                <div class="project-meta">
-                    <span class="tag">Teacher Training</span>
-                    <span class="tag">Longitudinal Research</span>
-                    <span class="tag">SEL</span>
-                    <span class="tag">EdTech</span>
-                </div>
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Outcome — v9 results</span><span lang="es">Resultado — v9</span></div>
+          <div class="block-content">
+            <p><span lang="en">From 471 applicants the program inscribed 227 educators across 11 LATAM countries (Chile 31%, Argentina 11%, Colombia 11%, México 11%, others). Average age 42, 70% women, 78% K-12 classroom teachers. <strong>Paired-sample t-tests showed statistically significant pre-post gains across all 11 measured competencies</strong>, with the largest lifts in <em>Belonging to the teacher network (29%)</em> and <em>Digital Pedagogical Innovation (29%)</em>. Overall satisfaction 6.78/7. 25%+ of new participants arrive through alumni referrals. Most cited insight in qualitative analysis: the institutional framework itself, originally the disconnection point.</span>
+            <span lang="es">De 471 postulantes el programa inscribió 227 educadores en 11 países LATAM (Chile 31%, Argentina 11%, Colombia 11%, México 11%, otros). Edad promedio 42 años, 70% mujeres, 78% docentes K-12. <strong>Los t-tests pareados mostraron ganancias pre-post estadísticamente significativas en las 11 competencias medidas</strong>, con las mayores subidas en <em>Pertenencia a red docente (29%)</em> e <em>Innovación pedagógica digital (29%)</em>. Satisfacción general 6.78/7. 25%+ de nuevos participantes llegan por recomendación de egresados. Insight más citado en el análisis cualitativo: el propio marco institucional, originalmente el punto de desconexión.</span></p>
+          </div>
 
-                <div style="background: rgba(184, 146, 106, 0.1); border-left: 3px solid var(--accent-gold); padding: 1.5rem; margin: 1.5rem 0;">
-                    <h4 style="font-weight: 400; font-size: 1.1rem; margin-bottom: 0.8rem; color: var(--accent-gold);">My Role: Program Manager</h4>
-                    <p style="margin: 0;">Led program evolution through 10+ iterations over 3 years, scaling from 40 to 1,000+ participants across 8 countries. Managed cross-functional distributed team of 12 mentors, facilitated bi-weekly agile ceremonies (standups, retrospectives), and improved team velocity by 40% through process optimization and data-driven decision making.</p>
-                </div>
+          <div class="artifact">
+            <div class="artifact-label">[IMAGE 5]</div>
+            <div class="artifact-desc">PRE-POST Comparison v9 — 11 competencies on a 1-10 scale. PRE in orange, POST in teal. All gains statistically significant (paired-sample t-test, one-tailed).</div>
+          </div>
 
-                <h4 style="margin-top: 1.5rem; font-weight: 400; font-size: 1.1rem;">Key Focus Areas:</h4>
-                <ul>
-                    <li>Socioemotional skills training</li>
-                    <li>Sustainable development education</li>
-                    <li>Technology innovation</li>
-                    <li>Collaborative peer networks</li>
-                </ul>
-
-                <div style="margin-top: 1.5rem;">
-                    <a href="https://caserta.cl/profes-en-red/" class="btn" target="_blank">Visit Program Website</a>
-                </div>
+          <div class="artifact-grid">
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 6]</div>
+              <div class="artifact-desc">Country distribution — 11 LATAM countries represented in v9. Chile 31%, then Argentina, Colombia, México (11% each).</div>
             </div>
-
-            <div class="project">
-                <h3>Ayni-AI: AI-Powered Teaching Assistant</h3>
-                <p>An innovative AI-powered virtual assistant supporting Latin American teachers in lesson planning, emotional well-being, and adopting innovative pedagogical practices.</p>
-                
-                <div class="project-meta">
-                    <span class="tag">AI Innovation</span>
-                    <span class="tag">Virtual Assistant</span>
-                    <span class="tag">COP29</span>
-                    <span class="tag">UNESCO</span>
-                </div>
-
-                <h4 style="margin-top: 1.5rem; font-weight: 400; font-size: 1.1rem;">Impact & Recognition:</h4>
-                <ul>
-                    <li><strong>20% improvement</strong> in teacher disposition towards AI (200 teachers surveyed)</li>
-                    <li><strong>25% increase</strong> in educator confidence with new technologies</li>
-                    <li>Presented at <strong>UN COP29 Climate Conference</strong></li>
-                    <li>Integrated socioemotional support with digital pedagogy</li>
-                </ul>
-
-                <div style="margin-top: 1.5rem;">
-                    <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&t=12902s" class="btn" target="_blank">Watch COP29 Presentation</a>
-                </div>
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 7]</div>
+              <div class="artifact-desc">Sello Caserta — word cloud from qualitative responses. "Desarrollo Humano", "Compromiso", "Interculturalidad" emerge as core perceived signature.</div>
             </div>
+          </div>
 
-            <div class="project">
-                <h3>Game Research & Gamification</h3>
-                <p>Applied Self-Determination Theory survey to 500+ Chilean gamers to understand motivations and psychological underpinnings of engagement in digital environments.</p>
-                
-                <div class="project-meta">
-                    <span class="tag">Research</span>
-                    <span class="tag">Gamification</span>
-                    <span class="tag">Motivation Theory</span>
-                    <span class="tag">SDT</span>
-                </div>
+          <div class="pull-quote">
+            <span lang="en">(The program) has meant a before and after in my teaching work. The unforgettable experience and this interweaving with all the teachers of Latin America enriches my entire future as a teacher.</span>
+            <span lang="es">(El programa) ha significado un antes y un después en mi labor docente. La experiencia inolvidable y este entretejido con todos los docentes de Latinoamérica enriquece todo mi futuro como educadora.</span>
+            <cite>Veruska Simón · Venezuela · 9ª versión</cite>
+          </div>
 
-                <div style="margin-top: 1.5rem;">
-                    <a href="https://drive.google.com/file/d/1lsfUR3jhcaC7_35PSOQ8-MADMX87xEn9/view" class="btn btn-secondary" target="_blank">View Research Paper</a>
-                </div>
+          <p style="margin-top: 28px;">
+            <a href="[PDF_LINK]" class="external-link"><span lang="en">Read the full v9 results report (PDF)</span><span lang="es">Leer informe de resultados v9 (PDF)</span></a>
+          </p>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">What I learned</span><span lang="es">Qué aprendí</span></div>
+          <div class="block-content">
+            <p><span lang="en"><strong>Design within constraints sparks innovation.</strong> Working with Google's free toolkit forced modular thinking, clarity, and creative structuring that ended up being pedagogical advantages, not limitations. <strong>Evaluation must be purpose-built.</strong> Off-the-shelf tools fell short, but custom mixed-method instruments aligned with learning goals produced meaningful, statistically defensible insights. <strong>Mentorship is central, not peripheral.</strong> Weekly group and individual coaching weren't add-ons; they were the pedagogical anchors that sustained reflection and transformation across all cohorts.</span>
+            <span lang="es"><strong>Diseñar bajo restricciones detona innovación.</strong> Trabajar con el toolkit gratuito de Google forzó pensamiento modular, claridad y estructuración creativa que terminaron siendo ventajas pedagógicas, no limitaciones. <strong>La evaluación debe ser purpose-built.</strong> Las herramientas estándar se quedan cortas, pero los instrumentos mixed-method a medida alineados con objetivos producen insights válidos y estadísticamente defendibles. <strong>La mentoría es central, no periférica.</strong> El coaching grupal e individual semanal no fueron add-ons; fueron los anclajes pedagógicos que sostuvieron la reflexión y transformación a través de todas las cohortes.</span></p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <!-- ============================================
+         CASE 2 · AYNI-IA
+         ============================================ -->
+    <article class="case reveal">
+      <div class="case-aside">
+        <div class="case-num">02</div>
+        <div class="case-tags">
+          <span class="case-tag">Generative AI</span>
+          <span class="case-tag">RAG</span>
+          <span class="case-tag">Product</span>
+          <span class="case-tag">UN COP29</span>
+        </div>
+        <div class="case-period">2023 — 2024 · Fundación Caserta</div>
+      </div>
+
+      <div class="case-body">
+        <h3 class="case-title">Ayni-IA</h3>
+        <p class="case-tagline">
+          <span lang="en">A generative AI assistant for Latin American teachers. Hyper-personalized lesson planning, emotional support, and pedagogical innovation. Piloted inside Profes en Red. Presented at the UN COP29 Climate Conference.</span>
+          <span lang="es">Un asistente de IA generativa para docentes latinoamericanos. Planificación hiper-personalizada, apoyo emocional, innovación pedagógica. Piloteado dentro de Profes en Red. Presentado en la Conferencia Climática COP29 de la ONU.</span>
+        </p>
+
+        <div class="artifact">
+          <div class="artifact-label">[IMAGE 8]</div>
+          <div class="artifact-desc">Ayni-IA — official banner. Pre-Columbian iconography meets generative AI for Latin American educators. Live product at ayni-ia.com.</div>
+        </div>
+
+        <p style="margin-bottom: 32px;">
+          <a href="https://ayni-ia.com/" target="_blank" rel="noopener" class="external-link">
+            <span lang="en">Visit ayni-ia.com</span><span lang="es">Visitar ayni-ia.com</span>
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&t=12902s" target="_blank" rel="noopener" class="external-link">
+            <span lang="en">Watch COP29 presentation</span><span lang="es">Ver presentación COP29</span>
+          </a>
+        </p>
+
+        <div class="metrics-row">
+          <div class="metric"><div class="num">200</div><div class="label"><span lang="en">Teachers surveyed</span><span lang="es">Docentes encuestados</span></div></div>
+          <div class="metric"><div class="num alt-1">+20%</div><div class="label"><span lang="en">AI disposition lift</span><span lang="es">Mejora disposición IA</span></div></div>
+          <div class="metric"><div class="num alt-2">+25%</div><div class="label"><span lang="en">Tech confidence</span><span lang="es">Confianza tecnológica</span></div></div>
+          <div class="metric"><div class="num alt-3">UN</div><div class="label">COP29 · 2024</div></div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Context</span><span lang="es">Contexto</span></div>
+          <div class="block-content">
+            <p><span lang="en">Profes en Red was scaling, but a structural challenge remained: <strong>generic content cannot match the diversity of contexts that Latin American teachers operate in.</strong> A rural school in Bolivia, an inclusive classroom in Argentina, and an urban institute in Mexico need radically different lesson plans, even on the same topic. The team began exploring whether generative AI could deliver pedagogical hyper-personalization at scale, without losing the institutional framework's coherence.</span>
+            <span lang="es">Profes en Red estaba escalando, pero quedaba un reto estructural: <strong>el contenido genérico no puede igualar la diversidad de contextos en los que operan los docentes latinoamericanos.</strong> Una escuela rural en Bolivia, una sala inclusiva en Argentina y un instituto urbano en México necesitan planes de clase radicalmente distintos incluso sobre el mismo tema. El equipo empezó a explorar si la IA generativa podía entregar hiper-personalización pedagógica a escala, sin perder la coherencia del marco institucional.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">My role</span><span lang="es">Mi rol</span></div>
+          <div class="block-content">
+            <p><span lang="en">Co-creator. Led the <em>pedagogical architecture</em> and human-centered research that anchored the product. Worked with the technical team on <strong>RAG pipelines (Retrieval-Augmented Generation)</strong> to ground the assistant in Caserta's institutional documents, adult learning theory, and curated Latin American pedagogical sources. Defined success metrics and led the user research validating teacher disposition shifts.</span>
+            <span lang="es">Co-creador. Lideré la <em>arquitectura pedagógica</em> y el research centrado en el ser humano que anclaron el producto. Trabajé con el equipo técnico en <strong>pipelines RAG (Retrieval-Augmented Generation)</strong> para anclar el asistente en los documentos institucionales de Caserta, la teoría de aprendizaje adulto y fuentes pedagógicas latinoamericanas curadas. Definí métricas de éxito y conduje el research de usuario que validó los cambios de disposición docente.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">What Ayni-IA does</span><span lang="es">Qué hace Ayni-IA</span></div>
+          <ul class="case-list">
+            <li><strong><span lang="en">Hyper-personalized lesson planning.</span><span lang="es">Planificación hiper-personalizada.</span></strong> <span lang="en">A teacher describes their classroom context, learning goal, and constraints; Ayni produces a lesson plan grounded in Caserta's framework and adapted to that specific setting.</span><span lang="es">Un docente describe el contexto de su aula, el objetivo de aprendizaje y las restricciones; Ayni produce un plan de clase fundamentado en el marco Caserta y adaptado a ese entorno específico.</span></li>
+            <li><strong><span lang="en">Socio-emotional support.</span><span lang="es">Apoyo socioemocional.</span></strong> <span lang="en">Conversational space for teachers to process classroom challenges with evidence-based emotional regulation frameworks.</span><span lang="es">Espacio conversacional para que los docentes procesen desafíos de aula con marcos de regulación emocional basados en evidencia.</span></li>
+            <li><strong><span lang="en">Pedagogical innovation prompts.</span><span lang="es">Prompts de innovación pedagógica.</span></strong> <span lang="en">Surfaces methodologies (project-based learning, design thinking for kids, gamification) appropriate to the teacher's level and confidence.</span><span lang="es">Surface metodologías (aprendizaje por proyectos, design thinking para niños, gamificación) apropiadas al nivel y confianza del docente.</span></li>
+            <li><strong><span lang="en">Activity tracking.</span><span lang="es">Seguimiento de actividad.</span></strong> <span lang="en">Lightweight metrics on engagement patterns, recurring questions, and unmet needs feeding back into program design decisions.</span><span lang="es">Métricas ligeras sobre patrones de engagement, preguntas recurrentes y necesidades no cubiertas, que alimentan las decisiones de diseño del programa.</span></li>
+          </ul>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Outcome and recognition</span><span lang="es">Resultado y reconocimiento</span></div>
+          <div class="block-content">
+            <p><span lang="en">Across a sample of 200 teachers surveyed during the Profes en Red pilot integration, disposition toward AI in education shifted upward by ~20%, and confidence in adopting new technologies rose by ~25%. <strong>Ayni-IA was presented at the United Nations COP29 Climate Conference in 2024</strong>, framed as a case study of how AI can serve adult education in the Global South without displacing teachers or institutional frameworks.</span>
+            <span lang="es">En una muestra de 200 docentes encuestados durante la integración piloto con Profes en Red, la disposición hacia la IA en educación mejoró ~20% y la confianza para adoptar nuevas tecnologías subió ~25%. <strong>Ayni-IA fue presentado en la Conferencia COP29 de la ONU en 2024</strong>, planteado como un caso de estudio sobre cómo la IA puede servir a la educación adulta en el Sur Global sin desplazar a los docentes ni a los marcos institucionales.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">What I learned</span><span lang="es">Qué aprendí</span></div>
+          <div class="block-content">
+            <p><span lang="en"><strong>RAG is a pedagogical decision, not a technical one.</strong> The quality of an AI tutor depends almost entirely on what you ground it in. Choosing Caserta's framework + curated regional sources, instead of letting the model speak from general training data, was the move that made teachers trust it. <strong>Teachers don't want AI that replaces them; they want AI that gives them back time and confidence.</strong> The product worked because it sat next to the teacher, not in front of the student.</span>
+            <span lang="es"><strong>RAG es una decisión pedagógica, no técnica.</strong> La calidad de un tutor IA depende casi por completo de en qué lo anclas. Elegir el marco Caserta + fuentes regionales curadas, en lugar de dejar que el modelo hable desde su entrenamiento general, fue lo que hizo que los docentes confiaran en él. <strong>Los docentes no quieren IA que los reemplace; quieren IA que les devuelva tiempo y confianza.</strong> El producto funcionó porque se sentó al lado del docente, no frente al estudiante.</span></p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <!-- ============================================
+         CASE 3 · METHODOLOGICAL DIAGNOSTIC (LH-ANONYMIZED)
+         ============================================ -->
+    <article class="case reveal">
+      <div class="case-aside">
+        <div class="case-num">03</div>
+        <div class="case-tags">
+          <span class="case-tag">Construct Validity</span>
+          <span class="case-tag">Psychometrics</span>
+          <span class="case-tag">NPS</span>
+          <span class="case-tag">Diagnostic</span>
+        </div>
+        <div class="case-period">2026 · Fast-paced EdTech (B2B Spain)</div>
+      </div>
+
+      <div class="case-body">
+        <h3 class="case-title">
+          <span lang="en">Auditing the validity of the student voice</span>
+          <span lang="es">Auditando la validez de la voz del alumno</span>
+        </h3>
+        <p class="case-tagline">
+          <span lang="en">A methodological diagnostic of the post-session survey at a fast-paced B2B EdTech. Four validity threats identified, four corrections proposed, and a redesigned instrument architecture that turns student-voice data into a reliable decision tool.</span>
+          <span lang="es">Un diagnóstico metodológico de la encuesta post-sesión en una EdTech B2B fast-paced. Cuatro amenazas a la validez identificadas, cuatro correcciones propuestas, y una arquitectura de instrumento rediseñada que convierte la voz del alumno en una herramienta de decisión confiable.</span>
+        </p>
+
+        <div class="metrics-row">
+          <div class="metric"><div class="num">4</div><div class="label"><span lang="en">Validity threats identified</span><span lang="es">Amenazas de validez</span></div></div>
+          <div class="metric"><div class="num alt-1">3</div><div class="label"><span lang="en">Triangulation pillars</span><span lang="es">Pilares de triangulación</span></div></div>
+          <div class="metric"><div class="num alt-2">NPS</div><div class="label"><span lang="en">North-star standardized</span><span lang="es">North-star estandarizado</span></div></div>
+          <div class="metric"><div class="num alt-3">N</div><div class="label"><span lang="en">Verticals harmonized</span><span lang="es">Verticales armonizados</span></div></div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Context</span><span lang="es">Contexto</span></div>
+          <div class="block-content">
+            <p><span lang="en">In a fast-growing EdTech delivering live and recorded programs across multiple verticals, the post-session survey was the primary mechanism for capturing the student voice. The instrument had grown organically across teams, with items added over time and no central authority enforcing measurement integrity. <strong>The data was being used to make decisions about facilitators, programs, and content investment — but the instrument itself had never been audited for validity or reliability.</strong> As Head of Learning, I made this audit a P0 priority.</span>
+            <span lang="es">En una EdTech de alto crecimiento que entrega programas en vivo y grabados en múltiples verticales, la encuesta post-sesión era el mecanismo principal para capturar la voz del alumno. El instrumento había crecido orgánicamente entre equipos, con ítems añadidos en el tiempo y sin una autoridad central que velara por la integridad de la medición. <strong>Los datos se estaban usando para tomar decisiones sobre formadores, programas e inversión en contenido — pero el instrumento mismo nunca había sido auditado por validez ni confiabilidad.</strong> Como Head of Learning, prioricé esta auditoría como P0.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">My role</span><span lang="es">Mi rol</span></div>
+          <div class="block-content">
+            <p><span lang="en">Head of Learning. Led the diagnostic and redesign autonomously, applying psychometric principles from my training in social research methods and adult learning research. Output: a documented methodological analysis presented to leadership, with operationalized recommendations and a roadmap for instrument rollout.</span>
+            <span lang="es">Head of Learning. Conduje el diagnóstico y rediseño de forma autónoma, aplicando principios psicométricos de mi formación en métodos de investigación social e investigación en aprendizaje adulto. Output: un análisis metodológico documentado presentado a leadership, con recomendaciones operacionalizadas y una hoja de ruta para el rollout del instrumento.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">The four findings</span><span lang="es">Los cuatro hallazgos</span></div>
+          <div class="block-content">
+            <p style="margin-bottom: 8px;"><span lang="en">A systematic review of every item against validity and reliability criteria surfaced four distinct threats compromising the instrument's ability to capture what it claimed to measure.</span><span lang="es">Una revisión sistemática de cada ítem contra criterios de validez y confiabilidad reveló cuatro amenazas distintas que comprometían la capacidad del instrumento de capturar lo que decía medir.</span></p>
+          </div>
+
+          <div class="finding-grid">
+            <div class="finding-card">
+              <div class="finding-num">FINDING 01</div>
+              <h4><span lang="en">Order bias</span><span lang="es">Sesgo de orden</span></h4>
+              <p><span lang="en">Items appeared in a fixed sequence that primed respondents toward earlier topics. Late-position items received systematically lower engagement, distorting comparative metrics across constructs.</span><span lang="es">Los ítems aparecían en secuencia fija que cebaba a los respondentes hacia temas tempranos. Los ítems en posición tardía recibían engagement sistemáticamente menor, distorsionando las métricas comparativas entre constructos.</span></p>
+              <div class="impact"><span lang="en">Threat: scale comparability</span><span lang="es">Amenaza: comparabilidad de escala</span></div>
             </div>
-        </section>
-
-        <!-- Skills & Framework -->
-        <section id="impact">
-            <h2>Theoretical Framework</h2>
-            <div class="skills-grid">
-                <div class="skill-item">
-                    <div class="skill-icon">🧠</div>
-                    <strong>Cognitive Psychology</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🔄</div>
-                    <strong>Experiential Learning</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">👥</div>
-                    <strong>Social Learning</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🏗️</div>
-                    <strong>Constructivism</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💡</div>
-                    <strong>Multiple Intelligences</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💪</div>
-                    <strong>Self-Efficacy Theory</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎯</div>
-                    <strong>Motivation Theory</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🌱</div>
-                    <strong>Self-Determination</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">👨‍🎓</div>
-                    <strong>Andragogy</strong>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">✊</div>
-                    <strong>Critical Pedagogy</strong>
-                </div>
+            <div class="finding-card">
+              <div class="finding-num">FINDING 02</div>
+              <h4><span lang="en">Double negation</span><span lang="es">Doble negación</span></h4>
+              <p><span lang="en">Several items contained negatively-worded statements paired with agreement scales, producing cognitive load that introduced response noise. Respondents agreed with statements that contradicted their actual intent.</span><span lang="es">Varios ítems contenían formulaciones negadas en combinación con escalas de acuerdo, produciendo carga cognitiva que introducía ruido. Los respondentes acordaban con afirmaciones que contradecían su intención real.</span></p>
+              <div class="impact"><span lang="en">Threat: response validity</span><span lang="es">Amenaza: validez de respuesta</span></div>
             </div>
-        </section>
-
-        <!-- Publications -->
-        <section id="publications">
-            <h2>Publications & Media</h2>
-            <div class="cards">
-                <div class="card">
-                    <h3>Book Publication (2021)</h3>
-                    <p><strong>"Education for the 21st Century"</strong></p>
-                    <a href="https://drive.google.com/file/d/1nslipccixl6wIWKWbaiZpNCUiFtaaZGx/view" class="btn" target="_blank">Read Book</a>
-                </div>
-                <div class="card">
-                    <h3>COEDU22 UNESCO Conference</h3>
-                    <p>Socio-Emotional Learning Panel presentation on teacher self-efficacy</p>
-                    <a href="https://www.youtube.com/watch?v=pJoHfEhnP64" class="btn btn-secondary" target="_blank">Watch Presentation</a>
-                </div>
-                <div class="card">
-                    <h3>Media Interview</h3>
-                    <p>BioBio TV: Benefits of Boredom in Children</p>
-                    <a href="https://www.biobiochile.cl/biobiotv/programas/la-vida-misma/2019/07/30/beneficios-del-aburrimiento-en-los-ninos.shtml" class="btn btn-secondary" target="_blank">Watch Interview</a>
-                </div>
+            <div class="finding-card">
+              <div class="finding-num">FINDING 03</div>
+              <h4><span lang="en">Scale asymmetry</span><span lang="es">Asimetría de escalas</span></h4>
+              <p><span lang="en">Different items used different response scales (1-5, 1-7, 1-10) within the same survey. Averaging across them as if they were comparable produced misleading composite scores.</span><span lang="es">Distintos ítems usaban distintas escalas (1-5, 1-7, 1-10) dentro de la misma encuesta. Promediar a través de ellos como si fueran comparables producía puntajes compuestos engañosos.</span></p>
+              <div class="impact"><span lang="en">Threat: aggregation integrity</span><span lang="es">Amenaza: integridad de agregación</span></div>
             </div>
-        </section>
-
-        <!-- Contact -->
-        <section id="contact">
-            <div class="contact-box">
-                <h2>Let's Connect</h2>
-                <p style="font-size: 1.1rem; margin: 1.5rem 0; opacity: 0.9;">Interested in collaboration or want to discuss how psychological science and EdTech innovation can transform digital education?</p>
-                
-                <div class="contact-links">
-                    <div class="contact-item">
-                        📧 <a href="mailto:nicolas.fh.psy@gmail.com">nicolas.fh.psy@gmail.com</a>
-                    </div>
-                    <div class="contact-item">
-                        💼 <a href="https://www.linkedin.com/in/nicolas-fernandez-phd-c-a6596171/" target="_blank">LinkedIn Profile</a>
-                    </div>
-                </div>
+            <div class="finding-card">
+              <div class="finding-num">FINDING 04</div>
+              <h4><span lang="en">Construct validity</span><span lang="es">Validez de constructo</span></h4>
+              <p><span lang="en">Items intended to measure distinct constructs (facilitator quality, content relevance, perceived learning) were operationally entangled — a single item conflated multiple dimensions, making it impossible to attribute variance to a specific source.</span><span lang="es">Ítems pensados para medir constructos distintos (calidad del formador, relevancia del contenido, aprendizaje percibido) estaban operacionalmente entrelazados — un solo ítem confundía múltiples dimensiones, haciendo imposible atribuir varianza a una fuente específica.</span></p>
+              <div class="impact"><span lang="en">Threat: causal interpretation</span><span lang="es">Amenaza: interpretación causal</span></div>
             </div>
-        </section>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">The redesign — triangulation architecture</span><span lang="es">El rediseño — arquitectura de triangulación</span></div>
+          <div class="block-content">
+            <p><span lang="en">Rather than patching items one by one, I proposed a structural redesign anchored in <em>triangulation across three independent signals</em>: a standardized north-star metric (NPS), construct-specific items grouped in coherent blocks, and open-ended qualitative comments analyzed thematically. Each signal compensates the weaknesses of the others.</span>
+            <span lang="es">En lugar de parchar ítems uno por uno, propuse un rediseño estructural anclado en <em>triangulación de tres señales independientes</em>: una métrica north-star estandarizada (NPS), ítems específicos por constructo agrupados en bloques coherentes, y comentarios abiertos cualitativos analizados temáticamente. Cada señal compensa las debilidades de las otras.</span></p>
+          </div>
+
+          <div class="two-col">
+            <div class="two-col-item warn">
+              <h4><span lang="en">Before</span><span lang="es">Antes</span></h4>
+              <p><span lang="en">A single instrument with mixed scales, ambiguous items, fixed item order, and overlapping constructs. Composite scores treated as definitive. Decisions made on questionable data.</span><span lang="es">Un instrumento único con escalas mixtas, ítems ambiguos, orden fijo y constructos solapados. Puntajes compuestos tratados como definitivos. Decisiones basadas en datos cuestionables.</span></p>
+            </div>
+            <div class="two-col-item good">
+              <h4><span lang="en">After</span><span lang="es">Después</span></h4>
+              <p><span lang="en">Three-pillar triangulation: standardized NPS as north-star, construct-grouped Likert blocks with unified scale, and open-ended comments. Each signal validates the others. Decisions made on convergent evidence.</span><span lang="es">Triangulación de tres pilares: NPS estandarizado como north-star, bloques Likert agrupados por constructo con escala unificada, y comentarios abiertos. Cada señal valida las otras. Decisiones basadas en evidencia convergente.</span></p>
+            </div>
+          </div>
+
+          <div class="artifact">
+            <div class="artifact-label">[IMAGE 9]</div>
+            <div class="artifact-desc">Triangulation architecture diagram — NPS + construct blocks + qualitative comments converging into one decision layer.</div>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Outcome</span><span lang="es">Resultado</span></div>
+          <div class="block-content">
+            <p><span lang="en">The methodological diagnostic and redesign proposal was approved at leadership level and is rolling out across active verticals. For the first time, the organization has a measurement system whose claims it can defend. The new architecture informs decisions on program iteration, facilitator development, and content investment — and, critically, makes <em>cross-vertical comparisons defensible</em> for the first time.</span>
+            <span lang="es">El diagnóstico metodológico y la propuesta de rediseño fueron aprobados a nivel leadership y están en rollout en las verticales activas. Por primera vez, la organización tiene un sistema de medición cuyas afirmaciones puede defender. La nueva arquitectura informa decisiones sobre iteración de programas, desarrollo de formadores e inversión en contenido — y, críticamente, hace <em>las comparaciones cross-vertical defendibles</em> por primera vez.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">What I learned</span><span lang="es">Qué aprendí</span></div>
+          <div class="block-content">
+            <p><span lang="en"><strong>Data governance is a learning-design problem disguised as an ops problem.</strong> If you don't agree on what learning is, you can't agree on how to measure it, and you can't make institutional decisions about it. Centralizing the conversation at the construct-definition layer — not at the dashboard layer — was the move that unlocked alignment. <strong>NPS is necessary but not sufficient.</strong> It's a coordination metric across teams, but it cannot substitute construct-specific indicators that actually inform pedagogical iteration. <strong>Methodological rigor is a leadership skill.</strong> The Head of Learning who can name a validity threat changes how the whole organization treats its data.</span>
+            <span lang="es"><strong>La gobernanza de datos es un problema de diseño instruccional disfrazado de problema de ops.</strong> Si no acuerdan qué es el aprendizaje, no pueden acordar cómo medirlo, y no pueden tomar decisiones institucionales al respecto. Centralizar la conversación en la capa de definición de constructos — no en la del dashboard — fue lo que destrabó el alineamiento. <strong>NPS es necesario pero no suficiente.</strong> Es una métrica de coordinación entre equipos, pero no puede sustituir los indicadores específicos de constructo que realmente informan la iteración pedagógica. <strong>El rigor metodológico es una habilidad de liderazgo.</strong> El Head of Learning que puede nombrar una amenaza de validez cambia cómo toda la organización trata sus datos.</span></p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <!-- ============================================
+         CASE 4 · PATH TO MASTERY
+         ============================================ -->
+    <article class="case reveal">
+      <div class="case-aside">
+        <div class="case-num">04</div>
+        <div class="case-tags">
+          <span class="case-tag">Talent System</span>
+          <span class="case-tag">Coaching</span>
+          <span class="case-tag">Train-the-Trainer</span>
+          <span class="case-tag">5 yrs</span>
+        </div>
+        <div class="case-period">2020 — 2025 · Fundación Caserta</div>
+      </div>
+
+      <div class="case-body">
+        <h3 class="case-title">
+          <span lang="en">Path to Mastery — building a facilitator pool from scratch</span>
+          <span lang="es">Path to Mastery — construir un pool de formadores desde cero</span>
+        </h3>
+        <p class="case-tagline">
+          <span lang="en">Five years architecting and running a talent system for facilitators at Fundación Caserta. From a 4-person internal team to a 12-person hybrid pool sustaining 10 consecutive iterations of Profes en Red and adjacent programs.</span>
+          <span lang="es">Cinco años diseñando y operando un sistema de talento para formadores en Fundación Caserta. De un equipo interno de 4 personas a un pool híbrido de 12 que sostuvo 10 iteraciones consecutivas de Profes en Red y programas adyacentes.</span>
+        </p>
+
+        <div class="metrics-row">
+          <div class="metric"><div class="num">4 → 12</div><div class="label"><span lang="en">Pool growth (5 yrs)</span><span lang="es">Crecimiento del pool (5 a)</span></div></div>
+          <div class="metric"><div class="num alt-1">30+</div><div class="label"><span lang="en">Candidates evaluated</span><span lang="es">Candidatos evaluados</span></div></div>
+          <div class="metric"><div class="num alt-2">2 wks</div><div class="label"><span lang="en">Onboarding to delivery</span><span lang="es">Onboarding a delivery</span></div></div>
+          <div class="metric"><div class="num alt-3">4</div><div class="label"><span lang="en">Core retained 5 yrs</span><span lang="es">Núcleo retenido 5 a</span></div></div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Context</span><span lang="es">Contexto</span></div>
+          <div class="block-content">
+            <p><span lang="en">Quality of an adult learning program is bounded by the quality of its facilitators. Profes en Red was scaling internationally, and the existing 4-person internal team could not sustain delivery as cohort sizes grew and programs branched. The challenge was to build a hybrid pool — mixing internal and external facilitators — without sacrificing pedagogical consistency, without losing the Caserta framework's depth, and with rotation managed gracefully.</span>
+            <span lang="es">La calidad de un programa de aprendizaje adulto está acotada por la calidad de sus formadores. Profes en Red escalaba internacionalmente y el equipo interno de 4 personas no podía sostener el delivery a medida que crecían las cohortes y se ramificaban los programas. El reto fue construir un pool híbrido — mezclando formadores internos y externos — sin sacrificar consistencia pedagógica, sin perder la profundidad del marco Caserta, y gestionando la rotación con gracia.</span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">The system I designed</span><span lang="es">El sistema que diseñé</span></div>
+          <ul class="case-list">
+            <li><strong><span lang="en">Facilitator profile and competency framework.</span><span lang="es">Perfil del formador y marco de competencias.</span></strong> <span lang="en">Built from scratch: a profile linking pedagogical, communicational, and technological competencies to concrete functions facilitators had to perform within Caserta's institutional framework.</span><span lang="es">Construido desde cero: un perfil ligando competencias pedagógicas, comunicacionales y tecnológicas a funciones concretas que los formadores debían ejecutar dentro del marco institucional Caserta.</span></li>
+            <li><strong><span lang="en">Multi-source evaluation.</span><span lang="es">Evaluación multi-fuente.</span></strong> <span lang="en">Internal rubric assessing facilitator performance against the competency framework. Cross-validated with student evaluations from the forms I designed, administered, analyzed, and reported to the board.</span><span lang="es">Rúbrica interna evaluando el desempeño contra el marco de competencias. Cruzada con evaluaciones de estudiantes provenientes de los formularios que yo diseñaba, administraba, analizaba y reportaba al directorio.</span></li>
+            <li><strong><span lang="en">Structured coaching cadence.</span><span lang="es">Cadencia estructurada de coaching.</span></strong> <span lang="en">Minimum two one-on-one coaching sessions per semester per facilitator, scaling to weekly during onboarding or remediation. Sessions personalized using <em>communicator-type profiling (Enneagram-based)</em> to surface and develop each facilitator's natural delivery strengths.</span><span lang="es">Mínimo dos sesiones de coaching uno a uno por semestre por formador, escalando a semanales durante onboarding o nivelación. Sesiones personalizadas usando <em>profiling de tipo comunicador (basado en Eneagrama)</em> para identificar y desarrollar las fortalezas naturales de delivery de cada formador.</span></li>
+            <li><strong><span lang="en">Weekly coordination + workshop block.</span><span lang="es">Bloque semanal de coordinación + workshop.</span></strong> <span lang="en">Long weekly meeting structured to include a dedicated workshop space: internal capacitation on the institutional method, recurring reviews of andragogy principles applied to each facilitator's role, and case clinics on real classroom situations.</span><span lang="es">Reunión semanal larga estructurada para incluir un espacio dedicado de workshop: capacitación interna sobre el método institucional, revisiones recurrentes de principios de andragogía aplicados al rol específico, y case clinics sobre situaciones reales de aula.</span></li>
+            <li><strong><span lang="en">Two-week onboarding standard.</span><span lang="es">Estándar de onboarding de dos semanas.</span></strong> <span lang="en">From contract signing to first live session: two weeks. Framework immersion, shadowing, rubric self-assessment, first supervised delivery.</span><span lang="es">Desde la firma de contrato hasta la primera sesión en vivo: dos semanas. Inmersión al marco, shadowing, autoevaluación con rúbrica, primer delivery supervisado.</span></li>
+            <li><strong><span lang="en">Always-on recruitment channel.</span><span lang="es">Canal de reclutamiento siempre abierto.</span></strong> <span lang="en">Over 30 candidates interviewed during my tenure for various program needs, allowing rapid scale-up when new program launches required it.</span><span lang="es">Más de 30 candidatos entrevistados durante mi gestión para distintas necesidades de programa, permitiendo escalar rápido cuando un lanzamiento lo requería.</span></li>
+          </ul>
+
+          <div class="artifact-grid">
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 10]</div>
+              <div class="artifact-desc">Competency matrix — pedagogical / communicational / technological dimensions × functional facilitator roles.</div>
+            </div>
+            <div class="artifact">
+              <div class="artifact-label">[IMAGE 11]</div>
+              <div class="artifact-desc">Path to Mastery timeline — onboarding (2 wks) → weekly coaching → workshop → quarterly evaluation → progression.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">A talent story</span><span lang="es">Una historia de talento</span></div>
+          <div class="block-content">
+            <p><span lang="en">One external facilitator joined the pool with strong pedagogical skills but, during the evaluation rounds, also showed an unusual combination of organizational rigor and analytical clarity. Rather than slot them into a teaching-only role, we redirected the path: they were promoted to <strong>Project Manager</strong> for the program, running daily template review and material coordination during implementation. <strong>The system was designed to detect this; the facilitator pool worked as a talent funnel for adjacent roles, not just as a teaching bench.</strong></span>
+            <span lang="es">Un formador externo se incorporó al pool con fuertes habilidades pedagógicas pero, durante las rondas de evaluación, mostró además una combinación inusual de rigor organizacional y claridad analítica. En lugar de encajarlo en un rol solo de docencia, redirigimos el camino: fue promovido a <strong>Project Manager</strong> del programa, liderando la revisión diaria de plantillas y la coordinación de material durante la implementación. <strong>El sistema fue diseñado para detectar esto; el pool funcionó como funnel de talento para roles adyacentes, no solo como banca de docencia.</strong></span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">Outcome</span><span lang="es">Resultado</span></div>
+          <div class="block-content">
+            <p><span lang="en">The pool grew from 4 internal facilitators in year one to 12 hybrid facilitators by year five, several of whom worked across multiple Caserta programs. Four facilitators stayed for the entire five-year period, forming the pedagogical core. Rotation was real (~8 transitions over five years) but never destabilized delivery thanks to the always-on recruitment channel and the two-week onboarding standard. <strong>The system sustained 10 consecutive iterations of Profes en Red and enabled parallel program launches that would have been impossible with the original 4-person team.</strong></span>
+            <span lang="es">El pool creció de 4 formadores internos en el año uno a 12 formadores híbridos en el año cinco, varios de ellos trabajando en múltiples programas Caserta. Cuatro formadores permanecieron durante todo el período, formando el núcleo pedagógico. La rotación fue real (~8 transiciones en cinco años) pero nunca desestabilizó el delivery gracias al canal de reclutamiento siempre abierto y al estándar de onboarding de dos semanas. <strong>El sistema sostuvo 10 iteraciones consecutivas de Profes en Red y permitió lanzamientos paralelos que con el equipo original de 4 hubieran sido imposibles.</strong></span></p>
+          </div>
+        </div>
+
+        <div class="case-block">
+          <div class="block-label"><span lang="en">What I learned</span><span lang="es">Qué aprendí</span></div>
+          <div class="block-content">
+            <p><span lang="en"><strong>A facilitator pool is a system, not a list.</strong> Quality at scale comes from the connective tissue — rubric, coaching, weekly ritual — not from individual hires. <strong>Personalize the development, not the standards.</strong> The Enneagram-based communicator profiling let me adapt the coaching for each person while keeping the institutional bar constant. <strong>Recruitment never stops.</strong> A 30-candidate-deep pipeline is not paranoia; it's what lets you say yes to new programs without lowering the quality of existing ones.</span>
+            <span lang="es"><strong>Un pool de formadores es un sistema, no una lista.</strong> La calidad a escala viene del tejido conectivo — rúbrica, coaching, ritual semanal — no de las contrataciones individuales. <strong>Personaliza el desarrollo, no los estándares.</strong> El profiling de comunicador basado en Eneagrama me permitió adaptar el coaching a cada persona manteniendo la vara institucional constante. <strong>El reclutamiento nunca para.</strong> Un pipeline de 30 candidatos no es paranoia; es lo que te permite decir sí a nuevos programas sin bajar la calidad de los existentes.</span></p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<!-- ============================================
+     RESEARCH & PUBLICATIONS
+     ============================================ -->
+<section id="research">
+  <div class="section-inner">
+    <div class="section-head">
+      <div><div class="section-num">— 02 / Research & Publications</div></div>
+      <h2 class="section-title">
+        <span lang="en">Where the <em>thinking</em> lives.</span>
+        <span lang="es">Donde vive el <em>pensamiento</em>.</span>
+      </h2>
     </div>
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2025 Nicolas Fernandez. All rights reserved.</p>
-        <p style="margin-top: 0.5rem;">EdTech & AI Specialist | Learning Designer | Researcher</p>
-    </footer>
+    <div class="research-grid">
+      <div class="research-card">
+        <div class="research-type">PhD · In Progress</div>
+        <h3 class="research-title">
+          <span lang="en">A Standardized Instrument for Teacher AI Self-Efficacy in Hispanic America</span>
+          <span lang="es">Instrumento Estandarizado de Autoeficacia Docente en IA para Hispanoamérica</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Doctoral research at Universidad de Sevilla building a validated measurement instrument anchored in DigCompEdu, calibrated for the Hispanic American teacher population. Goal: enable cross-country comparison of teacher readiness and inform AI-in-education policy.</span>
+          <span lang="es">Investigación doctoral en la Universidad de Sevilla construyendo un instrumento de medición validado, anclado en DigCompEdu y calibrado para la población docente hispanoamericana. Objetivo: habilitar comparación cross-country de readiness docente e informar política pública de IA en educación.</span>
+        </p>
+        <a href="#" class="research-link"><span lang="en">In development</span><span lang="es">En desarrollo</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type"><span lang="en">Book · 2021</span><span lang="es">Libro · 2021</span></div>
+        <h3 class="research-title">Education for the 21st Century</h3>
+        <p class="research-desc">
+          <span lang="en">A book on the future of education through the lens of socio-emotional learning, sustainability, and digital pedagogy. Foundation for the curricular architecture of Profes en Red.</span>
+          <span lang="es">Un libro sobre el futuro de la educación a través de la lente del aprendizaje socioemocional, la sostenibilidad y la pedagogía digital. Base de la arquitectura curricular de Profes en Red.</span>
+        </p>
+        <a href="[BOOK_LINK]" class="research-link"><span lang="en">Read</span><span lang="es">Leer</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type">UN COP29 · 2024</div>
+        <h3 class="research-title">
+          <span lang="en">Ayni-IA at the Climate Conference</span>
+          <span lang="es">Ayni-IA en la Conferencia Climática</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Invited presentation framing Ayni-IA as a case study of AI serving adult education in the Global South. Co-creator and pedagogical architect.</span>
+          <span lang="es">Presentación invitada planteando Ayni-IA como caso de estudio de IA al servicio de la educación adulta en el Sur Global. Co-creador y arquitecto pedagógico.</span>
+        </p>
+        <a href="https://www.youtube.com/watch?v=A-bOKz4ybTg&t=12902s" target="_blank" rel="noopener" class="research-link"><span lang="en">Watch</span><span lang="es">Ver</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type">UNESCO · COEDUXII</div>
+        <h3 class="research-title">
+          <span lang="en">Socio-Emotional Learning Panel</span>
+          <span lang="es">Panel de Aprendizaje Socioemocional</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Co-designed and led the UNESCO-backed COEDUXII conference (3 editions), including Observatory Roundtables convening regional education leaders. Presented on teacher self-efficacy and the new pedagogical paradigm.</span>
+          <span lang="es">Co-diseñé y lideré la conferencia COEDUXII respaldada por UNESCO (3 ediciones), incluyendo las Mesas del Observatorio convocando líderes educativos regionales. Presenté sobre autoeficacia docente y el nuevo paradigma pedagógico.</span>
+        </p>
+        <a href="[COEDU_LINK]" class="research-link"><span lang="en">Watch</span><span lang="es">Ver</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type"><span lang="en">Research</span><span lang="es">Investigación</span></div>
+        <h3 class="research-title">
+          <span lang="en">Self-Determination Theory in Gamified Environments</span>
+          <span lang="es">Teoría de Autodeterminación en Entornos Gamificados</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Applied SDT survey to 500+ Chilean gamers to understand the psychological underpinnings of engagement in digital environments. Methodological foundation for later gamification work in adult learning.</span>
+          <span lang="es">Aplicación de encuesta basada en SDT a 500+ gamers chilenos para entender las bases psicológicas del engagement en entornos digitales. Fundamento metodológico para trabajo posterior en gamificación de aprendizaje adulto.</span>
+        </p>
+        <a href="[RESEARCH_LINK]" class="research-link"><span lang="en">View paper</span><span lang="es">Ver paper</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type">Media · BioBio TV</div>
+        <h3 class="research-title">
+          <span lang="en">The Benefits of Boredom in Children</span>
+          <span lang="es">Los beneficios del aburrimiento en niños</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Television interview translating psychological research on attention, creativity, and child development for general audiences.</span>
+          <span lang="es">Entrevista televisiva traduciendo investigación psicológica sobre atención, creatividad y desarrollo infantil para audiencias generales.</span>
+        </p>
+        <a href="[INTERVIEW_LINK]" class="research-link"><span lang="en">Watch</span><span lang="es">Ver</span></a>
+      </div>
+
+      <div class="research-card">
+        <div class="research-type"><span lang="en">Freelance · Hotmart</span><span lang="es">Freelance · Hotmart</span></div>
+        <h3 class="research-title">
+          <span lang="en">Evidence-Based Pediatric Food Allergy Course</span>
+          <span lang="es">Curso de Alergia Alimentaria Pediátrica</span>
+        </h3>
+        <p class="research-desc">
+          <span lang="en">Instructional design partnership with a pediatrician SME. Translated clinical evidence into a structured, actionable course for healthcare professionals on Hotmart. Demonstrates ID applied beyond institutional contexts — working directly with a technical SME in healthcare.</span>
+          <span lang="es">Diseño instruccional en colaboración con una pediatra como SME. Traducción de evidencia clínica en un curso estructurado y accionable para profesionales de la salud en Hotmart. Demuestra ID aplicado más allá de contextos institucionales — trabajo directo con SME técnica en salud.</span>
+        </p>
+        <a href="https://hotmart.com/es/marketplace/productos/curso-practico-de-alergia-alimentaria-en-pediatria-basado-en-evidencia/L103541919V" target="_blank" rel="noopener" class="research-link"><span lang="en">View on Hotmart</span><span lang="es">Ver en Hotmart</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     ABOUT
+     ============================================ -->
+<section id="about">
+  <div class="section-inner">
+    <div class="section-head">
+      <div><div class="section-num">— 03 / About</div></div>
+      <h2 class="section-title">
+        <span lang="en">Psychologist by training. <em>Learning systems</em> architect by practice.</span>
+        <span lang="es">Psicólogo de formación. Arquitecto de <em>sistemas de aprendizaje</em> por práctica.</span>
+      </h2>
+    </div>
+
+    <div class="about-wrap">
+      <div class="about-prose">
+        <p><span lang="en">I've spent ten years at the intersection of psychology, adult learning, and educational technology. My work has taken me from <em>research labs</em> to scaling programs across eleven Latin American countries, from co-creating AI assistants for teachers to formalizing pedagogical methods for fast-paced EdTech.</span>
+        <span lang="es">He pasado diez años en la intersección de la psicología, el aprendizaje adulto y la tecnología educativa. Mi trabajo me ha llevado desde los <em>laboratorios de investigación</em> hasta escalar programas en once países latinoamericanos, desde co-crear asistentes de IA para docentes hasta formalizar métodos pedagógicos en EdTechs fast-paced.</span></p>
+
+        <p><span lang="en">What unifies these projects is a single conviction: <em>adults learn when systems are designed with the same rigor as the content they carry.</em> Not the content alone. Not the platform alone. The system.</span>
+        <span lang="es">Lo que unifica estos proyectos es una sola convicción: <em>los adultos aprenden cuando los sistemas se diseñan con el mismo rigor que el contenido que transportan.</em> No solo el contenido. No solo la plataforma. El sistema.</span></p>
+
+        <p><span lang="en">I'm currently Head of Learning at Learning Heroes and a PhD candidate at Universidad de Sevilla researching teacher AI self-efficacy. <strong>Open to senior roles where AI and learning design meet.</strong></span>
+        <span lang="es">Actualmente soy Head of Learning en Learning Heroes y candidato doctoral en la Universidad de Sevilla investigando autoeficacia docente en IA. <strong>Abierto a roles senior donde se cruzan IA y diseño instruccional.</strong></span></p>
+      </div>
+
+      <div class="about-side">
+        <div class="about-card">
+          <h4><span lang="en">Education</span><span lang="es">Formación</span></h4>
+          <ul>
+            <li class="headline">PhD(c) EdTech, U. de Sevilla <span class="year">2024–</span></li>
+            <li>MSc Social Research Methods, UDP <span class="year">2022</span></li>
+            <li>Clinical Psychology Cert., U. de Chile <span class="year">2015</span></li>
+            <li>Coaching Cert., PUC Chile <span class="year">2014</span></li>
+            <li>BSc Psychology, UDP <span class="year">2013</span></li>
+          </ul>
+        </div>
+
+        <div class="about-card">
+          <h4><span lang="en">Selected experience</span><span lang="es">Experiencia seleccionada</span></h4>
+          <ul>
+            <li class="headline">Head of Learning · Learning Heroes <span class="year">2025–</span></li>
+            <li>AI Data Trainer · Invisible Tech (US, remote) <span class="year">2024–</span></li>
+            <li>Director · Filantropia Cortés Solari <span class="year">2020–2025</span></li>
+            <li>Senior Researcher · F. Caserta <span class="year">2018–2020</span></li>
+          </ul>
+        </div>
+
+        <div class="about-card">
+          <h4><span lang="en">Languages & stack</span><span lang="es">Idiomas y stack</span></h4>
+          <ul>
+            <li>Spanish (native) · English C1 (IELTS)</li>
+            <li>ADDIE · SAM · Adult Learning Theory</li>
+            <li>LLM training · RAG · prompt engineering</li>
+            <li>SPSS · R · mixed methods · longitudinal</li>
+            <li>Articulate · Rise · Captivate · Vyond · Heygen</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     CONTACT
+     ============================================ -->
+<section id="contact" class="contact">
+  <div class="contact-inner">
+    <div class="section-num">— 04 / Contact</div>
+
+    <h2 class="contact-title">
+      <span lang="en">Let's build something that <em>actually</em> teaches.</span>
+      <span lang="es">Construyamos algo que <em>realmente</em> enseñe.</span>
+    </h2>
+
+    <div class="contact-links">
+      <div class="contact-link-item">
+        <div class="label">Email</div>
+        <a href="mailto:[EMAIL]">[EMAIL]</a>
+      </div>
+      <div class="contact-link-item">
+        <div class="label">LinkedIn</div>
+        <a href="[LINKEDIN_URL]">linkedin.com/in/[handle]</a>
+      </div>
+      <div class="contact-link-item">
+        <div class="label"><span lang="en">Location</span><span lang="es">Ubicación</span></div>
+        <a>[CITY], Spain</a>
+      </div>
+      <div class="contact-link-item">
+        <div class="label">GitHub</div>
+        <a href="[GITHUB_URL]">github.com/[handle]</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     FOOTER
+     ============================================ -->
+<footer class="footer">
+  <div>© 2026 [NAME] · <span lang="en">All rights reserved</span><span lang="es">Todos los derechos reservados</span></div>
+  <div><span lang="en">Designed and built with care</span><span lang="es">Diseñado y construido con cuidado</span></div>
+</footer>
+
+<script>
+function toggleLang() {
+  const html = document.documentElement;
+  const current = html.getAttribute('data-lang');
+  const next = current === 'en' ? 'es' : 'en';
+  html.setAttribute('data-lang', next);
+  html.setAttribute('lang', next);
+  document.querySelector('.lang-en').style.display = next === 'en' ? 'inline' : 'none';
+  document.querySelector('.lang-es').style.display = next === 'es' ? 'inline' : 'none';
+  localStorage.setItem('lang', next);
+}
+
+const savedLang = localStorage.getItem('lang');
+if (savedLang) {
+  document.documentElement.setAttribute('data-lang', savedLang);
+  document.documentElement.setAttribute('lang', savedLang);
+  document.querySelector('.lang-en').style.display = savedLang === 'en' ? 'inline' : 'none';
+  document.querySelector('.lang-es').style.display = savedLang === 'es' ? 'inline' : 'none';
+}
+
+const reveals = document.querySelectorAll('.reveal');
+const io = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('in');
+      io.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.08, rootMargin: '0px 0px -80px 0px' });
+reveals.forEach(el => io.observe(el));
+</script>
+
 </body>
 </html>
